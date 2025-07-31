@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jobs>
+
+  <job>
+    <!-- unique permanent ID -->
+    <id><![CDATA[STF-241796]]></id>
+
+    <!-- headline shown in CareerJet results -->
+    <title><![CDATA[Chiropractic Assistant – X-Ray Certified Preferred]]></title>
+
+    <!-- canonical job-detail page -->
+    <url><![CDATA[https://chiropracticheadhunters.com/washington-staff-241796]]></url>
+
+    <!-- location -->
+    <location>
+      <city><![CDATA[Vancouver]]></city>
+      <region><![CDATA[Washington]]></region>
+      <country><![CDATA[United States]]></country>
+    </location>
+
+    <!-- visible employer label -->
+    <company><![CDATA[Chiropractic Wellness Clinic – Vancouver]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+
+    <!-- full ad (HTML allowed) -->
+    <description><![CDATA[
+      Join a well-organized, patient-focused chiropractic office that values precision, teamwork,
+      and calm professionalism.<br><br>
+
+      <strong>Key responsibilities</strong><br>
+      • Schedule patients and manage EMR records<br>
+      • Assist with therapies and maintain therapeutic equipment<br>
+      • Verify insurance, handle front-desk intake, and keep daily clinic flow smooth<br>
+      • Support X-ray imaging if licensed<br><br>
+
+      <strong>Qualifications</strong><br>
+      • Active WA Chiropractic Assistant licence (or application in process)<br>
+      • X-Ray Technician licence preferred<br>
+      • Experience with EMR systems and patient-intake procedures<br><br>
+
+      <strong>Compensation</strong><br>
+      $20 – $30 per hour (≈ $40 000 – $60 000 yr) DOE &amp; licensure
+    ]]></description>
+
+    <contract_type><![CDATA[permanent]]></contract_type>
+    <working_hours><![CDATA[full-time]]></working_hours>
+    <salary><![CDATA[$20 – $30 per hour]]></salary>
+
+    <!-- applicants go straight to your form -->
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/staff1-form?job=STF-241796]]></apply_url>
+  </job>
+
+</jobs>
