@@ -5,27 +5,23 @@
        JOB 1 – Chiropractic Assistant
        ──────────────────────────── -->
   <job>
-    <!-- unique permanent ID -->
     <id><![CDATA[STF-241796]]></id>
-
-    <!-- headline shown in CareerJet results -->
     <title><![CDATA[Chiropractic Assistant – X-Ray Certified Preferred]]></title>
+    <dateposted>2025-08-06T10:00:00Z</dateposted>
+    <date>2025-08-06</date>
+    <listed_date>2025-08-06T10:00:00Z</listed_date>
 
-    <!-- canonical job-detail page -->
     <url><![CDATA[https://chiropracticheadhunters.com/washington-staff-241796]]></url>
 
-    <!-- location -->
     <location>
       <city><![CDATA[Vancouver]]></city>
       <region><![CDATA[Washington]]></region>
       <country><![CDATA[United States]]></country>
     </location>
 
-    <!-- visible employer label -->
     <company><![CDATA[Chiropractic Wellness Clinic – Vancouver]]></company>
     <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
 
-    <!-- full ad (HTML allowed) -->
     <description><![CDATA[
       Join a well-organized, patient-focused chiropractic office that values precision, teamwork,
       and calm professionalism.<br><br>
@@ -49,11 +45,8 @@
     <contract_type><![CDATA[permanent]]></contract_type>
     <working_hours><![CDATA[full-time]]></working_hours>
     <salary><![CDATA[$20 – $30 per hour]]></salary>
-
-    <!-- applicants go straight to your form -->
     <apply_url><![CDATA[https://chiropracticheadhunters.com/staff1-form?job=STF-241796]]></apply_url>
   </job>
-
 
   <!-- ────────────────────────────
        JOB 2 – Massage Therapist
@@ -61,6 +54,10 @@
   <job>
     <id><![CDATA[STF-924580]]></id>
     <title><![CDATA[Licensed Massage Therapist – Patient-Focused Wellness Clinic]]></title>
+    <dateposted>2025-08-09T10:00:00Z</dateposted>
+    <date>2025-08-09</date>
+    <listed_date>2025-08-09T10:00:00Z</listed_date>
+
     <url><![CDATA[https://chiropracticheadhunters.com/washington-staff-924580]]></url>
 
     <location>
@@ -100,13 +97,16 @@
     <apply_url><![CDATA[https://chiropracticheadhunters.com/staff1-form?job=STF-924580]]></apply_url>
   </job>
 
-
   <!-- ────────────────────────────
        JOB 3 – Associate Chiropractor (PA)
        ──────────────────────────── -->
   <job>
     <id><![CDATA[STF-472915]]></id>
     <title><![CDATA[Associate Chiropractor – High-Engagement Wellness Practice]]></title>
+    <dateposted>2025-08-14T10:00:00Z</dateposted>
+    <date>2025-08-14</date>
+    <listed_date>2025-08-14T10:00:00Z</listed_date>
+
     <url><![CDATA[https://chiropracticheadhunters.com/pachiropractor-472915]]></url>
 
     <location>
@@ -151,4 +151,3 @@
   </job>
 
 </jobs>
-
