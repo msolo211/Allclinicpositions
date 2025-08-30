@@ -90,7 +90,7 @@
   </job>
 
   <!-- ────────────────────────────
-       JOB 3 – Associate Chiropractor (PA)
+       JOB 3 – Associate Chiropractor (PA – Chadds Ford)
        ──────────────────────────── -->
   <job>
     <id><![CDATA[STF-472915]]></id>
@@ -130,6 +130,54 @@
       • Competitive base + performance incentives (realistic range $85K–$100K)<br>
       • Benefits: health insurance, malpractice coverage, CEU allowance, advancement tracks<br>
       • Modern facility near top schools, amenities, and outdoor recreation
+    ]]></description>
+
+    <contract_type><![CDATA[permanent]]></contract_type>
+    <working_hours><![CDATA[full-time]]></working_hours>
+    <salary><![CDATA[$85,000 – $100,000 per year + incentives]]></salary>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/xcomland2#7d4f23cc-ef1f-40f5-8aa3-ab3be232a08f]]></apply_url>
+  </job>
+
+  <!-- ────────────────────────────
+       JOB 4 – Associate Chiropractor (PA – Philadelphia)
+       ──────────────────────────── -->
+  <job>
+    <id><![CDATA[STF-638214]]></id>
+    <title><![CDATA[Associate Chiropractor – Wellness & Functional Neurology-Focused Clinic]]></title>
+    <url><![CDATA[https://chiropracticheadhunters.com/pachiropractor-638214]]></url>
+
+    <location>
+      <city><![CDATA[Philadelphia]]></city>
+      <region><![CDATA[Pennsylvania]]></region>
+      <country><![CDATA[United States]]></country>
+    </location>
+
+    <company><![CDATA[Chiropractic Wellness Clinic – Philadelphia, PA]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+
+    <description><![CDATA[
+      Our Philadelphia wellness clinic restores balance and optimizes the body’s ability to heal by combining
+      the art of chiropractic with the science of functional neurology. We address both structure and function to
+      help patients achieve pain relief and long-term vitality.<br><br>
+
+      <strong>Job Description</strong><br>
+      • Deliver individualized chiropractic adjustments as the foundation of care<br>
+      • Integrate functional neurology concepts to enhance outcomes<br>
+      • Educate and motivate patients toward lifestyle habits that support nervous system balance<br>
+      • Collaborate with other providers on comprehensive care plans<br>
+      • Document care thoroughly and contribute to case reviews<br><br>
+
+      <strong>Qualifications</strong><br>
+      • Doctor of Chiropractic (DC) with current (or pending) Pennsylvania license<br>
+      • Strong communication and patient education skills<br>
+      • Dedication to professional excellence and ethics<br>
+      • Functional neurology experience preferred—or strong willingness to learn<br>
+      • Enthusiasm for a wellness-centered model emphasizing prevention and recovery<br><br>
+
+      <strong>Other Information</strong><br>
+      • Compensation: Base + performance incentives (realistic range $85K–$100K)<br>
+      • Benefits: Health insurance, malpractice coverage, CEU allowance, advancement opportunities<br>
+      • Modern wellness facility with access to Philadelphia’s cultural amenities, dining, and nearby outdoor recreation
     ]]></description>
 
     <contract_type><![CDATA[permanent]]></contract_type>
