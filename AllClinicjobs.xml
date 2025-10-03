@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <source>
 
-  <!-- JOB 1 – Chiropractic Assistant (WA – Vancouver) -->
+   <!-- JOB 1 – Chiropractic Assistant (WA – Vancouver) -->
   <job>
     <referencenumber><![CDATA[STF-241796]]></referencenumber>
     <requisitionid><![CDATA[STF-241796]]></requisitionid>
@@ -13,42 +13,59 @@
     <apply_url><![CDATA[https://chiropracticheadhunters.com/staff1-form?job=STF-241796&state=WA]]></apply_url>
 
     <date><![CDATA[2025-09-23T12:00:00Z]]></date>
+
     <location>
       <city><![CDATA[Vancouver]]></city>
       <state><![CDATA[WA]]></state>
       <country><![CDATA[US]]></country>
       <postalcode><![CDATA[98660]]></postalcode>
     </location>
+
     <company><![CDATA[Chiropractic Wellness Clinic – Vancouver]]></company>
     <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[caxray.241796.unjustly734@passinbox.com]]></email>
     <jobtype><![CDATA[full-time]]></jobtype>
+
+    <!-- Salary (display) -->
     <salary><![CDATA[$20 – $30 per hour]]></salary>
+    <!-- Salary (structured for mapping) -->
+    <salary_min><![CDATA[20]]></salary_min>
+    <salary_max><![CDATA[30]]></salary_max>
+    <salary_unit><![CDATA[HOUR]]></salary_unit>
+    <salary_currency><![CDATA[USD]]></salary_currency>
 
+    <!-- VERBATIM match to the public page content -->
     <description><![CDATA[
-      <p>Join a well-organized, patient-focused chiropractic office that values precision, teamwork, and calm professionalism.</p>
+      <p>Join a well-organized, patient-focused chiropractic office in Washington State that values precision, teamwork, and calm professionalism. Our practice serves a diverse range of patients and offers a supportive environment where clinical excellence and compassionate service are top priorities.</p>
 
-      <strong>Key responsibilities</strong>
+      <strong>Job Description</strong>
       <ul>
-        <li>Schedule patients and manage EMR records</li>
-        <li>Assist with therapies and maintain therapeutic equipment</li>
-        <li>Verify insurance, handle front-desk intake, and keep daily clinic flow smooth</li>
-        <li>Support X-ray imaging if licensed</li>
+        <li>Schedule patients and manage electronic medical records.</li>
+        <li>Assist with therapies and maintain therapeutic equipment.</li>
+        <li>Verify insurance, handle front-desk intake, and keep daily clinic flow smooth.</li>
+        <li>Support X-ray imaging if licensed.</li>
       </ul>
 
       <strong>Qualifications</strong>
       <ul>
-        <li>Active WA Chiropractic Assistant license (or application in process)</li>
-        <li>X-Ray Technician license preferred</li>
-        <li>Experience with EMR systems and patient-intake procedures</li>
+        <li>Active Washington State Chiropractic Assistant license (required or applied for).</li>
+        <li>Chiropractic X-Ray Technician license (preferred).</li>
+        <li>Experience with EMR systems and patient-intake procedures.</li>
+        <li>Excellent interpersonal and communication skills; calm under pressure.</li>
+        <li>High level of accuracy, integrity, and confidentiality.</li>
       </ul>
 
-      <strong>Compensation</strong>
-      <p>$20 – $30 per hour (≈ $40,000–$60,000/yr) DOE & licensure</p>
+      <strong>Other Information</strong>
+      <ul>
+        <li>Full-time position with consistent hours.</li>
+        <li>Continuing education encouraged; supportive, team-based culture.</li>
+        <li><strong>Salary $20–$30 per hour</strong> (≈ $40,000–$60,000 / yr) depending on experience & licensure.</li>
+      </ul>
     ]]></description>
   </job>
 
-  <!-- JOB 2 – Licensed Massage Therapist (WA – Vancouver) -->
+
+   <!-- JOB 2 – Licensed Massage Therapist (WA – Vancouver) -->
   <job>
     <referencenumber><![CDATA[STF-924580]]></referencenumber>
     <requisitionid><![CDATA[STF-924580]]></requisitionid>
@@ -64,16 +81,25 @@
       <country><![CDATA[US]]></country>
       <postalcode><![CDATA[98660]]></postalcode>
     </location>
+
     <company><![CDATA[Chiropractic Wellness Clinic – Vancouver]]></company>
     <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[admin@ascvancouver.com]]></email>
-    <jobtype><![CDATA[both]]></jobtype>
-    <salary><![CDATA[$30 – $60 per hour]]></salary>
 
+    <jobtype><![CDATA[both]]></jobtype>
+
+    <!-- Salary: human-readable + structured fields for mapping -->
+    <salary><![CDATA[$30 – $60 per hour]]></salary>
+    <salary_min><![CDATA[30]]></salary_min>
+    <salary_max><![CDATA[60]]></salary_max>
+    <salary_unit><![CDATA[HOUR]]></salary_unit>
+    <salary_currency><![CDATA[USD]]></salary_currency>
+
+    <!-- DESCRIPTION: verbatim match to the public job page (headings + bullets) -->
     <description><![CDATA[
       <p>Our Washington-based chiropractic office blends clinical efficiency with holistic care.</p>
 
-      <strong>Role Summary</strong>
+      <strong>Job Description</strong>
       <ul>
         <li>Provide therapeutic massages prescribed by the DC</li>
         <li>Assist with therapy protocols and exercise setup</li>
@@ -93,14 +119,12 @@
         <li>Part-time or full-time schedules available</li>
         <li>Daytime plus occasional evening hours</li>
         <li>Strong office culture with clear communication & respect for work-life balance</li>
+        <li><strong>Salary $30–$60 per hour</strong> (≈ $60,000–$120,000/yr) depending on experience.</li>
       </ul>
-
-      <strong>Compensation</strong>
-      <p>$30 – $60 per hour (≈ $60,000–$120,000/yr) DOE</p>
     ]]></description>
   </job>
 
-  <!-- JOB 3 – Associate Chiropractor (PA – Chadds Ford) -->
+   <!-- JOB 3 – Associate Chiropractor (PA – Chadds Ford) -->
   <job>
     <referencenumber><![CDATA[STF-472915]]></referencenumber>
     <requisitionid><![CDATA[STF-472915]]></requisitionid>
@@ -110,49 +134,59 @@
     <apply_url><![CDATA[https://chiropracticheadhunters.com/xcomland2?job=STF-472915&state=PA]]></apply_url>
 
     <date><![CDATA[2025-09-23T12:00:00Z]]></date>
+
     <location>
       <city><![CDATA[Chadds Ford]]></city>
       <state><![CDATA[PA]]></state>
       <country><![CDATA[US]]></country>
       <postalcode><![CDATA[19317]]></postalcode>
     </location>
+
     <company><![CDATA[Chiropractic Wellness Clinic – Chadds Ford, PA]]></company>
     <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[drjoe@hopebraincenter.com]]></email>
-    <jobtype><![CDATA[full-time]]></jobtype>
-    <salary><![CDATA[$85,000 – $100,000 per year + incentives]]></salary>
 
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <!-- Salary tags for Indeed mapping -->
+    <salary><![CDATA[$85,000 – $100,000 per year + incentives]]></salary>
+    <salary_min><![CDATA[85000]]></salary_min>
+    <salary_max><![CDATA[100000]]></salary_max>
+    <salary_unit><![CDATA[YEAR]]></salary_unit>
+    <salary_currency><![CDATA[USD]]></salary_currency>
+
+    <!-- Description: exact match with HTML page -->
     <description><![CDATA[
-      <p>Our clinic thrives on strong patient relationships, consistent results, and a team environment. We integrate functional neurology principles alongside hands-on adjustments and complementary services to improve both structure and function.</p>
+      <p>Our clinic thrives on strong patient relationships, consistent results, and a team environment where every provider’s contribution matters. We integrate functional neurology principles alongside hands-on adjustments and complementary services to improve both structure and function.</p>
 
       <strong>Job Description</strong>
       <ul>
-        <li>Perform tailored chiropractic adjustments based on individual needs</li>
-        <li>Collaborate with other providers to enhance patient outcomes</li>
-        <li>Guide patients through care plans with clarity and empathy</li>
-        <li>Track progress and adapt strategies to ensure optimal results</li>
-        <li>Maintain professional, timely, accurate documentation</li>
+        <li>Perform tailored chiropractic adjustments based on individual needs.</li>
+        <li>Collaborate with other providers to enhance patient outcomes.</li>
+        <li>Guide patients through care plans with clarity and empathy.</li>
+        <li>Track progress and adapt strategies to ensure optimal results.</li>
+        <li>Maintain professional, timely, accurate documentation.</li>
       </ul>
 
       <strong>Qualifications</strong>
       <ul>
-        <li>Doctor of Chiropractic (DC) and current (or in-process) state license</li>
-        <li>Excellent communication and patient education skills</li>
-        <li>Strong ethics and commitment to a high standard of care</li>
-        <li>Ability to collaborate within a diverse healthcare team</li>
-        <li>Background in functional neurology is highly desirable (or strong interest to learn)</li>
+        <li>Doctor of Chiropractic (DC) and current (or in-process) state license.</li>
+        <li>Excellent communication and patient education skills.</li>
+        <li>Strong ethics and commitment to a high standard of care.</li>
+        <li>Ability to collaborate within a diverse healthcare team.</li>
+        <li>Background in functional neurology is highly desirable (or strong interest to learn).</li>
       </ul>
 
       <strong>Other Information</strong>
       <ul>
-        <li>Competitive base + performance incentives (realistic range $85K–$100K)</li>
-        <li>Benefits: health insurance, malpractice coverage, CEU allowance, advancement tracks</li>
-        <li>Modern facility near top schools, amenities, and outdoor recreation</li>
+        <li><strong>Compensation:</strong> Base + performance incentives (realistic range <strong>$85K–$100K</strong>).</li>
+        <li>Benefits: health insurance, malpractice coverage, CEU allowance, advancement tracks.</li>
+        <li>Modern facility near top schools, amenities, and outdoor recreation.</li>
       </ul>
     ]]></description>
   </job>
 
-  <!-- JOB 4 – Associate Chiropractor (PA – Philadelphia) -->
+   <!-- JOB 4 – Associate Chiropractor (PA – Philadelphia) -->
   <job>
     <referencenumber><![CDATA[STF-638214]]></referencenumber>
     <requisitionid><![CDATA[STF-638214]]></requisitionid>
@@ -168,43 +202,54 @@
       <country><![CDATA[US]]></country>
       <postalcode><![CDATA[19103]]></postalcode>
     </location>
+
     <company><![CDATA[Chiropractic Wellness Clinic – Philadelphia, PA]]></company>
     <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[pawellness.638214.handbrake961@passinbox.com]]></email>
     <jobtype><![CDATA[full-time]]></jobtype>
-    <salary><![CDATA[$85,000 – $100,000 per year + incentives]]></salary>
 
+    <!-- Salary (summary + structured detail) -->
+    <salary><![CDATA[$85,000 – $100,000 per year + incentives]]></salary>
+    <salary_detail>
+      <min><![CDATA[85000]]></min>
+      <max><![CDATA[100000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[Base + performance incentives]]></notes>
+    </salary_detail>
+
+    <!-- Description mirrors public HTML exactly -->
     <description><![CDATA[
       <p>Our Philadelphia wellness clinic restores balance and optimizes the body’s ability to heal by combining the art of chiropractic with the science of functional neurology. We address both structure and function to help patients achieve pain relief and long-term vitality.</p>
 
       <strong>Job Description</strong>
       <ul>
-        <li>Deliver individualized chiropractic adjustments as the foundation of care</li>
-        <li>Integrate functional neurology concepts to enhance outcomes</li>
-        <li>Educate and motivate patients toward lifestyle habits that support nervous system balance</li>
-        <li>Collaborate with other providers on comprehensive care plans</li>
-        <li>Document care thoroughly and contribute to case reviews</li>
+        <li>Deliver individualized chiropractic adjustments as the foundation of care.</li>
+        <li>Integrate functional neurology concepts to enhance outcomes.</li>
+        <li>Educate and motivate patients on lifestyle habits that support nervous system balance.</li>
+        <li>Collaborate with other providers on comprehensive care plans.</li>
+        <li>Document care thoroughly and contribute to case reviews.</li>
       </ul>
 
       <strong>Qualifications</strong>
       <ul>
-        <li>Doctor of Chiropractic (DC) with current (or pending) Pennsylvania license</li>
-        <li>Strong communication and patient education skills</li>
-        <li>Dedication to professional excellence and ethics</li>
-        <li>Functional neurology experience preferred—or strong willingness to learn</li>
-        <li>Enthusiasm for a wellness-centered model emphasizing prevention and recovery</li>
+        <li>Doctor of Chiropractic (DC) with current (or pending) Pennsylvania license.</li>
+        <li>Strong communication and patient education skills.</li>
+        <li>Dedication to professional excellence and ethics.</li>
+        <li>Functional neurology experience preferred—or strong willingness to learn.</li>
+        <li>Enthusiasm for a wellness-centered model emphasizing prevention and recovery.</li>
       </ul>
 
       <strong>Other Information</strong>
       <ul>
-        <li>Compensation: Base + performance incentives (realistic range $85K–$100K)</li>
-        <li>Benefits: Health insurance, malpractice coverage, CEU allowance, advancement opportunities</li>
-        <li>Modern wellness facility with access to Philadelphia’s cultural amenities, dining, and nearby outdoor recreation</li>
+        <li>Compensation: Base + performance incentives (realistic range $85K–$100K).</li>
+        <li>Benefits: Health insurance, malpractice coverage, CEU allowance, and advancement opportunities.</li>
+        <li>Modern wellness facility with access to Philadelphia’s cultural amenities, dining, and outdoor recreation.</li>
       </ul>
     ]]></description>
   </job>
 
-  <!-- JOB 5 – Chiropractic Clinic Staff Member (IL – Darien) -->
+    <!-- JOB 5 – Chiropractic Clinic Staff Member (IL – Darien) -->
   <job>
     <referencenumber><![CDATA[STF-583027]]></referencenumber>
     <requisitionid><![CDATA[STF-583027]]></requisitionid>
@@ -220,42 +265,54 @@
       <country><![CDATA[US]]></country>
       <postalcode><![CDATA[60561]]></postalcode>
     </location>
+
     <company><![CDATA[Chiropractic Clinic – Darien, IL]]></company>
     <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[blaneville@chicagolandnucca.com]]></email>
     <jobtype><![CDATA[full-time]]></jobtype>
-    <salary><![CDATA[$18 – $24 per hour]]></salary>
 
+    <!-- Salary (summary + structured detail) -->
+    <salary><![CDATA[$18 – $24 per hour]]></salary>
+    <salary_detail>
+      <min><![CDATA[18]]></min>
+      <max><![CDATA[24]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[HOUR]]></unit>
+      <notes><![CDATA[Hourly; plus bonus and incentives]]></notes>
+    </salary_detail>
+
+    <!-- Description mirrors public HTML exactly -->
     <description><![CDATA[
       <p>We are a patient-centered chiropractic clinic with a structured yet welcoming environment. Our culture values professionalism, accuracy, and teamwork while maintaining a friendly, flexible atmosphere.</p>
 
       <strong>Job Description</strong>
       <ul>
-        <li>Assist with scheduling and patient check-ins</li>
-        <li>Address billing questions and support front desk flow</li>
-        <li>Set up therapies and monitor supplies</li>
-        <li>Keep treatment rooms prepared and clean</li>
+        <li>Assist with scheduling and patient check-ins.</li>
+        <li>Address billing questions and support front desk flow.</li>
+        <li>Set up therapies and monitor supplies.</li>
+        <li>Keep treatment rooms prepared and clean.</li>
       </ul>
 
       <strong>Qualifications</strong>
       <ul>
-        <li>Strong communication skills</li>
-        <li>Organized, accurate, detail-oriented</li>
-        <li>Comfortable with EMR and office software</li>
-        <li>Insurance verification and intake experience preferred; cash handling a plus</li>
-        <li>HIPAA compliant and flexible with occasional evenings/weekends</li>
-        <li>Positive, adaptable, and open to training</li>
+        <li>Strong communication skills.</li>
+        <li>Organized, accurate, and detail-oriented.</li>
+        <li>Comfortable with EMR and office software.</li>
+        <li>Insurance verification and intake experience preferred; cash handling a plus.</li>
+        <li>HIPAA compliant; flexible for occasional evenings/weekends.</li>
+        <li>Positive, adaptable, and open to training.</li>
       </ul>
 
       <strong>Other Information</strong>
       <ul>
-        <li>Pay $18–$24 per hour (≈ $37,000–$49,000/yr), plus bonus and incentives</li>
-        <li>The right candidate is proactive, dependable, and motivated to contribute to patient satisfaction and clinic growth</li>
+        <li><strong>Pay:</strong> <strong>$18–$24 per hour</strong> (≈ $37,000–$49,000/yr), plus bonus and incentives.</li>
+        <li>The right candidate is proactive, dependable, and motivated to contribute to patient satisfaction and clinic growth.</li>
       </ul>
     ]]></description>
   </job>
 
-  <!-- JOB 6 – Front Desk & Clinical Support (AL – Montgomery) -->
+
+   <!-- JOB 6 – Front Desk & Clinical Support (AL – Montgomery) -->
   <job>
     <referencenumber><![CDATA[STF-853720]]></referencenumber>
     <requisitionid><![CDATA[STF-853720]]></requisitionid>
@@ -271,37 +328,50 @@
       <country><![CDATA[US]]></country>
       <postalcode><![CDATA[36104]]></postalcode>
     </location>
+
     <company><![CDATA[Wellness Chiropractic Clinic – Montgomery]]></company>
     <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[drcobb@healthstarclinic.com]]></email>
     <jobtype><![CDATA[full-time]]></jobtype>
-    <salary><![CDATA[$16 – $24 per hour]]></salary>
 
+    <!-- Salary (summary + structured detail) -->
+    <salary><![CDATA[$16 – $24 per hour]]></salary>
+    <salary_detail>
+      <min><![CDATA[16]]></min>
+      <max><![CDATA[24]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[HOUR]]></unit>
+      <notes><![CDATA[Hourly; entry-level may start $16–$18/hr]]></notes>
+    </salary_detail>
+
+    <!-- Description mirrors public HTML exactly -->
     <description><![CDATA[
       <p>We are a chiropractic clinic that values precision, professionalism, and consistency while providing a welcoming environment for patients of all ages.</p>
 
       <strong>Job Description</strong>
       <ul>
-        <li>Handle scheduling, patient check-ins, intake forms, and billing inquiries</li>
-        <li>Maintain accurate EMR records and prepare therapy equipment</li>
-        <li>Keep treatment rooms organized; monitor supplies; assist with reminders</li>
-        <li>Uphold confidentiality and support efficient clinic flow</li>
+        <li>Handle scheduling, patient check-ins, intake forms, and billing inquiries.</li>
+        <li>Maintain accurate EMR records and prepare therapy equipment.</li>
+        <li>Keep treatment rooms organized; monitor supplies; assist with reminders.</li>
+        <li>Uphold confidentiality and support efficient clinic flow.</li>
       </ul>
 
       <strong>Qualifications</strong>
       <ul>
-        <li>Excellent interpersonal and communication skills</li>
-        <li>Organized, dependable, and detail-oriented</li>
-        <li>Comfortable with scheduling software and EMR systems</li>
-        <li>Intake experience; insurance verification a plus</li>
+        <li>Excellent interpersonal and communication skills.</li>
+        <li>Organized, dependable, and detail-oriented.</li>
+        <li>Comfortable with scheduling software and EMR systems.</li>
+        <li>Intake experience; insurance verification a plus.</li>
       </ul>
 
-      <strong>Compensation</strong>
-      <p>$16 – $24 per hour (≈ $33,000–$50,000/yr), depending on experience; entry-level may start $16–$18/hr</p>
+      <strong>Other Information</strong>
+      <ul>
+        <li><strong>Pay:</strong> <strong>$16–$24 per hour</strong> (≈ $33,000–$50,000/yr), depending on experience; entry-level may start $16–$18/hr.</li>
+      </ul>
     ]]></description>
   </job>
 
-  <!-- JOB 7 – Associate Chiropractor (AL – Montgomery) -->
+   <!-- JOB 7 – Associate Chiropractor (AL – Montgomery) -->
   <job>
     <referencenumber><![CDATA[STF-384920]]></referencenumber>
     <requisitionid><![CDATA[STF-384920]]></requisitionid>
@@ -317,38 +387,51 @@
       <country><![CDATA[US]]></country>
       <postalcode><![CDATA[36104]]></postalcode>
     </location>
+
     <company><![CDATA[Wellness Chiropractic Clinic – Montgomery]]></company>
     <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[associate.384920.mon.angelic818@passinbox.com]]></email>
     <jobtype><![CDATA[full-time]]></jobtype>
-    <salary><![CDATA[$85,000 – $100,000 per year + incentives]]></salary>
 
+    <!-- Salary (summary + structured detail) -->
+    <salary><![CDATA[$85,000 – $100,000 per year + incentives]]></salary>
+    <salary_detail>
+      <min><![CDATA[85000]]></min>
+      <max><![CDATA[100000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[Base + incentives; benefits include health coverage, malpractice, CEU allowance, and growth opportunities.]]></notes>
+    </salary_detail>
+
+    <!-- Description mirrors public HTML exactly -->
     <description><![CDATA[
       <p>Join a dynamic, patient-focused wellness clinic where chiropractic care is the foundation—not the afterthought. Adjustments are the essential starting point for every care plan, with additional services layered in only as clinically appropriate.</p>
 
       <strong>Job Description</strong>
       <ul>
-        <li>Perform tailored chiropractic adjustments as the first line of care</li>
-        <li>Collaborate with other providers to determine if additional services support recovery</li>
-        <li>Educate patients on spinal health, lifestyle changes, and long-term prevention</li>
-        <li>Document care accurately and communicate smoothly within the team</li>
-        <li>Participate in case reviews and team meetings to uphold high standards</li>
+        <li>Perform tailored chiropractic adjustments as the first line of care.</li>
+        <li>Collaborate with other providers to determine if additional services support recovery.</li>
+        <li>Educate patients on spinal health, lifestyle changes, and long-term prevention.</li>
+        <li>Document care accurately and communicate smoothly within the team.</li>
+        <li>Participate in case reviews and team meetings to uphold high standards.</li>
       </ul>
 
       <strong>Qualifications</strong>
       <ul>
-        <li>Current or soon-to-be-active Alabama chiropractic license</li>
-        <li>Confidence in clinical judgment and chiropractic-first philosophy</li>
-        <li>Strong interpersonal skills; comfortable in a team-oriented setting</li>
-        <li>Open to feedback and clinical development—new grads and experienced DCs welcome</li>
+        <li>Current or soon-to-be-active Alabama chiropractic license.</li>
+        <li>Confidence in clinical judgment and chiropractic-first philosophy.</li>
+        <li>Strong interpersonal skills; comfortable in a team-oriented setting.</li>
+        <li>Open to feedback and clinical development—new grads and experienced DCs welcome.</li>
       </ul>
 
-      <strong>Compensation</strong>
-      <p>Base + incentives (expected range $85,000–$100,000 annually); benefits include health coverage, malpractice, CEU allowance, and growth opportunities.</p>
+      <strong>Other Information</strong>
+      <ul>
+        <li><strong>Compensation:</strong> Base + incentives (expected range <strong>$85,000–$100,000</strong> annually); benefits include health coverage, malpractice, CEU allowance, and growth opportunities.</li>
+      </ul>
     ]]></description>
   </job>
 
-  <!-- JOB 8 – Functional Neurology–Focused Chiropractor (PA – Wayne) -->
+   <!-- JOB 8 – Functional Neurology–Focused Chiropractor (PA – Wayne) -->
   <job>
     <referencenumber><![CDATA[STF-953740]]></referencenumber>
     <requisitionid><![CDATA[STF-953740]]></requisitionid>
@@ -364,39 +447,52 @@
       <country><![CDATA[US]]></country>
       <postalcode><![CDATA[19087]]></postalcode>
     </location>
+
     <company><![CDATA[Wellness Chiropractic Clinic – Wayne, PA]]></company>
     <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[neurochiropractorway.stiffly387@passinbox.com]]></email>
     <jobtype><![CDATA[full-time]]></jobtype>
-    <salary><![CDATA[$85,000 – $100,000 per year + incentives]]></salary>
 
+    <!-- Salary (summary + structured detail for mapping) -->
+    <salary><![CDATA[$85,000 – $100,000 per year + incentives]]></salary>
+    <salary_detail>
+      <min><![CDATA[85000]]></min>
+      <max><![CDATA[100000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[Base + performance incentives; benefits include health insurance, malpractice coverage, CEU allowance, and advancement opportunities.]]></notes>
+    </salary_detail>
+
+    <!-- Description mirrors public HTML exactly -->
     <description><![CDATA[
       <p>Our clinic, located near the Main Line, blends the art of chiropractic with the science of functional neurology to restore balance and optimize health.</p>
 
       <strong>Job Description</strong>
       <ul>
-        <li>Provide personalized chiropractic adjustments as the primary element of patient care</li>
-        <li>Apply functional neurology principles to improve outcomes and promote nervous system stability</li>
-        <li>Guide patients in adopting healthy lifestyle practices, wellness routines, and preventive strategies</li>
-        <li>Work closely with a collaborative healthcare team to develop and carry out integrated treatment plans</li>
-        <li>Maintain detailed clinical notes and actively participate in case reviews and team meetings</li>
+        <li>Provide personalized chiropractic adjustments as the primary element of patient care.</li>
+        <li>Apply functional neurology principles to improve outcomes and promote nervous system stability.</li>
+        <li>Guide patients in adopting healthy lifestyle practices, wellness routines, and preventive strategies.</li>
+        <li>Work closely with a collaborative healthcare team to develop and carry out integrated treatment plans.</li>
+        <li>Maintain detailed clinical notes and actively participate in case reviews and team meetings.</li>
       </ul>
 
       <strong>Qualifications</strong>
       <ul>
-        <li>Licensed (or license-eligible) Doctor of Chiropractic (DC) in Pennsylvania</li>
-        <li>Excellent interpersonal and communication abilities</li>
-        <li>Commitment to high standards of care, ethical practice, and ongoing professional growth</li>
-        <li>Background or coursework in functional neurology is a plus; strong interest and willingness to train are equally valued</li>
+        <li>Licensed (or license-eligible) Doctor of Chiropractic (DC) in Pennsylvania.</li>
+        <li>Excellent interpersonal and communication abilities.</li>
+        <li>Commitment to high standards of care, ethical practice, and ongoing professional growth.</li>
+        <li>Background or coursework in functional neurology is a plus; strong interest and willingness to train are equally valued.</li>
       </ul>
 
       <strong>Other Information</strong>
       <ul>
-        <li>Compensation: Base + performance incentives (expected range $85K–$100K)</li>
-        <li>Benefits: Health insurance, malpractice coverage, CEU allowance, and advancement opportunities</li>
-        <li>Modern, patient-focused facility with easy access to the amenities of the Main Line and greater Philadelphia area</li>
+        <li><strong>Compensation:</strong> Base + performance incentives (expected range <strong>$85,000–$100,000</strong>).</li>
+        <li>Benefits: Health insurance, malpractice coverage, CEU allowance, and advancement opportunities.</li>
+        <li>Modern, patient-focused facility with easy access to the amenities of the Main Line and greater Philadelphia area.</li>
       </ul>
     ]]></description>
   </job>
 
+
 </source>
+
