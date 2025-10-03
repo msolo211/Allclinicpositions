@@ -2,127 +2,134 @@
 <source>
 
    <!-- JOB 1 – Chiropractic Assistant (WA – Vancouver) -->
-  <job>
-    <referencenumber><![CDATA[STF-241796]]></referencenumber>
-    <requisitionid><![CDATA[STF-241796]]></requisitionid>
-    <title><![CDATA[Chiropractic Assistant – X-Ray Certified Preferred]]></title>
+<job>
+  <referencenumber><![CDATA[STF-241796]]></referencenumber>
+  <requisitionid><![CDATA[STF-241796]]></requisitionid>
+  <title><![CDATA[Chiropractic Assistant – X-Ray Certified Preferred]]></title>
 
-    <!-- Public job page (human-readable) -->
-    <url><![CDATA[https://chiropracticheadhunters.com/washington-staff-241796]]></url>
-    <!-- Direct-apply link (unique per job) -->
-    <apply_url><![CDATA[https://chiropracticheadhunters.com/staff1-form?job=STF-241796&state=WA]]></apply_url>
+  <!-- Public job page (human-readable) -->
+  <url><![CDATA[https://chiropracticheadhunters.com/washington-staff-241796]]></url>
+  <!-- Direct-apply link (unique per job) -->
+  <apply_url><![CDATA[https://chiropracticheadhunters.com/staff1-form?job=STF-241796&state=WA]]></apply_url>
 
-    <date><![CDATA[2025-09-23T12:00:00Z]]></date>
+  <date><![CDATA[2025-09-23T12:00:00Z]]></date>
 
-    <location>
-      <city><![CDATA[Vancouver]]></city>
-      <state><![CDATA[WA]]></state>
-      <country><![CDATA[US]]></country>
-      <postalcode><![CDATA[98660]]></postalcode>
-    </location>
+  <location>
+    <city><![CDATA[Vancouver]]></city>
+    <state><![CDATA[WA]]></state>
+    <country><![CDATA[US]]></country>
+    <postalcode><![CDATA[98660]]></postalcode>
+  </location>
 
-    <company><![CDATA[Chiropractic Wellness Clinic – Vancouver]]></company>
-    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
-    <email><![CDATA[caxray.241796.unjustly734@passinbox.com]]></email>
-    <jobtype><![CDATA[full-time]]></jobtype>
+  <company><![CDATA[Chiropractic Wellness Clinic – Vancouver]]></company>
+  <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+  <email><![CDATA[caxray.241796.unjustly734@passinbox.com]]></email>
+  <jobtype><![CDATA[full-time]]></jobtype>
 
-    <!-- Salary (display) -->
-    <salary><![CDATA[$20 – $30 per hour]]></salary>
-    <!-- Salary (structured for mapping) -->
-    <salary_min><![CDATA[20]]></salary_min>
-    <salary_max><![CDATA[30]]></salary_max>
-    <salary_unit><![CDATA[HOUR]]></salary_unit>
-    <salary_currency><![CDATA[USD]]></salary_currency>
+  <!-- Salary: display + structured detail -->
+  <salary><![CDATA[$20 – $30 per hour]]></salary>
+  <salary_detail>
+    <min><![CDATA[20]]></min>
+    <max><![CDATA[30]]></max>
+    <currency><![CDATA[USD]]></currency>
+    <unit><![CDATA[HOUR]]></unit>
+    <notes><![CDATA[Hourly; depending on experience & licensure.]]></notes>
+  </salary_detail>
 
-    <!-- VERBATIM match to the public page content -->
-    <description><![CDATA[
-      <p>Join a well-organized, patient-focused chiropractic office in Washington State that values precision, teamwork, and calm professionalism. Our practice serves a diverse range of patients and offers a supportive environment where clinical excellence and compassionate service are top priorities.</p>
+  <!-- VERBATIM match to the public page content -->
+  <description><![CDATA[
+    <p>Join a well-organized, patient-focused chiropractic office in Washington State that values precision, teamwork, and calm professionalism. Our practice serves a diverse range of patients and offers a supportive environment where clinical excellence and compassionate service are top priorities.</p>
 
-      <strong>Job Description</strong>
-      <ul>
-        <li>Schedule patients and manage electronic medical records.</li>
-        <li>Assist with therapies and maintain therapeutic equipment.</li>
-        <li>Verify insurance, handle front-desk intake, and keep daily clinic flow smooth.</li>
-        <li>Support X-ray imaging if licensed.</li>
-      </ul>
+    <strong>Job Description</strong>
+    <ul>
+      <li>Schedule patients and manage electronic medical records.</li>
+      <li>Assist with therapies and maintain therapeutic equipment.</li>
+      <li>Verify insurance, handle front-desk intake, and keep daily clinic flow smooth.</li>
+      <li>Support X-ray imaging if licensed.</li>
+    </ul>
 
-      <strong>Qualifications</strong>
-      <ul>
-        <li>Active Washington State Chiropractic Assistant license (required or applied for).</li>
-        <li>Chiropractic X-Ray Technician license (preferred).</li>
-        <li>Experience with EMR systems and patient-intake procedures.</li>
-        <li>Excellent interpersonal and communication skills; calm under pressure.</li>
-        <li>High level of accuracy, integrity, and confidentiality.</li>
-      </ul>
+    <strong>Qualifications</strong>
+    <ul>
+      <li>Active Washington State Chiropractic Assistant license (required or applied for).</li>
+      <li>Chiropractic X-Ray Technician license (preferred).</li>
+      <li>Experience with EMR systems and patient-intake procedures.</li>
+      <li>Excellent interpersonal and communication skills; calm under pressure.</li>
+      <li>High level of accuracy, integrity, and confidentiality.</li>
+    </ul>
 
-      <strong>Other Information</strong>
-      <ul>
-        <li>Full-time position with consistent hours.</li>
-        <li>Continuing education encouraged; supportive, team-based culture.</li>
-        <li><strong>Salary $20–$30 per hour</strong> (≈ $40,000–$60,000 / yr) depending on experience & licensure.</li>
-      </ul>
-    ]]></description>
-  </job>
+    <strong>Other Information</strong>
+    <ul>
+      <li>Full-time position with consistent hours.</li>
+      <li>Continuing education encouraged; supportive, team-based culture.</li>
+      <li><strong>Salary $20–$30 per hour</strong> (≈ $40,000–$60,000 / yr) depending on experience &amp; licensure.</li>
+    </ul>
+  ]]></description>
+</job>
 
 
    <!-- JOB 2 – Licensed Massage Therapist (WA – Vancouver) -->
-  <job>
-    <referencenumber><![CDATA[STF-924580]]></referencenumber>
-    <requisitionid><![CDATA[STF-924580]]></requisitionid>
-    <title><![CDATA[Licensed Massage Therapist – Patient-Focused Wellness Clinic]]></title>
+<job>
+  <referencenumber><![CDATA[STF-924580]]></referencenumber>
+  <requisitionid><![CDATA[STF-924580]]></requisitionid>
+  <title><![CDATA[Licensed Massage Therapist – Patient-Focused Wellness Clinic]]></title>
 
-    <url><![CDATA[https://chiropracticheadhunters.com/washington-staff-924580]]></url>
-    <apply_url><![CDATA[https://chiropracticheadhunters.com/staff1-form?job=STF-924580&state=WA]]></apply_url>
+  <url><![CDATA[https://chiropracticheadhunters.com/washington-staff-924580]]></url>
+  <apply_url><![CDATA[https://chiropracticheadhunters.com/staff1-form?job=STF-924580&state=WA]]></apply_url>
 
-    <date><![CDATA[2025-09-23T12:00:00Z]]></date>
-    <location>
-      <city><![CDATA[Vancouver]]></city>
-      <state><![CDATA[WA]]></state>
-      <country><![CDATA[US]]></country>
-      <postalcode><![CDATA[98660]]></postalcode>
-    </location>
+  <date><![CDATA[2025-09-23T12:00:00Z]]></date>
+  <location>
+    <city><![CDATA[Vancouver]]></city>
+    <state><![CDATA[WA]]></state>
+    <country><![CDATA[US]]></country>
+    <postalcode><![CDATA[98660]]></postalcode>
+  </location>
 
-    <company><![CDATA[Chiropractic Wellness Clinic – Vancouver]]></company>
-    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
-    <email><![CDATA[admin@ascvancouver.com]]></email>
+  <company><![CDATA[Chiropractic Wellness Clinic – Vancouver]]></company>
+  <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+  <email><![CDATA[admin@ascvancouver.com]]></email>
 
-    <jobtype><![CDATA[both]]></jobtype>
+  <jobtype><![CDATA[both]]></jobtype>
 
-    <!-- Salary: human-readable + structured fields for mapping -->
-    <salary><![CDATA[$30 – $60 per hour]]></salary>
-    <salary_min><![CDATA[30]]></salary_min>
-    <salary_max><![CDATA[60]]></salary_max>
-    <salary_unit><![CDATA[HOUR]]></salary_unit>
-    <salary_currency><![CDATA[USD]]></salary_currency>
+  <!-- Salary: display + structured detail -->
+  <salary><![CDATA[$30 – $60 per hour]]></salary>
+  <salary_detail>
+    <min><![CDATA[30]]></min>
+    <max><![CDATA[60]]></max>
+    <currency><![CDATA[USD]]></currency>
+    <unit><![CDATA[HOUR]]></unit>
+    <notes><![CDATA[Hourly; depending on experience.]]></notes>
+  </salary_detail>
 
-    <!-- DESCRIPTION: verbatim match to the public job page (headings + bullets) -->
-    <description><![CDATA[
-      <p>Our Washington-based chiropractic office blends clinical efficiency with holistic care.</p>
+  <!-- DESCRIPTION: verbatim match to the public job page (headings + bullets) -->
+  <description><![CDATA[
+    <p>Our Washington-based chiropractic office blends clinical efficiency with holistic care. We prioritize a
+    calm, clean, and collaborative work atmosphere where every staff member contributes to a supportive
+    and respectful environment for patients and coworkers alike.</p>
 
-      <strong>Job Description</strong>
-      <ul>
-        <li>Provide therapeutic massages prescribed by the DC</li>
-        <li>Assist with therapy protocols and exercise setup</li>
-        <li>Help maintain treatment areas and equipment</li>
-      </ul>
+    <strong>Job Description</strong>
+    <ul>
+      <li>Provide therapeutic massages as prescribed by the doctor.</li>
+      <li>Support therapy protocols and set up exercise equipment.</li>
+      <li>Help maintain treatment areas and ensure smooth clinic flow.</li>
+    </ul>
 
-      <strong>Qualifications</strong>
-      <ul>
-        <li>Active Washington Massage Therapy License (required)</li>
-        <li>Skilled in therapeutic modalities under clinical supervision</li>
-        <li>Calm, professional, and team-oriented</li>
-        <li>Punctual and open to structured procedures & continuing education</li>
-      </ul>
+    <strong>Qualifications</strong>
+    <ul>
+      <li>Active Washington Massage Therapy License (required).</li>
+      <li>Skilled with therapeutic modalities under clinical supervision.</li>
+      <li>Calm, professional, and team-oriented; punctual and reliable.</li>
+      <li>Open to structured procedures and continuing education.</li>
+    </ul>
 
-      <strong>Other Information</strong>
-      <ul>
-        <li>Part-time or full-time schedules available</li>
-        <li>Daytime plus occasional evening hours</li>
-        <li>Strong office culture with clear communication & respect for work-life balance</li>
-        <li><strong>Salary $30–$60 per hour</strong> (≈ $60,000–$120,000/yr) depending on experience.</li>
-      </ul>
-    ]]></description>
-  </job>
+    <strong>Other Information</strong>
+    <ul>
+      <li>Part-time or full-time schedules available.</li>
+      <li>Daytime plus occasional evening hours.</li>
+      <li>Strong office culture with clear communication &amp; respect for work-life balance.</li>
+      <li><strong>Salary $30–$60 per hour</strong> (≈ $60,000–$120,000 / yr) depending on experience.</li>
+    </ul>
+  ]]></description>
+</job>
 
    <!-- JOB 3 – Associate Chiropractor (PA – Chadds Ford) -->
   <job>
@@ -495,4 +502,5 @@
 
 
 </source>
+
 
