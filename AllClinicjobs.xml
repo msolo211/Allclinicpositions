@@ -500,5 +500,67 @@
     ]]></description>
   </job>
 
+      <!-- JOB 9 – Experienced Chiropractor (TX – Spring) -->
+  <job>
+    <referencenumber><![CDATA[STF-847392]]></referencenumber>
+    <requisitionid><![CDATA[STF-847392]]></requisitionid>
+    <title><![CDATA[Experienced Chiropractor – Signing Bonus]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/texas-chiropractor-847392]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/xcomland2?job=STF-847392&state=TX]]></apply_url>
+
+    <date><![CDATA[2025-10-18T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Spring]]></city>
+      <state><![CDATA[TX]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[77373]]></postalcode>
+    </location>
+
+    <company><![CDATA[Wellness Chiropractic Clinic – Spring, TX]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[txwellclinic.squeezing785@passinbox.com]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <!-- Salary (summary + structured detail) -->
+    <salary><![CDATA[$87,000 per year + signing bonus]]></salary>
+    <salary_detail>
+      <min><![CDATA[87000]]></min>
+      <max><![CDATA[87000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[Base salary $87,000 with signing bonus; includes insurance package and relocation stipend.]]></notes>
+    </salary_detail>
+
+    <!-- Description mirrors public HTML exactly -->
+    <description><![CDATA[
+      <p>Join our state-of-the-art wellness practice located near Spring, Texas. Our open-concept, hands-on chiropractic clinic utilizes diversified, Thompson, and Activator techniques. We prioritize hands-on adjustments as the core of our treatment plans, supplemented with adjunct therapies as needed. Each patient receives an individualized care plan tailored to their specific needs.</p>
+
+      <strong>Job Description</strong>
+      <ul>
+        <li>Deliver expert chiropractic adjustments using diversified, Thompson, and Activator techniques.</li>
+        <li>Provide individualized, hands-on care for a diverse range of patients.</li>
+        <li>Collaborate within a supportive, patient-centered team environment.</li>
+      </ul>
+
+      <strong>Qualifications</strong>
+      <ul>
+        <li>Active Texas chiropractic license (or application in process).</li>
+        <li>Humble, skilled adjuster with strong commitment to patient outcomes.</li>
+        <li>Excellent communication and interpersonal skills.</li>
+      </ul>
+
+      <strong>Other Information</strong>
+      <ul>
+        <li><strong>Compensation:</strong> Base salary $87,000 annually + signing bonus.</li>
+        <li>Comprehensive insurance package included.</li>
+        <li>Relocation stipend available for the right candidate.</li>
+      </ul>
+    ]]></description>
+  </job>
+
+
 
 </source>
+
