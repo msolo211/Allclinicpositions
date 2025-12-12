@@ -560,4 +560,67 @@
     ]]></description>
   </job>
 
+  <!-- JOB 10 – Associate Chiropractor (WA – Vancouver) -->
+  <job>
+    <referencenumber><![CDATA[STF-483917]]></referencenumber>
+    <requisitionid><![CDATA[STF-483917]]></requisitionid>
+    <title><![CDATA[Associate Chiropractor – Upper Cervical–Influenced, Full-Spine]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/washingtonchiropractor917]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/xcomland2?job=STF-483917&state=WA]]></apply_url>
+
+    <date><![CDATA[2025-12-12T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Vancouver]]></city>
+      <state><![CDATA[WA]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[98660]]></postalcode>
+    </location>
+
+    <company><![CDATA[Chiropractic Practice – Vancouver, WA]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[drnicole.asc@gmail.com]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <salary><![CDATA[$85,000+ per year]]></salary>
+    <salary_detail>
+      <min><![CDATA[85000]]></min>
+      <max><![CDATA[85000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[Base salary $85,000+ (higher depending on experience, personality, and adjusting skill). Benefits include malpractice coverage, health insurance, retirement, and CE opportunities.]]></notes>
+    </salary_detail>
+
+    <description><![CDATA[
+      <p><strong>Company Description</strong><br>
+      Established chiropractic practice focused on high-quality outcomes, strong doctor–patient relationships, and long-term growth. The clinic follows upper cervical–influenced protocols while delivering full-spine, hands-on care in a patient-centered environment.</p>
+
+      <strong>Job Description</strong>
+      <ul>
+        <li>Associate Chiropractor role focused on patient relationships and continued practice growth, with long-term partnership or ownership potential for the right person</li>
+        <li>Provide hands-on, full-spine chiropractic care (upper cervical–influenced protocols)</li>
+        <li>Build trust and long-term relationships through communication and care planning</li>
+        <li>Stay open minded to learn new skills and refine and expand clinical technique</li>
+        <li>Contribute to practice growth, patient experience, and team culture</li>
+      </ul>
+
+      <strong>Qualifications</strong>
+      <ul>
+        <li>Doctor of Chiropractic (D.C.) degree</li>
+        <li>Active or eligible chiropractic license</li>
+        <li>Strong hands-on adjusting skills</li>
+        <li>Open minded to learn new skills and adapt to protocols</li>
+        <li>Professional, dependable, and patient-centered</li>
+        <li>Entrepreneurial mindset (not a “punch-the-clock” mentality)</li>
+      </ul>
+
+      <strong>Other Information</strong>
+      <ul>
+        <li><strong>Base salary:</strong> $85,000+ (higher depending on experience, personality, and adjusting skill)</li>
+        <li>Benefits: malpractice coverage, health insurance, retirement, CE opportunities</li>
+        <li>Growth path: partnership or ownership potential for the right chiropractor</li>
+      </ul>
+    ]]></description>
+  </job>
 </source>
