@@ -628,4 +628,69 @@
     </ul>
   ]]></description>
 </job>
+     <!-- JOB 11 – Chiropractor (AL – Birmingham) -->
+  <job>
+    <referencenumber><![CDATA[STF-614902]]></referencenumber>
+    <requisitionid><![CDATA[STF-614902]]></requisitionid>
+    <title><![CDATA[Chiropractor-First Wellness Center — Join Our Collaborative Team]]></title>
+
+    <!-- Public job page (human-readable) -->
+    <url><![CDATA[https://chiropracticheadhunters.com/alabama-614902]]></url>
+    <!-- Direct-apply link (unique per job) -->
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/xcomland2?job=STF-614902&state=AL]]></apply_url>
+
+    <date><![CDATA[2025-12-18T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Birmingham]]></city>
+      <state><![CDATA[AL]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[35203]]></postalcode>
+    </location>
+
+    <company><![CDATA[Chiropractor-First Wellness Center — Birmingham]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[birchir.ac7d6@passinbox.com]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <!-- Salary: display + structured detail -->
+    <salary><![CDATA[$85,000 – $100,000 per year + incentives]]></salary>
+    <salary_detail>
+      <min><![CDATA[85000]]></min>
+      <max><![CDATA[100000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[Competitive base + performance incentives (realistic range $85k–$100k).]]></notes>
+    </salary_detail>
+
+    <!-- VERBATIM match to the public page content -->
+    <description><![CDATA[
+      <p>Join a chiropractor-led, adjustment-forward practice in the Birmingham metro area where clinical decision-making is respected and patient outcomes drive everything. Our team blends high-skill hands-on chiropractic with supportive rehab and wellness services—added only when they truly strengthen results. You’ll work alongside professionals who communicate well, share ideas easily, and keep the culture grounded, upbeat, and patient-first.</p>
+
+      <strong>Job Description</strong>
+      <ul>
+        <li>Deliver precise, individualized spinal and extremity adjustments as the foundation of care when clinically indicated.</li>
+        <li>Build smart, streamlined care plans—integrating rehab and supportive modalities (laser, PT-style exercise, regenerative options, etc.) only when they meaningfully enhance the outcome.</li>
+        <li>Educate patients in practical spine-health habits, ergonomics, and lifestyle strategies that reduce flare-ups and improve long-term function.</li>
+        <li>Document clearly and efficiently to support continuity of care and clinical quality.</li>
+        <li>Contribute to clinical protocols and team workflows—your voice matters here.</li>
+      </ul>
+
+      <strong>Qualifications</strong>
+      <ul>
+        <li>Active (or soon-to-be active) Alabama chiropractic license.</li>
+        <li>Strong adjusting confidence with an “adjustment-first” care philosophy.</li>
+        <li>Team-minded, collaborative communication style and comfort with patient education.</li>
+        <li>New grads welcome (structured mentorship available) as well as experienced DCs.</li>
+      </ul>
+
+      <strong>Other Information</strong>
+      <ul>
+        <li>Competitive base + performance incentives (realistic range $85k–$100k).</li>
+        <li>Benefits may include health coverage, malpractice support, CEU allowance, and clear paths for growth.</li>
+        <li>Modern clinic setting in the Birmingham area with access to dining, neighborhoods, and outdoor recreation—without the “corporate” feel.</li>
+      </ul>
+    ]]></description>
+  </job>
 </source>
+
