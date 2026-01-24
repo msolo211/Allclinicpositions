@@ -692,5 +692,75 @@
       </ul>
     ]]></description>
   </job>
+     <!-- JOB 12 – Associate Chiropractor (WA – Vancouver) -->
+  <job>
+    <referencenumber><![CDATA[STF-905274]]></referencenumber>
+    <requisitionid><![CDATA[STF-905274]]></requisitionid>
+    <title><![CDATA[Associate Chiropractor – Confident Adjuster]]></title>
+
+    <!-- Public job page (human-readable) -->
+    <url><![CDATA[https://chiropracticheadhunters.com/washingtonc905274]]></url>
+    <!-- Direct-apply link (unique per job) -->
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/xcomland2?job=STF-905274&state=WA]]></apply_url>
+
+    <date><![CDATA[2026-01-24T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Vancouver]]></city>
+      <state><![CDATA[WA]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[98660]]></postalcode>
+    </location>
+
+    <company><![CDATA[Chiropractic Practice — Vancouver, WA]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[washchir.7a3vd@passinbox.com]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <!-- Salary: display + structured detail -->
+    <salary><![CDATA[$85,000+ per year]]></salary>
+    <salary_detail>
+      <min><![CDATA[85000]]></min>
+      <max><![CDATA[85000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[Starting at $85,000+; higher starting pay possible depending on experience, communication skills, and adjusting proficiency.]]></notes>
+    </salary_detail>
+
+    <!-- VERBATIM match to the public page content -->
+    <description><![CDATA[
+      <p><strong>Company Description</strong><br>
+      Well-established chiropractic clinic focused on consistent clinical outcomes, clear communication, and a high-trust patient experience. Our care style leans <strong>upper-cervical in emphasis</strong> while still delivering <strong>full-spine, hands-on adjustments</strong>, with <strong>Activator-supported</strong> protocols used when appropriate. We’re patient-centered, growth-minded, and committed to doing things the right way.</p>
+
+      <strong>Job Description</strong>
+      <ul>
+        <li>Provide confident <strong>full-spine, hands-on chiropractic care</strong> within an <strong>upper-cervical emphasis</strong> and Activator-friendly clinical approach</li>
+        <li>Create strong patient buy-in through education, consistency, and follow-through</li>
+        <li>Stay adaptable and coachable as you refine technique and expand skill sets</li>
+        <li>Support a smooth, positive patient journey and contribute to a strong team culture</li>
+        <li>Step into a role with <strong>long-range upside</strong> for a doctor who aligns well and performs at a high level</li>
+      </ul>
+      <p><strong>Ideal candidate is self-driven and invested in doing excellent work.</strong></p>
+
+      <strong>Qualifications</strong>
+      <ul>
+        <li>Doctor of Chiropractic (D.C.) degree</li>
+        <li>Active license <strong>or eligibility for licensure</strong></li>
+        <li>Strong <strong>manual adjusting</strong> ability (full-spine)</li>
+        <li>Professional, reliable, and patient-focused</li>
+        <li>Flexible mindset and willingness to follow clinic protocols while continuing to grow</li>
+        <li>Self-directed work ethic with pride in results (not just “show up and leave”)</li>
+      </ul>
+
+      <strong>Other Information</strong>
+      <ul>
+        <li><strong>Compensation:</strong> starting at <strong>$85,000+</strong>, with higher starting pay possible depending on experience, communication skills, and adjusting proficiency</li>
+        <li>Benefits package includes: malpractice coverage, health coverage, retirement options, and continuing education support</li>
+        <li><strong>Future track:</strong> opportunity to grow into a larger role over time for the right fit</li>
+      </ul>
+    ]]></description>
+  </job>
+
 </source>
+
 
