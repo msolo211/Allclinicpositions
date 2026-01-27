@@ -692,11 +692,11 @@
       </ul>
     ]]></description>
   </job>
-     <!-- JOB 12 – Associate Chiropractor (WA – Vancouver) -->
+      <!-- JOB 12 – Associate Chiropractor (WA – Camas) -->
   <job>
     <referencenumber><![CDATA[STF-905274]]></referencenumber>
     <requisitionid><![CDATA[STF-905274]]></requisitionid>
-    <title><![CDATA[Associate Chiropractor – Confident Adjuster]]></title>
+    <title><![CDATA[Associate Chiropractor - Full-Spine]]></title>
 
     <!-- Public job page (human-readable) -->
     <url><![CDATA[https://chiropracticheadhunters.com/washingtonc905274]]></url>
@@ -706,13 +706,13 @@
     <date><![CDATA[2026-01-24T12:00:00Z]]></date>
 
     <location>
-      <city><![CDATA[Vancouver]]></city>
+      <city><![CDATA[Camas]]></city>
       <state><![CDATA[WA]]></state>
       <country><![CDATA[US]]></country>
-      <postalcode><![CDATA[98660]]></postalcode>
+      <postalcode><![CDATA[98607]]></postalcode>
     </location>
 
-    <company><![CDATA[Chiropractic Practice — Vancouver, WA]]></company>
+    <company><![CDATA[Chiropractic Practice — Camas, WA]]></company>
     <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[washchir.7a3vd@passinbox.com]]></email>
     <jobtype><![CDATA[full-time]]></jobtype>
@@ -729,38 +729,39 @@
 
     <!-- VERBATIM match to the public page content -->
     <description><![CDATA[
-      <p><strong>Company Description</strong><br>
-      Well-established chiropractic clinic focused on consistent clinical outcomes, clear communication, and a high-trust patient experience. Our care style leans <strong>upper-cervical in emphasis</strong> while still delivering <strong>full-spine, hands-on adjustments</strong>, with <strong>Activator-supported</strong> protocols used when appropriate. We’re patient-centered, growth-minded, and committed to doing things the right way.</p>
+      <p>Company Description<br>
+      Well-established chiropractic clinic focused on consistent clinical outcomes, clear communication, and a high-trust patient experience. Our care style leans upper-cervical in emphasis while still delivering full-spine, hands-on adjustments, with Activator-supported protocols used when appropriate. We’re patient-centered, growth-minded, and committed to doing things the right way.</p>
 
-      <strong>Job Description</strong>
+      <p>Job Description</p>
       <ul>
-        <li>Provide confident <strong>full-spine, hands-on chiropractic care</strong> within an <strong>upper-cervical emphasis</strong> and Activator-friendly clinical approach</li>
+        <li>Provide confident full-spine, hands-on chiropractic care within an upper-cervical emphasis and Activator-friendly clinical approach</li>
         <li>Create strong patient buy-in through education, consistency, and follow-through</li>
         <li>Stay adaptable and coachable as you refine technique and expand skill sets</li>
         <li>Support a smooth, positive patient journey and contribute to a strong team culture</li>
-        <li>Step into a role with <strong>long-range upside</strong> for a doctor who aligns well and performs at a high level</li>
+        <li>Step into a role with long-range upside for a doctor who aligns well and performs at a high level</li>
       </ul>
-      <p><strong>Ideal candidate is self-driven and invested in doing excellent work.</strong></p>
+      <p>Ideal candidate is self-driven and invested in doing excellent work.</p>
 
-      <strong>Qualifications</strong>
+      <p>Qualifications</p>
       <ul>
         <li>Doctor of Chiropractic (D.C.) degree</li>
-        <li>Active license <strong>or eligibility for licensure</strong></li>
-        <li>Strong <strong>manual adjusting</strong> ability (full-spine)</li>
+        <li>Active license or eligibility for licensure</li>
+        <li>Strong manual adjusting ability (full-spine)</li>
         <li>Professional, reliable, and patient-focused</li>
         <li>Flexible mindset and willingness to follow clinic protocols while continuing to grow</li>
         <li>Self-directed work ethic with pride in results (not just “show up and leave”)</li>
       </ul>
 
-      <strong>Other Information</strong>
+      <p>Other Information</p>
       <ul>
-        <li><strong>Compensation:</strong> starting at <strong>$85,000+</strong>, with higher starting pay possible depending on experience, communication skills, and adjusting proficiency</li>
+        <li>Compensation: starting at $85,000+, with higher starting pay possible depending on experience, communication skills, and adjusting proficiency</li>
         <li>Benefits package includes: malpractice coverage, health coverage, retirement options, and continuing education support</li>
-        <li><strong>Future track:</strong> opportunity to grow into a larger role over time for the right fit</li>
+        <li>Future track: opportunity to grow into a larger role over time for the right fit</li>
       </ul>
     ]]></description>
   </job>
 
 </source>
+
 
 
