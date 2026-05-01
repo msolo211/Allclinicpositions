@@ -760,7 +760,77 @@
       </ul>
     ]]></description>
   </job>
+<!-- JOB 13 – Chiropractor (MA – Newton Upper Falls) -->
+<job>
+  <referencenumber><![CDATA[C2VLC0]]></referencenumber>
+  <requisitionid><![CDATA[C2VLC0]]></requisitionid>
+  <title><![CDATA[Chiropractor — Sports Focus]]></title>
 
+  <!-- Public job page (human-readable) -->
+  <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=C2VLC0#jobId=C2VLC0]]></url>
+  <!-- Direct-apply link -->
+  <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform]]></apply_url>
+
+  <date><![CDATA[2026-05-01T12:00:00Z]]></date>
+
+  <location>
+    <city><![CDATA[Newton Upper Falls]]></city>
+    <state><![CDATA[MA]]></state>
+    <country><![CDATA[US]]></country>
+    <postalcode><![CDATA[02464]]></postalcode>
+  </location>
+
+  <company><![CDATA[Independent Chiropractic Practice — Newton Upper Falls, MA]]></company>
+  <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+  <email><![CDATA[julieb@welladjusted.com]]></email>
+  <jobtype><![CDATA[full-time]]></jobtype>
+
+  <!-- Salary -->
+  <salary><![CDATA[$75,000 – $85,000 per year (including incentives)]]></salary>
+  <salary_detail>
+    <min><![CDATA[75000]]></min>
+    <max><![CDATA[85000]]></max>
+    <currency><![CDATA[USD]]></currency>
+    <unit><![CDATA[YEAR]]></unit>
+    <notes><![CDATA[Includes incentives in base range]]></notes>
+  </salary_detail>
+
+  <description><![CDATA[
+    <p><strong>Company Description</strong><br>
+    We are an independent practice in a rural setting. The practice has been established for 10+ years. The office is holistic and patient-centric. Our patient base is general wellness with a focus on sports care. The office features an open concept with a large waiting room, shared office space, shared staff, treatment equipment, and computers.</p>
+
+    <strong>Job Description</strong>
+    <ul>
+      <li>Full-Time Doctor position with hiring timeline of 1–3 months.</li>
+      <li>Multi-location work preferred but flexible.</li>
+      <li>Typical pace: 21–30 patients per day.</li>
+      <li>Charting: comprehensive EHR systems.</li>
+      <li>Care plans are flexible based on patient progress.</li>
+      <li>Patient preference leans toward gentle/low-impact care.</li>
+      <li>Participate in educational talks and support patient growth.</li>
+      <li>Utilize modalities and chiropractic adjustments as core approaches.</li>
+      <li>Familiarity with Heat/Cold and adjunct therapies is helpful.</li>
+    </ul>
+
+    <strong>Qualifications</strong>
+    <ul>
+      <li>Preferably already licensed or in the process of obtaining state licensure.</li>
+      <li>Relocation assistance available.</li>
+      <li>Closer proximity to the clinic preferred.</li>
+      <li>Ideal traits include: adjustment-first mindset, community involvement, business-minded approach, comfort with high patient volume, full-time commitment, EHR proficiency, open-mindedness, and strong adjusting focus.</li>
+      <li>Priorities emphasize character and personality.</li>
+      <li>Clinical philosophy aligns with a blend of traditional and modern chiropractic approaches.</li>
+      <li>Evidence-based approach incorporates patient feedback into care.</li>
+      <li>We are open to all qualified applicants.</li>
+    </ul>
+
+    <strong>Other Information</strong>
+    <ul>
+      <li><strong>Salary:</strong> $75,000 – $85,000 annually (including incentives).</li>
+      <li>Benefits may include retirement plans and continuing education opportunities.</li>
+    </ul>
+  ]]></description>
+</job>
 </source>
 
 
