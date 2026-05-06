@@ -834,4 +834,76 @@
     </ul>
   ]]></description>
 </job>
+   <!-- JOB 14 – Chiropractor (TN – Cookeville) -->
+<job>
+  <referencenumber><![CDATA[C7YYWN]]></referencenumber>
+  <requisitionid><![CDATA[C7YYWN]]></requisitionid>
+  <title><![CDATA[Chiropractor — General Wellness]]></title>
+
+  <!-- Public job page (human-readable) -->
+  <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=C7YYWN#jobId=C7YYWN]]></url>
+  <!-- Direct-apply link -->
+  <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform]]></apply_url>
+
+  <date><![CDATA[2026-05-05T12:00:00Z]]></date>
+
+  <location>
+    <city><![CDATA[Cookeville]]></city>
+    <state><![CDATA[TN]]></state>
+    <country><![CDATA[US]]></country>
+    <postalcode><![CDATA[38501]]></postalcode>
+  </location>
+
+  <company><![CDATA[WellSpring]]></company>
+  <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+  <email><![CDATA[drdwellspringfamilychiro@gmail.com]]></email>
+  <jobtype><![CDATA[full-time]]></jobtype>
+
+  <!-- Salary -->
+  <salary><![CDATA[$75,001 – $85,000 per year (including incentives)]]></salary>
+  <salary_detail>
+    <min><![CDATA[75001]]></min>
+    <max><![CDATA[85000]]></max>
+    <currency><![CDATA[USD]]></currency>
+    <unit><![CDATA[YEAR]]></unit>
+    <notes><![CDATA[Includes incentives in base range]]></notes>
+  </salary_detail>
+
+  <description><![CDATA[
+    <p><strong>Company Description</strong><br>
+    Independent practice that has been established for 10+ years. The office is traditional and welcoming. Our patient base is general wellness.</p>
+
+    <p>Office features: CA, other doctors, private room, large waiting room, own office, own staff, and treatment equipment.</p>
+
+    <strong>Job Description</strong>
+    <ul>
+      <li>Full-Time Doctor position with immediate start available.</li>
+      <li>Typical pace: 31+ patients per day.</li>
+      <li>Charting: comprehensive EHR.</li>
+      <li>Care plans are flexible based on patient progress.</li>
+      <li>Patient preference leans toward HVLA.</li>
+      <li>We value a doctor who is friendly.</li>
+      <li>Support growth through conferences, events, and meetings.</li>
+      <li>Common approaches and modalities include Gonstead, Thompson, Diversified, E-Stim, Ultrasound, Heat/Cold, and other adjuncts.</li>
+      <li>Familiarity with Activator, SOT, and other adjusting techniques is helpful.</li>
+    </ul>
+
+    <strong>Qualifications</strong>
+    <ul>
+      <li>Must be licensed or have applied for license.</li>
+      <li>Experience level is open.</li>
+      <li>Ideal-fit traits include: balanced adjustment and therapy, community-active, business-minded, personal-injury experienced, full-time commitment, experience flexibility, EHR comfort, open-mindedness, orthopedic testing confidence, and personality greater than adjusting.</li>
+      <li>Clinical approach alignment: philosophical-based care is viewed as a holistic approach.</li>
+      <li>Evidence-based care is viewed as patient-feedback informed.</li>
+      <li>We are open to all qualified applicants.</li>
+    </ul>
+
+    <strong>Other Information</strong>
+    <ul>
+      <li><strong>Salary:</strong> $75,001 – $85,000 annually, including incentives in the base range.</li>
+      <li>Benefits may include health coverage.</li>
+      <li>Continuing education: above minimum.</li>
+    </ul>
+  ]]></description>
+</job>
 </source>
