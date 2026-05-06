@@ -260,13 +260,13 @@
     <email><![CDATA[xdrnicole.xasc@gmail.com]]></email>
     <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary><![CDATA[$30 - $60 a hour (? $60,000-$120,000 / yr) depending on experience]]></salary>
+    <salary><![CDATA[$30 - $60 a hour (about $60,000-$120,000 / yr) depending on experience]]></salary>
     <salary_detail>
       <min><![CDATA[30]]></min>
       <max><![CDATA[60]]></max>
       <currency><![CDATA[USD]]></currency>
       <unit><![CDATA[HOUR]]></unit>
-      <notes><![CDATA[$30 - $60 a hour (? $60,000-$120,000 / yr) depending on experience]]></notes>
+      <notes><![CDATA[$30 - $60 a hour (about $60,000-$120,000 / yr) depending on experience]]></notes>
     </salary_detail>
 
     <description><![CDATA[
@@ -280,7 +280,7 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Active Washington Massage Therapy License (required).</li><li>Skilled with therapeutic modalities under clinical supervision.</li><li>Calm, professional, and team-oriented; punctual and reliable.</li><li>Open to structured procedures and continuing education.</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Part-time or full-time schedules available.</li><li>Daytime plus occasional evening hours.</li><li>Strong office culture with clear communication &amp; respect for work-life balance.</li><li>Salary $30 - $60 a hour (? $60,000-$120,000 / yr) depending on experience.</li></ul>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Part-time or full-time schedules available.</li><li>Daytime plus occasional evening hours.</li><li>Strong office culture with clear communication &amp; respect for work-life balance.</li><li>Salary $30 - $60 a hour (about $60,000-$120,000 / yr) depending on experience.</li></ul>
     ]]></description>
   </job>
 
@@ -542,13 +542,13 @@
     <email><![CDATA[drcobb@healthstarclinic.com]]></email>
     <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary><![CDATA[$16-$24 per hour ( about $33,000-$50,000/yr), depending on experience; entry-level may start $16-$]]></salary>
+    <salary><![CDATA[$16-$24 per hour ( about $33,000-$50,000/yr), depending on experience;]]></salary>
     <salary_detail>
       <min><![CDATA[16]]></min>
       <max><![CDATA[24]]></max>
       <currency><![CDATA[USD]]></currency>
       <unit><![CDATA[HOUR]]></unit>
-      <notes><![CDATA[$16-$24 per hour ( about $33,000-$50,000/yr), depending on experience; entry-level may start $16-$]]></notes>
+      <notes><![CDATA[$16-$24 per hour ( about $33,000-$50,000/yr), depending on experience;]]></notes>
     </salary_detail>
 
     <description><![CDATA[
@@ -562,7 +562,7 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Excellent interpersonal and communication skills.</li><li>Organized, dependable, and detail-oriented.</li><li>Comfortable with scheduling software and EMR systems.</li><li>Intake experience; insurance verification a plus.</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Pay: $16-$24 per hour ( about $33,000-$50,000/yr), depending on experience; entry-level may start $16-$18/hr.</li></ul>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Pay: $16-$24 per hour ( about $33,000-$50,000/yr), depending on experience;.</li></ul>
     ]]></description>
   </job>
 </source>
