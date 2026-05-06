@@ -309,8 +309,8 @@
 
     <salary><![CDATA[$85K-$100K)]]></salary>
     <salary_detail>
-      <min><![CDATA[85]]></min>
-      <max><![CDATA[100]]></max>
+      <min><![CDATA[85000]]></min>
+      <max><![CDATA[100000]]></max>
       <currency><![CDATA[USD]]></currency>
       <unit><![CDATA[YEAR]]></unit>
       <notes><![CDATA[$85K-$100K)]]></notes>
@@ -450,8 +450,8 @@
 
     <salary><![CDATA[$85K-$100K)]]></salary>
     <salary_detail>
-      <min><![CDATA[85]]></min>
-      <max><![CDATA[100]]></max>
+      <min><![CDATA[85000]]></min>
+      <max><![CDATA[100000]]></max>
       <currency><![CDATA[USD]]></currency>
       <unit><![CDATA[YEAR]]></unit>
       <notes><![CDATA[$85K-$100K)]]></notes>
@@ -542,13 +542,13 @@
     <email><![CDATA[drcobb@healthstarclinic.com]]></email>
     <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary><![CDATA[$16-$24 per hour (? $33,000-$50,000/yr), depending on experience; entry-level may start $16-$18/h]]></salary>
+    <salary><![CDATA[$16-$24 per hour (? $33,000-$50,000/yr), depending on experience; entry-level may start $16-$18/hr]]></salary>
     <salary_detail>
       <min><![CDATA[16]]></min>
       <max><![CDATA[24]]></max>
       <currency><![CDATA[USD]]></currency>
       <unit><![CDATA[HOUR]]></unit>
-      <notes><![CDATA[$16-$24 per hour (? $33,000-$50,000/yr), depending on experience; entry-level may start $16-$18/h]]></notes>
+      <notes><![CDATA[$16-$24 per hour (? $33,000-$50,000/yr), depending on experience; entry-level may start $16-$18/hr]]></notes>
     </salary_detail>
 
     <description><![CDATA[
