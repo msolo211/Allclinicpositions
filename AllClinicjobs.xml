@@ -542,13 +542,13 @@
     <email><![CDATA[drcobb@healthstarclinic.com]]></email>
     <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary><![CDATA[$16-$24 per hour (? $33,000-$50,000/yr), depending on experience; entry-level may start $16-$18/hr]]></salary>
+    <salary><![CDATA[$16-$24 per hour ( about $33,000-$50,000/yr), depending on experience; entry-level may start $16-$]]></salary>
     <salary_detail>
       <min><![CDATA[16]]></min>
       <max><![CDATA[24]]></max>
       <currency><![CDATA[USD]]></currency>
       <unit><![CDATA[HOUR]]></unit>
-      <notes><![CDATA[$16-$24 per hour (? $33,000-$50,000/yr), depending on experience; entry-level may start $16-$18/hr]]></notes>
+      <notes><![CDATA[$16-$24 per hour ( about $33,000-$50,000/yr), depending on experience; entry-level may start $16-$]]></notes>
     </salary_detail>
 
     <description><![CDATA[
@@ -562,7 +562,7 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Excellent interpersonal and communication skills.</li><li>Organized, dependable, and detail-oriented.</li><li>Comfortable with scheduling software and EMR systems.</li><li>Intake experience; insurance verification a plus.</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Pay: $16-$24 per hour (? $33,000-$50,000/yr), depending on experience; entry-level may start $16-$18/hr.</li></ul>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Pay: $16-$24 per hour ( about $33,000-$50,000/yr), depending on experience; entry-level may start $16-$18/hr.</li></ul>
     ]]></description>
   </job>
 </source>
