@@ -542,13 +542,13 @@
     <email><![CDATA[drcobb@healthstarclinic.com]]></email>
     <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary><![CDATA[$16-$24 per hour ( about $33,000-$50,000/yr), depending on experience;]]></salary>
+    <salary><![CDATA[$16-$24 per hour ( about $33,000-$50,000/yr), depending on experience]]></salary>
     <salary_detail>
       <min><![CDATA[16]]></min>
       <max><![CDATA[24]]></max>
       <currency><![CDATA[USD]]></currency>
       <unit><![CDATA[HOUR]]></unit>
-      <notes><![CDATA[$16-$24 per hour ( about $33,000-$50,000/yr), depending on experience;]]></notes>
+      <notes><![CDATA[$16-$24 per hour ( about $33,000-$50,000/yr), depending on experience]]></notes>
     </salary_detail>
 
     <description><![CDATA[
@@ -562,7 +562,54 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Excellent interpersonal and communication skills.</li><li>Organized, dependable, and detail-oriented.</li><li>Comfortable with scheduling software and EMR systems.</li><li>Intake experience; insurance verification a plus.</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Pay: $16-$24 per hour ( about $33,000-$50,000/yr), depending on experience;.</li></ul>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Pay: $16-$24 per hour ( about $33,000-$50,000/yr), depending on experience.</li></ul>
+    ]]></description>
+  </job>
+
+  <!-- JOB 13 - big job (GA - Savannah) -->
+  <job>
+    <referencenumber><![CDATA[LHFCLQ]]></referencenumber>
+    <requisitionid><![CDATA[LHFCLQ]]></requisitionid>
+    <title><![CDATA[big job]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=LHFCLQ#jobId=LHFCLQ]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=LHFCLQ&state=GA&sid=LHFCLQ]]></apply_url>
+
+    <date><![CDATA[2026-05-06T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Savannah]]></city>
+      <state><![CDATA[GA]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
+    </location>
+
+    <company><![CDATA[gig]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[Marcus78666@yahoo.com]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <salary><![CDATA[]]></salary>
+    <salary_detail>
+      <min><![CDATA[]]></min>
+      <max><![CDATA[]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[]]></notes>
+    </salary_detail>
+
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>thisi is test data for xml</p>
+
+      <h4>Job Description</h4>
+      <p>this is test data for xml</p>
+
+      <h4>Qualifications</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>This is test data fro xml</li></ul>
+
+      <h4>Other Information</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Test data for xml</li></ul>
     ]]></description>
   </job>
 </source>
