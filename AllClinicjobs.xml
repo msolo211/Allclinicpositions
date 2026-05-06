@@ -1,190 +1,229 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <source>
 
+
+  <!-- JOB 1 - Chiropractor - Sports and Wellness (ME - Summers) -->
   <job>
     <referencenumber><![CDATA[8SR5K4]]></referencenumber>
     <requisitionid><![CDATA[8SR5K4]]></requisitionid>
-    <title><![CDATA[Chiropractor ? Sports and Wellness]]></title>
+    <title><![CDATA[Chiropractor - Sports and Wellness]]></title>
+
     <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=8SR5K4#jobId=8SR5K4]]></url>
     <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=8SR5K4&state=ME&sid=8SR5K4]]></apply_url>
+
     <date><![CDATA[2026-04-23T12:00:00Z]]></date>
 
     <location>
       <city><![CDATA[Summers]]></city>
       <state><![CDATA[ME]]></state>
-      <postalcode><![CDATA[]]></postalcode>
       <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
     </location>
 
     <company><![CDATA[Super Starr Chiropractic]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[]]></email>
-    <jobtype><![CDATA[Full-time]]></jobtype>
+    <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary>
-      <salarymin><![CDATA[]]></salarymin>
-      <salarymax><![CDATA[]]></salarymax>
-      <salarycurrency><![CDATA[USD]]></salarycurrency>
-      <salaryunit><![CDATA[YEAR]]></salaryunit>
-      <salarynotes><![CDATA[]]></salarynotes>
-    </salary>
+    <salary><![CDATA[$75,001 - $85,000 (including incentives in the base range)]]></salary>
+    <salary_detail>
+      <min><![CDATA[75001]]></min>
+      <max><![CDATA[85000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$75,001 - $85,000 (including incentives in the base range)]]></notes>
+    </salary_detail>
 
-    <description><![CDATA[<h4>Company Description</h4>
+    <description><![CDATA[
+<h4>Company Description</h4>
       <p>We are local franchise, large management group in a multi-location setting. The practice has been established for 10+ years. The office is holistic/patient-centric. Our patient base is general wellness, with a focus in sports (Straight). Collaboration with other health professions is independent/respectful.<br><br>.</p>
 
       <h4>Job Description</h4>
-      <p>We are hiring a Full-Time Doctor. Timing: 4?6 months. Multi-location: Required. Typical pace: 11?20 patients/day. Charting: comprehensive ehr. Care plans: flexible by progress. Patient preference: activator. Larger side-posture adjustments: No. We value a doctor who is compassionate. Support growth through health screenings, events/meetings, and other.<br><br>Common approaches/modalities include Thompson, Diversified, Other adjusting, E-Stim, and Heat/Cold. Familiarity with Gonstead, Activator, SOT, Ultrasound, and Other adjuncts is helpful</p>
+      <p>We are hiring a Full-Time Doctor. Timing: 4-6 months. Multi-location: Required. Typical pace: 11-20 patients/day. Charting: comprehensive ehr. Care plans: flexible by progress. Patient preference: activator. Larger side-posture adjustments: No. We value a doctor who is compassionate. Support growth through health screenings, events/meetings, and other.<br><br>Common approaches/modalities include Thompson, Diversified, Other adjusting, E-Stim, and Heat/Cold. Familiarity with Gonstead, Activator, SOT, Ultrasound, and Other adjuncts is helpful</p>
 
       <h4>Qualifications</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Licensing: Must be licensed.</li><li>Experience: 3?5 years.</li><li>Ideal-fit traits include: Adjustment-first, Balanced adjust+therapy, Community-active, Sports injury skilled, PI experienced, Geriatrics experienced, Full-time, EHR comfortable, Open-minded.</li><li>Priorities: Adjusting; Adjusting Ability.</li><li>Clinical approach alignment: philosophical-based = traditional + modern mix; evidence-based = symptom relief focus.</li><li>We are open to all qualified applicants.</li></ul>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Licensing: Must be licensed.</li><li>Experience: 3-5 years.</li><li>Ideal-fit traits include: Adjustment-first, Balanced adjust+therapy, Community-active, Sports injury skilled, PI experienced, Geriatrics experienced, Full-time, EHR comfortable, Open-minded.</li><li>Priorities: Adjusting; Adjusting Ability.</li><li>Clinical approach alignment: philosophical-based = traditional + modern mix; evidence-based = symptom relief focus.</li><li>We are open to all qualified applicants.</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary range: $75,001 - $85,000 (including incentives in the base range).</li><li>Benefits may include CE.</li><li>Continuing education: Above minimum.</li></ul>]]></description>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary range: $75,001 - $85,000 (including incentives in the base range).</li><li>Benefits may include CE.</li><li>Continuing education: Above minimum.</li></ul>
+    ]]></description>
   </job>
+
+  <!-- JOB 2 - Chiropractor - Sports Focus (MA - Newton Upper Falls) -->
   <job>
     <referencenumber><![CDATA[C2VLC0]]></referencenumber>
     <requisitionid><![CDATA[C2VLC0]]></requisitionid>
-    <title><![CDATA[Chiropractor ? Sports Focus]]></title>
+    <title><![CDATA[Chiropractor - Sports Focus]]></title>
+
     <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=C2VLC0#jobId=C2VLC0]]></url>
     <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=C2VLC0&state=MA&sid=C2VLC0]]></apply_url>
+
     <date><![CDATA[2026-04-30T12:00:00Z]]></date>
 
     <location>
       <city><![CDATA[Newton Upper Falls]]></city>
       <state><![CDATA[MA]]></state>
-      <postalcode><![CDATA[]]></postalcode>
       <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
     </location>
 
     <company><![CDATA[Newton Chiropractic]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[julieb@welladjusted.com]]></email>
-    <jobtype><![CDATA[Full-time]]></jobtype>
+    <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary>
-      <salarymin><![CDATA[]]></salarymin>
-      <salarymax><![CDATA[]]></salarymax>
-      <salarycurrency><![CDATA[USD]]></salarycurrency>
-      <salaryunit><![CDATA[YEAR]]></salaryunit>
-      <salarynotes><![CDATA[]]></salarynotes>
-    </salary>
+    <salary><![CDATA[$75,000 - $85,000 (including incentives in the base range)]]></salary>
+    <salary_detail>
+      <min><![CDATA[75000]]></min>
+      <max><![CDATA[85000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$75,000 - $85,000 (including incentives in the base range)]]></notes>
+    </salary_detail>
 
-    <description><![CDATA[<h4>Company Description</h4>
+    <description><![CDATA[
+<h4>Company Description</h4>
       <p>We are independent practice in a rural setting. The practice has been established for 10+ years. The office is holistic/patient-centric. Our patient base is general wellness, with a focus in sports (Wellness). Within the office we have other chiropractors, it is open concept with a large waiting room, Shared office, Shared staff, Treatment equipment, Computers.</p>
 
       <h4>Job Description</h4>
-      <p>We are hiring a Full-Time Doctor. Timing: 1?3 months. Multi-location: Preferred but flexible. Typical pace: 21?30 patients/day. Charting: comprehensive ehr. Care plans: flexible by progress. Patient preference: gentle/low-impact. We value a doctor who is friendly and supports growth through educational talks. Common approaches are modalities and adjusting. Familiarity with Heat/Cold and other adjuncts is helpful.</p>
+      <p>We are hiring a Full-Time Doctor. Timing: 1-3 months. Multi-location: Preferred but flexible. Typical pace: 21-30 patients/day. Charting: comprehensive ehr. Care plans: flexible by progress. Patient preference: gentle/low-impact. We value a doctor who is friendly and supports growth through educational talks. Common approaches are modalities and adjusting. Familiarity with Heat/Cold and other adjuncts is helpful.</p>
 
       <h4>Qualifications</h4>
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Licensing: Preferably already state licensed or applied.</li><li>Relocation: Relocation assistance available.</li><li>Distance preference: Closer is better</li><li>Ideal-fit traits include: Adjustment-first, Community-active, Business-minded, High-volume comfortable, Full-time, EHR comfortable, Open-minded, Adjusting &gt; personality.</li><li>Priorities: Character; Personality.</li><li>Clinical approach alignment: philosophical-based = traditional + modern mix; evidence-based = patient-feedback informed.</li><li>We are open to all qualified applicants.</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary range: $75,000 - $85,000 (including incentives in the base range).</li><li>Benefits may include Retirement and CE</li></ul>]]></description>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary range: $75,000 - $85,000 (including incentives in the base range).</li><li>Benefits may include Retirement and CE</li></ul>
+    ]]></description>
   </job>
+
+  <!-- JOB 3 - Associate Chiropractor - Upper Cervical and Full-Spine (WA - Vancouver) -->
   <job>
     <referencenumber><![CDATA[LQ7ZUK]]></referencenumber>
     <requisitionid><![CDATA[LQ7ZUK]]></requisitionid>
-    <title><![CDATA[Associate Chiropractor ? Upper Cervical and Full-Spine]]></title>
+    <title><![CDATA[Associate Chiropractor - Upper Cervical and Full-Spine]]></title>
+
     <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=LQ7ZUK#jobId=LQ7ZUK]]></url>
     <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=LQ7ZUK&state=WA&sid=LQ7ZUK]]></apply_url>
+
     <date><![CDATA[2026-05-02T12:00:00Z]]></date>
 
     <location>
       <city><![CDATA[Vancouver]]></city>
       <state><![CDATA[WA]]></state>
-      <postalcode><![CDATA[]]></postalcode>
       <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
     </location>
 
     <company><![CDATA[Atlas]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[vancouvernewchiro.g586k@passinbox.com]]></email>
-    <jobtype><![CDATA[Full-time]]></jobtype>
+    <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary>
-      <salarymin><![CDATA[]]></salarymin>
-      <salarymax><![CDATA[]]></salarymax>
-      <salarycurrency><![CDATA[USD]]></salarycurrency>
-      <salaryunit><![CDATA[YEAR]]></salaryunit>
-      <salarynotes><![CDATA[]]></salarynotes>
-    </salary>
+    <salary><![CDATA[$85,000+ (higher depending on experience, personality, and adjusting skill)]]></salary>
+    <salary_detail>
+      <min><![CDATA[85000]]></min>
+      <max><![CDATA[85000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$85,000+ (higher depending on experience, personality, and adjusting skill)]]></notes>
+    </salary_detail>
 
-    <description><![CDATA[<h4>Company Description</h4>
-      <p>Established chiropractic practice focused on high-quality outcomes, strong doctor?patient relationships, and long-term growth. The clinic follows upper cervical?influenced protocols while delivering Activator and full-spine, hands-on care in a patient-centered environment.</p>
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>Established chiropractic practice focused on high-quality outcomes, strong doctor-patient relationships, and long-term growth. The clinic follows upper cervical-influenced protocols while delivering Activator and full-spine, hands-on care in a patient-centered environment.</p>
 
       <h4>Job Description</h4>
-      <p>Associate Chiropractor role focused on patient relationships and continued practice growth, with long-term partnership or ownership potential for the right person<br><br>Provide hands-on, full-spine chiropractic care (upper cervical and activator?influenced protocols)<br><br>Build trust and long-term relationships through communication and care planning<br><br>Stay open minded to learn new skills and refine and expand clinical technique<br><br>Contribute to practice growth, patient experience, and team culture</p>
+      <p>Associate Chiropractor role focused on patient relationships and continued practice growth, with long-term partnership or ownership potential for the right person<br><br>Provide hands-on, full-spine chiropractic care (upper cervical and activator-influenced protocols)<br><br>Build trust and long-term relationships through communication and care planning<br><br>Stay open minded to learn new skills and refine and expand clinical technique<br><br>Contribute to practice growth, patient experience, and team culture</p>
 
       <h4>Qualifications</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Doctor of Chiropractic (D.C.) degree</li><li>Active or eligible chiropractic license</li><li>Strong hands-on adjusting skills</li><li>Open minded to learn new skills and adapt to protocols</li><li>Professional, dependable, and patient-centered</li><li>Entrepreneurial mindset (not a ?punch-the-clock? mentality)</li></ul>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Doctor of Chiropractic (D.C.) degree</li><li>Active or eligible chiropractic license</li><li>Strong hands-on adjusting skills</li><li>Open minded to learn new skills and adapt to protocols</li><li>Professional, dependable, and patient-centered</li><li>Entrepreneurial mindset (not a "punch-the-clock" mentality)</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Base salary: $85,000+ (higher depending on experience, personality, and adjusting skill)</li><li>Benefits: malpractice coverage, health insurance, retirement, CE opportunities</li><li>Growth path: partnership or ownership potential for the right chiropractor</li></ul>]]></description>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Base salary: $85,000+ (higher depending on experience, personality, and adjusting skill)</li><li>Benefits: malpractice coverage, health insurance, retirement, CE opportunities</li><li>Growth path: partnership or ownership potential for the right chiropractor</li></ul>
+    ]]></description>
   </job>
+
+  <!-- JOB 4 - Chiropractor - Focused General Wellness (AL - Montgomery) -->
   <job>
     <referencenumber><![CDATA[W2ZFE8]]></referencenumber>
     <requisitionid><![CDATA[W2ZFE8]]></requisitionid>
-    <title><![CDATA[Chiropractor ? Focused General Wellness]]></title>
+    <title><![CDATA[Chiropractor - Focused General Wellness]]></title>
+
     <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=W2ZFE8#jobId=W2ZFE8]]></url>
     <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=W2ZFE8&state=AL&sid=W2ZFE8]]></apply_url>
+
     <date><![CDATA[2026-05-05T12:00:00Z]]></date>
 
     <location>
       <city><![CDATA[Montgomery]]></city>
       <state><![CDATA[AL]]></state>
-      <postalcode><![CDATA[]]></postalcode>
       <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
     </location>
 
     <company><![CDATA[Health Star]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[drcobb@healthstarclinic.com]]></email>
-    <jobtype><![CDATA[Full-time]]></jobtype>
+    <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary>
-      <salarymin><![CDATA[]]></salarymin>
-      <salarymax><![CDATA[]]></salarymax>
-      <salarycurrency><![CDATA[USD]]></salarycurrency>
-      <salaryunit><![CDATA[YEAR]]></salaryunit>
-      <salarynotes><![CDATA[]]></salarynotes>
-    </salary>
+    <salary><![CDATA[$95,001 and above (including incentives in the base range)]]></salary>
+    <salary_detail>
+      <min><![CDATA[95001]]></min>
+      <max><![CDATA[95001]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$95,001 and above (including incentives in the base range)]]></notes>
+    </salary_detail>
 
-    <description><![CDATA[<h4>Company Description</h4>
+    <description><![CDATA[
+<h4>Company Description</h4>
       <p>We are independent practice, transitioning to management in a suburban setting. The practice has been established for 10+ years. The office is modern/high-tech. Our patient base is elderly pain-relief, with a focus in general wellness (Integrated). Collaboration with other health professions is independent/respectful.<br><br>Office features: Clinic manager, CA, Other doctors, Open concept, Own office, Own staff, Treatment equipment.</p>
 
       <h4>Job Description</h4>
       <p>We are hiring a Full-Time Doctor. Timing: Immediately. Multi-location: Single location only. Typical pace: 31+ patients/day. Charting: paper records. Care plans: detailed per-patient plan. Patient preference: We value a doctor who is assertive. Support growth through local associations, personal advertising, and not necessary.<br><br>Common approaches/modalities include Thompson, Diversified, E-Stim, Ultrasound, and other adjuncts. Familiarity with Gonstead, Activator, Computerized adjusting,<br><br>Clinic manager, CA, Other doctors, Open concept, Own office, Own staff, Treatment equipment. Marketing includes tv, radio, and word of mouth. Community involvement includes sponsoring events.</p>
 
       <h4>Qualifications</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Licensing: Preferably licensed.</li><li>Boards/testing: Boards completed.</li><li>Experience: 3?5 years.</li><li>Distance preference: Closer is better.</li><li>Ideal-fit traits include: Balanced adjust+therapy, Community-active, Patient-care focused, PI experienced, High-volume comfortable, Full-time, Experience flexible, Open-minded, X-ray assessment, Personality &gt; adjusting.</li><li>We are open to all qualified applicants.</li></ul>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Licensing: Preferably licensed.</li><li>Boards/testing: Boards completed.</li><li>Experience: 3-5 years.</li><li>Distance preference: Closer is better.</li><li>Ideal-fit traits include: Balanced adjust+therapy, Community-active, Patient-care focused, PI experienced, High-volume comfortable, Full-time, Experience flexible, Open-minded, X-ray assessment, Personality &gt; adjusting.</li><li>We are open to all qualified applicants.</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary range: $95,001 and above (including incentives in the base range).</li><li>Benefits may include Malpractice.</li><li>Continuing education: Minimum only.</li><li>Relocation: Relocation assistance available.</li></ul>]]></description>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary range: $95,001 and above (including incentives in the base range).</li><li>Benefits may include Malpractice.</li><li>Continuing education: Minimum only.</li><li>Relocation: Relocation assistance available.</li></ul>
+    ]]></description>
   </job>
+
+  <!-- JOB 5 - Chiropractor - General wellness - Cookeville, TN (#C7YYWN) (TN - Cookeville) -->
   <job>
     <referencenumber><![CDATA[C7YYWN]]></referencenumber>
     <requisitionid><![CDATA[C7YYWN]]></requisitionid>
-    <title><![CDATA[Chiropractor ? General wellness ? Cookeville, TN (#C7YYWN)]]></title>
+    <title><![CDATA[Chiropractor - General wellness - Cookeville, TN (#C7YYWN)]]></title>
+
     <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=C7YYWN#jobId=C7YYWN]]></url>
     <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=C7YYWN&state=TN&sid=C7YYWN]]></apply_url>
+
     <date><![CDATA[2026-05-05T12:00:00Z]]></date>
 
     <location>
       <city><![CDATA[Cookeville]]></city>
       <state><![CDATA[TN]]></state>
-      <postalcode><![CDATA[]]></postalcode>
       <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
     </location>
 
     <company><![CDATA[WellSpring]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[drdwellspringfamilychiro@gmail.com]]></email>
-    <jobtype><![CDATA[Full-time]]></jobtype>
+    <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary>
-      <salarymin><![CDATA[]]></salarymin>
-      <salarymax><![CDATA[]]></salarymax>
-      <salarycurrency><![CDATA[USD]]></salarycurrency>
-      <salaryunit><![CDATA[YEAR]]></salaryunit>
-      <salarynotes><![CDATA[]]></salarynotes>
-    </salary>
+    <salary><![CDATA[$75,001 - $85,000 (including incentives in the base range)]]></salary>
+    <salary_detail>
+      <min><![CDATA[75001]]></min>
+      <max><![CDATA[85000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$75,001 - $85,000 (including incentives in the base range)]]></notes>
+    </salary_detail>
 
-    <description><![CDATA[<h4>Company Description</h4>
+    <description><![CDATA[
+<h4>Company Description</h4>
       <p>Independent practice that has been established for 10+ years. The office is traditional/welcoming. Our patient base is general wellness,<br><br>Office features: CA, Other doctors, Private room, Large waiting room, Own office, Own staff, Treatment equipment.</p>
 
       <h4>Job Description</h4>
@@ -194,36 +233,44 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Licensing: Must be licensed. or applied for license</li><li>Experience: Open</li><li>Ideal-fit traits include: Balanced adjust+therapy, Community-active, Business-minded, PI experienced, Full-time, Experience flexible, EHR comfortable, Open-minded, Ortho testing, Personality &gt; adjusting.</li><li>Clinical approach alignment: philosophical-based = holistic approach; evidence-based = patient-feedback informed.</li><li>We are open to all qualified applicants.</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary range: $75,001 - $85,000 (including incentives in the base range).</li><li>Benefits may include Health.</li><li>Continuing education: Above minimum.</li></ul>]]></description>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary range: $75,001 - $85,000 (including incentives in the base range).</li><li>Benefits may include Health.</li><li>Continuing education: Above minimum.</li></ul>
+    ]]></description>
   </job>
+
+  <!-- JOB 6 - LMT (Licensed Massage Therapist) - Patient Focused Wellness (WA - Camas) -->
   <job>
     <referencenumber><![CDATA[J52C3S]]></referencenumber>
     <requisitionid><![CDATA[J52C3S]]></requisitionid>
     <title><![CDATA[LMT (Licensed Massage Therapist) - Patient Focused Wellness]]></title>
+
     <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=J52C3S#jobId=J52C3S]]></url>
     <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=J52C3S&state=WA&sid=J52C3S]]></apply_url>
+
     <date><![CDATA[2026-05-06T12:00:00Z]]></date>
 
     <location>
       <city><![CDATA[Camas]]></city>
       <state><![CDATA[WA]]></state>
-      <postalcode><![CDATA[]]></postalcode>
       <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
     </location>
 
     <company><![CDATA[Atlas Inc.]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[xdrnicole.xasc@gmail.com]]></email>
-    <jobtype><![CDATA[Full-time]]></jobtype>
+    <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary>
-      <salarymin><![CDATA[]]></salarymin>
-      <salarymax><![CDATA[]]></salarymax>
-      <salarycurrency><![CDATA[USD]]></salarycurrency>
-      <salaryunit><![CDATA[YEAR]]></salaryunit>
-      <salarynotes><![CDATA[]]></salarynotes>
-    </salary>
+    <salary><![CDATA[$30 - $60 a hour (? $60,000-$120,000 / yr) depending on experience]]></salary>
+    <salary_detail>
+      <min><![CDATA[30]]></min>
+      <max><![CDATA[60]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[HOUR]]></unit>
+      <notes><![CDATA[$30 - $60 a hour (? $60,000-$120,000 / yr) depending on experience]]></notes>
+    </salary_detail>
 
-    <description><![CDATA[<h4>Company Description</h4>
+    <description><![CDATA[
+<h4>Company Description</h4>
       <p>Our chiropractic office blends clinical efficiency with holistic care. We prioritize a calm, clean, and collaborative work atmosphere where every staff member contributes to a supportive and respectful environment for patients and coworkers alike.</p>
 
       <h4>Job Description</h4>
@@ -233,37 +280,45 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Active Washington Massage Therapy License (required).</li><li>Skilled with therapeutic modalities under clinical supervision.</li><li>Calm, professional, and team-oriented; punctual and reliable.</li><li>Open to structured procedures and continuing education.</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Part-time or full-time schedules available.</li><li>Daytime plus occasional evening hours.</li><li>Strong office culture with clear communication &amp; respect for work-life balance.</li><li>Salary $30 - $60 a hour (? $60,000?$120,000 / yr) depending on experience.</li></ul>]]></description>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Part-time or full-time schedules available.</li><li>Daytime plus occasional evening hours.</li><li>Strong office culture with clear communication &amp; respect for work-life balance.</li><li>Salary $30 - $60 a hour (? $60,000-$120,000 / yr) depending on experience.</li></ul>
+    ]]></description>
   </job>
+
+  <!-- JOB 7 - Associate Chiropractor - Relationship-Driven Wellness Clinic (PA - Chadds Ford) -->
   <job>
     <referencenumber><![CDATA[6A5WPF]]></referencenumber>
     <requisitionid><![CDATA[6A5WPF]]></requisitionid>
-    <title><![CDATA[Associate Chiropractor ? Relationship-Driven Wellness Clinic]]></title>
+    <title><![CDATA[Associate Chiropractor - Relationship-Driven Wellness Clinic]]></title>
+
     <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=6A5WPF#jobId=6A5WPF]]></url>
     <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=6A5WPF&state=PA&sid=6A5WPF]]></apply_url>
+
     <date><![CDATA[2026-05-06T12:00:00Z]]></date>
 
     <location>
       <city><![CDATA[Chadds Ford]]></city>
       <state><![CDATA[PA]]></state>
-      <postalcode><![CDATA[]]></postalcode>
       <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
     </location>
 
     <company><![CDATA[HBC]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[xdrjoe@xhopebraincenter.com]]></email>
-    <jobtype><![CDATA[Full-time]]></jobtype>
+    <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary>
-      <salarymin><![CDATA[]]></salarymin>
-      <salarymax><![CDATA[]]></salarymax>
-      <salarycurrency><![CDATA[USD]]></salarycurrency>
-      <salaryunit><![CDATA[YEAR]]></salaryunit>
-      <salarynotes><![CDATA[]]></salarynotes>
-    </salary>
+    <salary><![CDATA[$85K-$100K)]]></salary>
+    <salary_detail>
+      <min><![CDATA[85]]></min>
+      <max><![CDATA[100]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$85K-$100K)]]></notes>
+    </salary_detail>
 
-    <description><![CDATA[<h4>Company Description</h4>
-      <p>Our clinic thrives on strong patient relationships, consistent results, and a team environment where every provider?s contribution matters. We integrate functional neurology principles alongside hands-on adjustments and complementary services to improve both structure and function.</p>
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>Our clinic thrives on strong patient relationships, consistent results, and a team environment where every provider's contribution matters. We integrate functional neurology principles alongside hands-on adjustments and complementary services to improve both structure and function.</p>
 
       <h4>Job Description</h4>
       <p>Perform tailored chiropractic adjustments based on individual needs.<br><br>Collaborate with other providers to enhance patient outcomes.<br><br>Guide patients through care plans with clarity and empathy.<br><br>Track progress and adapt strategies to ensure optimal results.<br><br>Maintain professional, timely, accurate documentation.</p>
@@ -272,36 +327,44 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Doctor of Chiropractic (DC) and current (or in-process) state license.</li><li>Excellent communication and patient education skills.</li><li>Strong ethics and commitment to a high standard of care.</li><li>Ability to collaborate within a diverse healthcare team.</li><li>Background in functional neurology is highly desirable (or strong interest to learn).</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Compensation: Base + performance incentives (realistic range $85K?$100K).</li><li>Benefits: health insurance, malpractice coverage, CEU allowance, advancement tracks.</li><li>Modern facility near top schools, amenities, and outdoor recreation.</li></ul>]]></description>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Compensation: Base + performance incentives (realistic range $85K-$100K).</li><li>Benefits: health insurance, malpractice coverage, CEU allowance, advancement tracks.</li><li>Modern facility near top schools, amenities, and outdoor recreation.</li></ul>
+    ]]></description>
   </job>
+
+  <!-- JOB 8 - Experienced Associate Chiropractor (TX - Spring) -->
   <job>
     <referencenumber><![CDATA[9QZ97Q]]></referencenumber>
     <requisitionid><![CDATA[9QZ97Q]]></requisitionid>
     <title><![CDATA[Experienced Associate Chiropractor]]></title>
+
     <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=9QZ97Q#jobId=9QZ97Q]]></url>
     <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=9QZ97Q&state=TX&sid=9QZ97Q]]></apply_url>
+
     <date><![CDATA[2026-05-06T12:00:00Z]]></date>
 
     <location>
       <city><![CDATA[Spring]]></city>
       <state><![CDATA[TX]]></state>
-      <postalcode><![CDATA[]]></postalcode>
       <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
     </location>
 
     <company><![CDATA[WSTJ]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[Stone@thejoint.com]]></email>
-    <jobtype><![CDATA[Full-time]]></jobtype>
+    <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary>
-      <salarymin><![CDATA[]]></salarymin>
-      <salarymax><![CDATA[]]></salarymax>
-      <salarycurrency><![CDATA[USD]]></salarycurrency>
-      <salaryunit><![CDATA[YEAR]]></salaryunit>
-      <salarynotes><![CDATA[]]></salarynotes>
-    </salary>
+    <salary><![CDATA[$87,000 annually + signing bonus]]></salary>
+    <salary_detail>
+      <min><![CDATA[87000]]></min>
+      <max><![CDATA[87000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$87,000 annually + signing bonus]]></notes>
+    </salary_detail>
 
-    <description><![CDATA[<h4>Company Description</h4>
+    <description><![CDATA[
+<h4>Company Description</h4>
       <p>Join our state-of-the-art wellness practice located near Spring, Texas. Our open-concept, hands-on chiropractic clinic utilizes diversified, Thompson, and Activator techniques. We prioritize hands-on adjustments as the core of our treatment plans, supplemented with adjunct therapies as needed. Each patient receives an individualized care plan tailored to their specific needs.</p>
 
       <h4>Job Description</h4>
@@ -311,76 +374,92 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Active Texas chiropractic license (or application in process).</li><li>Humble, skilled adjuster with strong commitment to patient outcomes.</li><li>Excellent communication and interpersonal skills.</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Compensation: Base salary $87,000 annually + signing bonus.</li><li>Comprehensive insurance package included.</li><li>Relocation stipend available for the right candidate.</li></ul>]]></description>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Compensation: Base salary $87,000 annually + signing bonus.</li><li>Comprehensive insurance package included.</li><li>Relocation stipend available for the right candidate.</li></ul>
+    ]]></description>
   </job>
+
+  <!-- JOB 9 - Chiropractor-First Wellness Center - Join Our Collaborative Team (AL - Birmingham) -->
   <job>
     <referencenumber><![CDATA[8EEZ4D]]></referencenumber>
     <requisitionid><![CDATA[8EEZ4D]]></requisitionid>
-    <title><![CDATA[Chiropractor-First Wellness Center ? Join Our Collaborative Team]]></title>
+    <title><![CDATA[Chiropractor-First Wellness Center - Join Our Collaborative Team]]></title>
+
     <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=8EEZ4D#jobId=8EEZ4D]]></url>
     <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=8EEZ4D&state=AL&sid=8EEZ4D]]></apply_url>
+
     <date><![CDATA[2026-05-06T12:00:00Z]]></date>
 
     <location>
       <city><![CDATA[Birmingham]]></city>
       <state><![CDATA[AL]]></state>
-      <postalcode><![CDATA[]]></postalcode>
       <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
     </location>
 
     <company><![CDATA[HS]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[drcobb@healthstarclinic.com]]></email>
-    <jobtype><![CDATA[Full-time]]></jobtype>
+    <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary>
-      <salarymin><![CDATA[]]></salarymin>
-      <salarymax><![CDATA[]]></salarymax>
-      <salarycurrency><![CDATA[USD]]></salarycurrency>
-      <salaryunit><![CDATA[YEAR]]></salaryunit>
-      <salarynotes><![CDATA[]]></salarynotes>
-    </salary>
+    <salary><![CDATA[$85,000-$100,000 per year + incentives (competitive base + performance incentives)]]></salary>
+    <salary_detail>
+      <min><![CDATA[85000]]></min>
+      <max><![CDATA[100000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$85,000-$100,000 per year + incentives (competitive base + performance incentives)]]></notes>
+    </salary_detail>
 
-    <description><![CDATA[<h4>Company Description</h4>
-      <p>Join a chiropractor-led, adjustment-forward practice in the Birmingham metro area where clinical decision-making is respected and patient outcomes drive everything. Our team blends high-skill hands-on chiropractic with supportive rehab and wellness services?added only when they truly strengthen results. You?ll work alongside professionals who communicate well, share ideas easily, and keep the culture grounded, upbeat, and patient-first.</p>
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>Join a chiropractor-led, adjustment-forward practice in the Birmingham metro area where clinical decision-making is respected and patient outcomes drive everything. Our team blends high-skill hands-on chiropractic with supportive rehab and wellness services-added only when they truly strengthen results. You'll work alongside professionals who communicate well, share ideas easily, and keep the culture grounded, upbeat, and patient-first.</p>
 
       <h4>Job Description</h4>
-      <p>Deliver precise, individualized spinal and extremity adjustments as the foundation of care when clinically indicated. Build smart, streamlined care plans?integrating rehab and supportive modalities (laser, PT-style exercise, regenerative options, etc.) only when they meaningfully enhance the outcome. Educate patients in practical spine-health habits, ergonomics, and lifestyle strategies that reduce flare-ups and improve long-term function. Document clearly and efficiently to support continuity of care and clinical quality. Contribute to clinical protocols and team workflows?your voice matters here.</p>
+      <p>Deliver precise, individualized spinal and extremity adjustments as the foundation of care when clinically indicated. Build smart, streamlined care plans-integrating rehab and supportive modalities (laser, PT-style exercise, regenerative options, etc.) only when they meaningfully enhance the outcome. Educate patients in practical spine-health habits, ergonomics, and lifestyle strategies that reduce flare-ups and improve long-term function. Document clearly and efficiently to support continuity of care and clinical quality. Contribute to clinical protocols and team workflows-your voice matters here.</p>
 
       <h4>Qualifications</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Active (or soon-to-be active) Alabama chiropractic license.</li><li>Strong adjusting confidence with an ?adjustment-first? care philosophy.</li><li>Team-minded, collaborative communication style and comfort with patient education.</li><li>New grads welcome (structured mentorship available) as well as experienced DCs.</li></ul>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Active (or soon-to-be active) Alabama chiropractic license.</li><li>Strong adjusting confidence with an "adjustment-first" care philosophy.</li><li>Team-minded, collaborative communication style and comfort with patient education.</li><li>New grads welcome (structured mentorship available) as well as experienced DCs.</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Compensation: $85,000?$100,000 per year + incentives (competitive base + performance incentives).</li><li>Benefits may include health coverage, malpractice support, CEU allowance, and clear paths for growth.</li><li>Modern clinic setting in the Birmingham area with access to dining, neighborhoods, and outdoor recreation?without the ?corporate? feel.</li></ul>]]></description>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Compensation: $85,000-$100,000 per year + incentives (competitive base + performance incentives).</li><li>Benefits may include health coverage, malpractice support, CEU allowance, and clear paths for growth.</li><li>Modern clinic setting in the Birmingham area with access to dining, neighborhoods, and outdoor recreation-without the "corporate" feel.</li></ul>
+    ]]></description>
   </job>
+
+  <!-- JOB 10 - Associate Chiropractor - Wellness & Functional Neurology (PA - Philadelphia) -->
   <job>
     <referencenumber><![CDATA[XEPVBX]]></referencenumber>
     <requisitionid><![CDATA[XEPVBX]]></requisitionid>
-    <title><![CDATA[Associate Chiropractor ? Wellness & Functional Neurology]]></title>
+    <title><![CDATA[Associate Chiropractor - Wellness & Functional Neurology]]></title>
+
     <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=XEPVBX#jobId=XEPVBX]]></url>
     <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=XEPVBX&state=PA&sid=XEPVBX]]></apply_url>
+
     <date><![CDATA[2026-05-06T12:00:00Z]]></date>
 
     <location>
       <city><![CDATA[Philadelphia]]></city>
       <state><![CDATA[PA]]></state>
-      <postalcode><![CDATA[]]></postalcode>
       <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
     </location>
 
     <company><![CDATA[HBC]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[xdrjoe@xhopebraincenter.com]]></email>
-    <jobtype><![CDATA[Full-time]]></jobtype>
+    <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary>
-      <salarymin><![CDATA[]]></salarymin>
-      <salarymax><![CDATA[]]></salarymax>
-      <salarycurrency><![CDATA[USD]]></salarycurrency>
-      <salaryunit><![CDATA[YEAR]]></salaryunit>
-      <salarynotes><![CDATA[]]></salarynotes>
-    </salary>
+    <salary><![CDATA[$85K-$100K)]]></salary>
+    <salary_detail>
+      <min><![CDATA[85]]></min>
+      <max><![CDATA[100]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$85K-$100K)]]></notes>
+    </salary_detail>
 
-    <description><![CDATA[<h4>Company Description</h4>
-      <p>Our Philadelphia wellness clinic restores balance and optimizes the body?s ability to heal by combining the art of chiropractic with the science of functional neurology. We address both structure and function to help patients achieve pain relief and long-term vitality.</p>
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>Our Philadelphia wellness clinic restores balance and optimizes the body's ability to heal by combining the art of chiropractic with the science of functional neurology. We address both structure and function to help patients achieve pain relief and long-term vitality.</p>
 
       <h4>Job Description</h4>
       <p>Deliver individualized chiropractic adjustments as the foundation of care. Integrate functional neurology concepts to enhance outcomes. Educate and motivate patients on lifestyle habits that support nervous system balance. Collaborate with other providers on comprehensive care plans. Document care thoroughly and contribute to case reviews.</p>
@@ -389,36 +468,44 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Deliver individualized chiropractic adjustments as the foundation of care.</li><li>Integrate functional neurology concepts to enhance outcomes.</li><li>Educate and motivate patients on lifestyle habits that support nervous system balance.</li><li>Collaborate with other providers on comprehensive care plans.</li><li>Document care thoroughly and contribute to case reviews.</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Compensation: Base + performance incentives (realistic range $85K?$100K).</li><li>Benefits: Health insurance, malpractice coverage, CEU allowance, and advancement opportunities.</li><li>Modern wellness facility with access to Philadelphia?s cultural amenities, dining, and outdoor recreation.</li></ul>]]></description>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Compensation: Base + performance incentives (realistic range $85K-$100K).</li><li>Benefits: Health insurance, malpractice coverage, CEU allowance, and advancement opportunities.</li><li>Modern wellness facility with access to Philadelphia's cultural amenities, dining, and outdoor recreation.</li></ul>
+    ]]></description>
   </job>
+
+  <!-- JOB 11 - Functional Neurology-Speciality Focused Chiropractor (PA - Wayne) -->
   <job>
     <referencenumber><![CDATA[75BSEF]]></referencenumber>
     <requisitionid><![CDATA[75BSEF]]></requisitionid>
-    <title><![CDATA[Functional Neurology?Speciality Focused Chiropractor]]></title>
+    <title><![CDATA[Functional Neurology-Speciality Focused Chiropractor]]></title>
+
     <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=75BSEF#jobId=75BSEF]]></url>
     <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=75BSEF&state=PA&sid=75BSEF]]></apply_url>
+
     <date><![CDATA[2026-05-06T12:00:00Z]]></date>
 
     <location>
       <city><![CDATA[Wayne]]></city>
       <state><![CDATA[PA]]></state>
-      <postalcode><![CDATA[]]></postalcode>
       <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
     </location>
 
     <company><![CDATA[Neuro Wellness]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[hbcpachiro.desktop552@passinbox.com]]></email>
-    <jobtype><![CDATA[Full-time]]></jobtype>
+    <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary>
-      <salarymin><![CDATA[]]></salarymin>
-      <salarymax><![CDATA[]]></salarymax>
-      <salarycurrency><![CDATA[USD]]></salarycurrency>
-      <salaryunit><![CDATA[YEAR]]></salaryunit>
-      <salarynotes><![CDATA[]]></salarynotes>
-    </salary>
+    <salary><![CDATA[$85,000-$100,000)]]></salary>
+    <salary_detail>
+      <min><![CDATA[85000]]></min>
+      <max><![CDATA[100000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$85,000-$100,000)]]></notes>
+    </salary_detail>
 
-    <description><![CDATA[<h4>Company Description</h4>
+    <description><![CDATA[
+<h4>Company Description</h4>
       <p>Our clinic, located near the Main Line, blends the art of chiropractic with the science of functional neurology to restore balance and optimize health.</p>
 
       <h4>Job Description</h4>
@@ -428,36 +515,44 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Licensed (or license-eligible) Doctor of Chiropractic (DC) in Pennsylvania.</li><li>Excellent interpersonal and communication abilities.</li><li>Commitment to high standards of care, ethical practice, and ongoing professional growth.</li><li>Background or coursework in functional neurology is a plus; strong interest and willingness to train are equally valued.</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Compensation: Base + performance incentives (expected range $85,000?$100,000).</li><li>Benefits: health insurance, malpractice coverage, CEU allowance, advancement opportunities.</li><li>Modern, patient-focused facility with easy access to the amenities of the Main Line and greater Philadelphia area.</li></ul>]]></description>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Compensation: Base + performance incentives (expected range $85,000-$100,000).</li><li>Benefits: health insurance, malpractice coverage, CEU allowance, advancement opportunities.</li><li>Modern, patient-focused facility with easy access to the amenities of the Main Line and greater Philadelphia area.</li></ul>
+    ]]></description>
   </job>
+
+  <!-- JOB 12 - Front Desk & Clinical Support - Chiropractic Clinic (AL - Montgomery) -->
   <job>
     <referencenumber><![CDATA[XATPF5]]></referencenumber>
     <requisitionid><![CDATA[XATPF5]]></requisitionid>
-    <title><![CDATA[Front Desk & Clinical Support ? Chiropractic Clinic]]></title>
+    <title><![CDATA[Front Desk & Clinical Support - Chiropractic Clinic]]></title>
+
     <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=XATPF5#jobId=XATPF5]]></url>
     <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=XATPF5&state=AL&sid=XATPF5]]></apply_url>
+
     <date><![CDATA[2026-05-06T12:00:00Z]]></date>
 
     <location>
       <city><![CDATA[Montgomery]]></city>
       <state><![CDATA[AL]]></state>
-      <postalcode><![CDATA[]]></postalcode>
       <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
     </location>
 
     <company><![CDATA[H Star Wellness]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
     <email><![CDATA[drcobb@healthstarclinic.com]]></email>
-    <jobtype><![CDATA[Full-time]]></jobtype>
+    <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary>
-      <salarymin><![CDATA[]]></salarymin>
-      <salarymax><![CDATA[]]></salarymax>
-      <salarycurrency><![CDATA[USD]]></salarycurrency>
-      <salaryunit><![CDATA[YEAR]]></salaryunit>
-      <salarynotes><![CDATA[]]></salarynotes>
-    </salary>
+    <salary><![CDATA[$16-$24 per hour (? $33,000-$50,000/yr), depending on experience; entry-level may start $16-$18/h]]></salary>
+    <salary_detail>
+      <min><![CDATA[16]]></min>
+      <max><![CDATA[24]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[HOUR]]></unit>
+      <notes><![CDATA[$16-$24 per hour (? $33,000-$50,000/yr), depending on experience; entry-level may start $16-$18/h]]></notes>
+    </salary_detail>
 
-    <description><![CDATA[<h4>Company Description</h4>
+    <description><![CDATA[
+<h4>Company Description</h4>
       <p>We are a chiropractic clinic that values precision, professionalism, and consistency while providing a welcoming environment for patients of all ages.</p>
 
       <h4>Job Description</h4>
@@ -467,6 +562,7 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Excellent interpersonal and communication skills.</li><li>Organized, dependable, and detail-oriented.</li><li>Comfortable with scheduling software and EMR systems.</li><li>Intake experience; insurance verification a plus.</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Pay: $16?$24 per hour (? $33,000?$50,000/yr), depending on experience; entry-level may start $16?$18/hr.</li></ul>]]></description>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Pay: $16-$24 per hour (? $33,000-$50,000/yr), depending on experience; entry-level may start $16-$18/hr.</li></ul>
+    ]]></description>
   </job>
 </source>
