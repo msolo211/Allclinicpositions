@@ -67,28 +67,29 @@
 </job>
 
 
-   <!-- JOB 2 – Licensed Massage Therapist (WA – Vancouver) -->
+  <!-- JOB 2 – LMT (Licensed Massage Therapist) - Patient Focused Wellness -->
 <job>
-  <referencenumber><![CDATA[STF-924580]]></referencenumber>
-  <requisitionid><![CDATA[STF-924580]]></requisitionid>
-  <title><![CDATA[Licensed Massage Therapist – Patient-Focused Wellness Clinic]]></title>
+  <referencenumber><![CDATA[J52C3S]]></referencenumber>
+  <requisitionid><![CDATA[J52C3S]]></requisitionid>
+  <title><![CDATA[LMT (Licensed Massage Therapist) - Patient Focused Wellness]]></title>
 
-  <url><![CDATA[https://chiropracticheadhunters.com/washington-staff-924580]]></url>
-  <apply_url><![CDATA[https://chiropracticheadhunters.com/staff1-form?job=STF-924580&state=WA]]></apply_url>
+  <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=J52C3S#jobId=J52C3S]]></url>
+  <apply_url><![CDATA[https://chiropracticheadhunters.com/staff1-form?job=J52C3S0&state=WA]]></apply_url>
 
-  <date><![CDATA[2025-09-23T12:00:00Z]]></date>
+  <date><![CDATA[2026-05-05T12:00:00Z]]></date>
+
   <location>
-    <city><![CDATA[Vancouver]]></city>
+    <city><![CDATA[Camas]]></city>
     <state><![CDATA[WA]]></state>
     <country><![CDATA[US]]></country>
-    <postalcode><![CDATA[98660]]></postalcode>
+    <postalcode><![CDATA[98607]]></postalcode>
   </location>
 
-  <company><![CDATA[Chiropractic Wellness Clinic – Vancouver]]></company>
+  <company><![CDATA[Atlas Inc.]]></company>
   <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
   <email><![CDATA[admin@ascvancouver.com]]></email>
 
-  <jobtype><![CDATA[both]]></jobtype>
+  <jobtype><![CDATA[full-time]]></jobtype>
 
   <!-- Salary: display + structured detail -->
   <salary><![CDATA[$30 – $60 per hour]]></salary>
@@ -100,11 +101,9 @@
     <notes><![CDATA[Hourly; depending on experience.]]></notes>
   </salary_detail>
 
-  <!-- DESCRIPTION: verbatim match to the public job page (headings + bullets) -->
+  <!-- DESCRIPTION -->
   <description><![CDATA[
-    <p>Our Washington-based chiropractic office blends clinical efficiency with holistic care. We prioritize a
-    calm, clean, and collaborative work atmosphere where every staff member contributes to a supportive
-    and respectful environment for patients and coworkers alike.</p>
+    <p>Our chiropractic office blends clinical efficiency with holistic care. We prioritize a calm, clean, and collaborative work atmosphere where every staff member contributes to a supportive and respectful environment for patients and coworkers alike.</p>
 
     <strong>Job Description</strong>
     <ul>
@@ -126,7 +125,7 @@
       <li>Part-time or full-time schedules available.</li>
       <li>Daytime plus occasional evening hours.</li>
       <li>Strong office culture with clear communication & respect for work-life balance.</li>
-      <li><strong>Salary $30–$60 per hour</strong> (≈ $60,000–$120,000 / yr) depending on experience.</li>
+      <li><strong>Salary $30 - $60 a hour</strong> (≈ $60,000–$120,000 / yr) depending on experience.</li>
     </ul>
   ]]></description>
 </job>
