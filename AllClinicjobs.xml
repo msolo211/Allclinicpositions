@@ -190,11 +190,11 @@
     ]]></description>
   </job>
 
-  <!-- JOB 5 - Chiropractor - General wellness - Cookeville, TN (#C7YYWN) (TN - Cookeville) -->
+  <!-- JOB 5 - Chiropractor - General Wellness (TN - Cookeville) -->
   <job>
     <referencenumber><![CDATA[C7YYWN]]></referencenumber>
     <requisitionid><![CDATA[C7YYWN]]></requisitionid>
-    <title><![CDATA[Chiropractor - General wellness - Cookeville, TN (#C7YYWN)]]></title>
+    <title><![CDATA[Chiropractor - General Wellness]]></title>
 
     <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=C7YYWN#jobId=C7YYWN]]></url>
     <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=C7YYWN&state=TN&sid=C7YYWN]]></apply_url>
@@ -563,6 +563,53 @@
 
       <h4>Other Information</h4>
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Pay: $16-$24 per hour ( about $33,000-$50,000/yr), depending on experience.</li></ul>
+    ]]></description>
+  </job>
+
+  <!-- JOB 13 - Performance & Wellness Chiropractor (MA - Boston) -->
+  <job>
+    <referencenumber><![CDATA[G8JMDK]]></referencenumber>
+    <requisitionid><![CDATA[G8JMDK]]></requisitionid>
+    <title><![CDATA[Performance & Wellness Chiropractor]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=G8JMDK#jobId=G8JMDK]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=G8JMDK&state=MA&sid=G8JMDK]]></apply_url>
+
+    <date><![CDATA[2026-05-12T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Boston]]></city>
+      <state><![CDATA[MA]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
+    </location>
+
+    <company><![CDATA[JB Sports and Wellness]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[bostonchiro.mardi428@passinbox.com]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <salary><![CDATA[$75,000-$85,000 including incentives]]></salary>
+    <salary_detail>
+      <min><![CDATA[75000]]></min>
+      <max><![CDATA[85000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$75,000-$85,000 including incentives]]></notes>
+    </salary_detail>
+
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>Our established chiropractic clinic has served the community for more than a decade and is located on the outskirts of Boston in a smaller-town setting. The practice maintains a holistic, patient-centered atmosphere with a strong emphasis on wellness care and sports-focused patients. We operate in a collaborative environment alongside other chiropractors and offer shared staff support, treatment equipment, computer systems, and a spacious reception area.</p>
+
+      <h4>Job Description</h4>
+      <p>We are currently seeking a Full-Time Chiropractor to join our growing practice within the next 1-3 months. The office maintains a steady patient flow while emphasizing quality care and patient relationships. Care plans are tailored to patient progress.<br><br>We are looking for a doctor who is personable, growth-oriented, and comfortable participating in patient education and community engagement. Our clinic combines chiropractic adjustments with supportive therapies and values providers familiar with adjunctive modalities.<br><br>Key Details:<br><br>Average patient volume: 21-30 patients daily<br>Comprehensive EHR/charting system<br>Modalities and adjusting both commonly utilized<br>Familiarity with Heat/Cold therapies and other adjunctive therapies</p>
+
+      <h4>Qualifications</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Adjustment-focused clinician</li><li>Community-oriented and personable</li><li>Business-minded and growth-focused</li><li>Open-minded and team-oriented</li><li>Full-time availability preferred</li><li>Values strong adjusting ability alongside professionalism</li></ul>
+
+      <h4>Other Information</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary range: $75,000-$85,000 including incentives</li><li>Potential retirement benefits</li><li>Continuing education support may be available</li><li>Open to all experience levels</li></ul>
     ]]></description>
   </job>
 </source>
