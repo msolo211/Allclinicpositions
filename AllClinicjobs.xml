@@ -617,7 +617,7 @@
   <job>
     <referencenumber><![CDATA[7JRT2H]]></referencenumber>
     <requisitionid><![CDATA[7JRT2H]]></requisitionid>
-    <title><![CDATA[Functional wellness chiropractor]]></title>
+    <title><![CDATA[Functional Wellness Chiropractor]]></title>
 
     <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=7JRT2H#jobId=7JRT2H]]></url>
     <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=7JRT2H&state=TN&sid=7JRT2H]]></apply_url>
@@ -657,6 +657,53 @@
 
       <h4>Other Information</h4>
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Compensation package approximately $75,000-$85,000 annually including incentives</li><li>Potential health-related benefits available</li><li>Continuing education support beyond minimum requirements</li><li>Opportunities for conferences, meetings, and professional development events</li></ul>
+    ]]></description>
+  </job>
+
+  <!-- JOB 15 - Part-Time Chiropractor (OR - Gresham) -->
+  <job>
+    <referencenumber><![CDATA[PCH8WK]]></referencenumber>
+    <requisitionid><![CDATA[PCH8WK]]></requisitionid>
+    <title><![CDATA[Part-Time Chiropractor]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=PCH8WK#jobId=PCH8WK]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=PCH8WK&state=OR&sid=PCH8WK]]></apply_url>
+
+    <date><![CDATA[2026-05-13T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Gresham]]></city>
+      <state><![CDATA[OR]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
+    </location>
+
+    <company><![CDATA[Bodies in Balance Chiropractic LLC]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[Bodiesinbc1@gmail.com]]></email>
+    <jobtype><![CDATA[part-time]]></jobtype>
+
+    <salary><![CDATA[a]]></salary>
+    <salary_detail>
+      <min><![CDATA[]]></min>
+      <max><![CDATA[]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[a]]></notes>
+    </salary_detail>
+
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>We are independent practice in a suburban setting. The practice has been established for 10+ years. The office is traditional/welcoming. Our patient base is General with a focus in accident recovery. Collaboration with other health professions is collaborative. Familiarity with Drop Table, Diversified, Activator, Graston, Flexion -Distraction, E-Stim, Heat/Cold, is helpful. Office features: Staff, Private adjusting room, Large waiting room, Shared office, Shared staff, Own staff, Treatment equipment. Marketing includes insurance panels, building signage, and word of mouth.</p>
+
+      <h4>Job Description</h4>
+      <p>We are hiring a Part-Time Doctor, if well received by patients and your schedual fills you can transition to full time. Candidate will need to qualify for insurance panels. Timing: 1-3 months. Single location. Typical pace: 11-20 patients/day. Charting: Chiro-Touch, Care plans: flexible by progress. Patient preference: no preference. Larger patient side-posture adjustments: not required. We value a doctor who is friendly. Support growth through brochure and word of mouth.</p>
+
+      <h4>Qualifications</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Licensing: Must be licensed.</li><li>Boards/testing: Boards completed.</li><li>Experience: No requirement.</li><li>Relocation: Must already reside.</li><li>Distance preference: No preference.</li><li>Evaluation: In-person.</li><li>Ideal-fit traits include: Balanced adjust+therapy, Business-minded, PI experienced, Peds experienced, Geriatrics experienced, Full-time, Part-time, EHR comfortable, Personality &gt; adjusting.</li><li>Priorities: Character; Personality.</li><li>Clinical approach alignment: philosophical-based = innate healing emphasis; evidence-based = research-supported.</li><li>We are open to all qualified applicants.</li></ul>
+
+      <h4>Other Information</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary range: $25,000 base + percentage (including incentives in the base range).</li><li>Benefits may include CE.</li><li>Continuing education: Minimum only.</li></ul>
     ]]></description>
   </job>
 </source>
