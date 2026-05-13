@@ -612,4 +612,51 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary range: $75,000-$85,000 including incentives</li><li>Potential retirement benefits</li><li>Continuing education support may be available</li><li>Open to all experience levels</li></ul>
     ]]></description>
   </job>
+
+  <!-- JOB 14 - Functional wellness chiropractor (TN - Knoxville) -->
+  <job>
+    <referencenumber><![CDATA[7JRT2H]]></referencenumber>
+    <requisitionid><![CDATA[7JRT2H]]></requisitionid>
+    <title><![CDATA[Functional wellness chiropractor]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=7JRT2H#jobId=7JRT2H]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=7JRT2H&state=TN&sid=7JRT2H]]></apply_url>
+
+    <date><![CDATA[2026-05-13T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Knoxville]]></city>
+      <state><![CDATA[TN]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
+    </location>
+
+    <company><![CDATA[WSF Chiropractic]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[drdchiro@gmail.com]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <salary><![CDATA[$75,000-$85,000 annually including incentives]]></salary>
+    <salary_detail>
+      <min><![CDATA[75000]]></min>
+      <max><![CDATA[85000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$75,000-$85,000 annually including incentives]]></notes>
+    </salary_detail>
+
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>Independent chiropractic practice serving the community for more than a decade. The clinic offers a traditional and welcoming atmosphere with a wellness-focused patient base and an established flow of returning patients. The office environment encourages collaboration while still allowing doctors professional autonomy in patient care.<br><br>Office features: Dedicated CA support, Multiple doctors on-site, Private treatment rooms, Spacious reception area, Personal office space, Individual staff assistance, Therapy and rehab equipment.</p>
+
+      <h4>Job Description</h4>
+      <p>Seeking a Full-Time Chiropractor for an immediate opening in a busy, wellness-oriented practice averaging 30+ patient visits daily. The office places a strong emphasis on hands-on HVLA adjusting approaches, with commonly utilized techniques including Diversified, Gonstead, and Thompson. Therapies may include E-Stim, Ultrasound, Heat/Cold therapy, and additional supportive modalities. Familiarity with other adjusting styles is considered beneficial. The ideal candidate is personable, dependable, and committed to delivering patient-focused care.</p>
+
+      <h4>Qualifications</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Active Tennessee license or currently applying for licensure</li><li>Experience level open - new graduates encouraged to apply</li><li>Comfortable in a fast-paced patient environment</li><li>Strong communication and patient relationship skills</li><li>Community-minded and team-oriented personality</li><li>Confidence with orthopedic testing and wellness-based care</li><li>Open-minded clinical approach with patient-focused care philosophy</li><li>Personal injury experience considered a plus</li></ul>
+
+      <h4>Other Information</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Compensation package approximately $75,000-$85,000 annually including incentives</li><li>Potential health-related benefits available</li><li>Continuing education support beyond minimum requirements</li><li>Opportunities for conferences, meetings, and professional development events</li></ul>
+    ]]></description>
+  </job>
 </source>
