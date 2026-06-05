@@ -753,4 +753,51 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Base - $80,000 annually plus bonus opportunities</li><li>Relocation assistance available</li><li>Monday through Friday schedule</li></ul>
     ]]></description>
   </job>
+
+  <!-- JOB 17 - Associate Chiropractor - Holistic Wellness Practice (CO - Fort Collins) -->
+  <job>
+    <referencenumber><![CDATA[SJ6K5X]]></referencenumber>
+    <requisitionid><![CDATA[SJ6K5X]]></requisitionid>
+    <title><![CDATA[Associate Chiropractor - Holistic Wellness Practice]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=SJ6K5X#jobId=SJ6K5X]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=SJ6K5X&state=CO&sid=SJ6K5X]]></apply_url>
+
+    <date><![CDATA[2026-06-05T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Fort Collins]]></city>
+      <state><![CDATA[CO]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
+    </location>
+
+    <company><![CDATA[DCLC]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[lovelandassociate.gating850@passinbox.com]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <salary><![CDATA[$75,000-$85,000 plus performance incentives]]></salary>
+    <salary_detail>
+      <min><![CDATA[75000]]></min>
+      <max><![CDATA[85000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$75,000-$85,000 plus performance incentives]]></notes>
+    </salary_detail>
+
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>For more than a decade, our independently owned Colorado practice has provided patient-centered chiropractic care focused on long-term wellness. We combine a holistic approach with modern technology, including digital X-ray, comprehensive EHR systems, and advanced adjusting tables.<br><br>The practice maintains a steady, high-volume patient flow and primarily serves adults seeking adjustment-focused care. We value professional growth, continuous learning, and creating a positive experience for both patients and providers.</p>
+
+      <h4>Job Description</h4>
+      <p>We are seeking a Full-Time Associate Chiropractor for an immediate opening. The ideal candidate is comfortable in a busy practice environment and enjoys building relationships while delivering high-quality chiropractic care.<br><br>Responsibilities include performing examinations, developing care recommendations, providing chiropractic adjustments, maintaining accurate documentation, reviewing digital imaging when appropriate, and educating patients on lifestyle factors that support their health goals.<br><br>Diversified and Thompson are the primary techniques utilized within the office. Community involvement and patient education are encouraged as part of practice growth.</p>
+
+      <h4>Qualifications</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Colorado license preferred or ability to obtain licensure promptly</li><li>New graduates and experienced chiropractors welcome</li><li>Strong adjusting skills, including side-posture techniques</li><li>Comfortable interpreting X-rays and utilizing EHR systems</li><li>Reliable and dependable</li></ul>
+
+      <h4>Other Information</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Base salary: $75,000-$85,000 plus performance incentives</li><li>Continuing education support provided</li><li>Additional benefits may be available</li></ul>
+    ]]></description>
+  </job>
 </source>
