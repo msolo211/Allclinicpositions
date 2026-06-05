@@ -49,54 +49,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 2 - Associate Chiropractor - Upper Cervical and Full-Spine (WA - Vancouver) -->
-  <job>
-    <referencenumber><![CDATA[LQ7ZUK]]></referencenumber>
-    <requisitionid><![CDATA[LQ7ZUK]]></requisitionid>
-    <title><![CDATA[Associate Chiropractor - Upper Cervical and Full-Spine]]></title>
-
-    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=LQ7ZUK#jobId=LQ7ZUK]]></url>
-    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=LQ7ZUK&state=WA&sid=LQ7ZUK]]></apply_url>
-
-    <date><![CDATA[2026-05-02T12:00:00Z]]></date>
-
-    <location>
-      <city><![CDATA[Vancouver]]></city>
-      <state><![CDATA[WA]]></state>
-      <country><![CDATA[US]]></country>
-      <postalcode><![CDATA[]]></postalcode>
-    </location>
-
-    <company><![CDATA[Atlas]]></company>
-    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
-    <email><![CDATA[vancouvernewchiro.g586k@passinbox.com]]></email>
-    <jobtype><![CDATA[full-time]]></jobtype>
-
-    <salary><![CDATA[$85,000+ (higher depending on experience, personality, and adjusting skill)]]></salary>
-    <salary_detail>
-      <min><![CDATA[85000]]></min>
-      <max><![CDATA[85000]]></max>
-      <currency><![CDATA[USD]]></currency>
-      <unit><![CDATA[YEAR]]></unit>
-      <notes><![CDATA[$85,000+ (higher depending on experience, personality, and adjusting skill)]]></notes>
-    </salary_detail>
-
-    <description><![CDATA[
-<h4>Company Description</h4>
-      <p>Established chiropractic practice focused on high-quality outcomes, strong doctor-patient relationships, and long-term growth. The clinic follows upper cervical-influenced protocols while delivering Activator and full-spine, hands-on care in a patient-centered environment.</p>
-
-      <h4>Job Description</h4>
-      <p>Associate Chiropractor role focused on patient relationships and continued practice growth, with long-term partnership or ownership potential for the right person<br><br>Provide hands-on, full-spine chiropractic care (upper cervical and activator-influenced protocols)<br><br>Build trust and long-term relationships through communication and care planning<br><br>Stay open minded to learn new skills and refine and expand clinical technique<br><br>Contribute to practice growth, patient experience, and team culture</p>
-
-      <h4>Qualifications</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Doctor of Chiropractic (D.C.) degree</li><li>Active or eligible chiropractic license</li><li>Strong hands-on adjusting skills</li><li>Open minded to learn new skills and adapt to protocols</li><li>Professional, dependable, and patient-centered</li><li>Entrepreneurial mindset (not a "punch-the-clock" mentality)</li></ul>
-
-      <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Base salary: $85,000+ (higher depending on experience, personality, and adjusting skill)</li><li>Benefits: malpractice coverage, health insurance, retirement, CE opportunities</li><li>Growth path: partnership or ownership potential for the right chiropractor</li></ul>
-    ]]></description>
-  </job>
-
-  <!-- JOB 3 - Chiropractor - Focused General Wellness (AL - Montgomery) -->
+  <!-- JOB 2 - Chiropractor - Focused General Wellness (AL - Montgomery) -->
   <job>
     <referencenumber><![CDATA[W2ZFE8]]></referencenumber>
     <requisitionid><![CDATA[W2ZFE8]]></requisitionid>
@@ -143,7 +96,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 4 - Chiropractor - General Wellness (TN - Cookeville) -->
+  <!-- JOB 3 - Chiropractor - General Wellness (TN - Cookeville) -->
   <job>
     <referencenumber><![CDATA[C7YYWN]]></referencenumber>
     <requisitionid><![CDATA[C7YYWN]]></requisitionid>
@@ -190,7 +143,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 5 - LMT (Licensed Massage Therapist) - Patient Focused Wellness (WA - Camas) -->
+  <!-- JOB 4 - LMT (Licensed Massage Therapist) - Patient Focused Wellness (WA - Camas) -->
   <job>
     <referencenumber><![CDATA[J52C3S]]></referencenumber>
     <requisitionid><![CDATA[J52C3S]]></requisitionid>
@@ -237,7 +190,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 6 - Associate Chiropractor - Relationship-Driven Wellness Clinic (PA - Chadds Ford) -->
+  <!-- JOB 5 - Associate Chiropractor - Relationship-Driven Wellness Clinic (PA - Chadds Ford) -->
   <job>
     <referencenumber><![CDATA[6A5WPF]]></referencenumber>
     <requisitionid><![CDATA[6A5WPF]]></requisitionid>
@@ -284,7 +237,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 7 - Experienced Associate Chiropractor (TX - Spring) -->
+  <!-- JOB 6 - Experienced Associate Chiropractor (TX - Spring) -->
   <job>
     <referencenumber><![CDATA[9QZ97Q]]></referencenumber>
     <requisitionid><![CDATA[9QZ97Q]]></requisitionid>
@@ -331,7 +284,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 8 - Chiropractor-First Wellness Center - Join Our Collaborative Team (AL - Birmingham) -->
+  <!-- JOB 7 - Chiropractor-First Wellness Center - Join Our Collaborative Team (AL - Birmingham) -->
   <job>
     <referencenumber><![CDATA[8EEZ4D]]></referencenumber>
     <requisitionid><![CDATA[8EEZ4D]]></requisitionid>
@@ -378,7 +331,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 9 - Associate Chiropractor - Wellness & Functional Neurology (PA - Philadelphia) -->
+  <!-- JOB 8 - Associate Chiropractor - Wellness & Functional Neurology (PA - Philadelphia) -->
   <job>
     <referencenumber><![CDATA[XEPVBX]]></referencenumber>
     <requisitionid><![CDATA[XEPVBX]]></requisitionid>
@@ -425,7 +378,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 10 - Functional Neurology-Speciality Focused Chiropractor (PA - Wayne) -->
+  <!-- JOB 9 - Functional Neurology-Speciality Focused Chiropractor (PA - Wayne) -->
   <job>
     <referencenumber><![CDATA[75BSEF]]></referencenumber>
     <requisitionid><![CDATA[75BSEF]]></requisitionid>
@@ -472,7 +425,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 11 - Front Desk & Clinical Support - Chiropractic Clinic (AL - Montgomery) -->
+  <!-- JOB 10 - Front Desk & Clinical Support - Chiropractic Clinic (AL - Montgomery) -->
   <job>
     <referencenumber><![CDATA[XATPF5]]></referencenumber>
     <requisitionid><![CDATA[XATPF5]]></requisitionid>
@@ -519,7 +472,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 12 - Performance & Wellness Chiropractor (MA - Boston) -->
+  <!-- JOB 11 - Performance & Wellness Chiropractor (MA - Boston) -->
   <job>
     <referencenumber><![CDATA[G8JMDK]]></referencenumber>
     <requisitionid><![CDATA[G8JMDK]]></requisitionid>
@@ -566,7 +519,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 13 - Functional Wellness Chiropractor (TN - Knoxville) -->
+  <!-- JOB 12 - Functional Wellness Chiropractor (TN - Knoxville) -->
   <job>
     <referencenumber><![CDATA[7JRT2H]]></referencenumber>
     <requisitionid><![CDATA[7JRT2H]]></requisitionid>
@@ -613,7 +566,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 14 - Part-Time Chiropractor (OR - Gresham) -->
+  <!-- JOB 13 - Part-Time Chiropractor (OR - Gresham) -->
   <job>
     <referencenumber><![CDATA[PCH8WK]]></referencenumber>
     <requisitionid><![CDATA[PCH8WK]]></requisitionid>
@@ -660,7 +613,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 15 - Sports and Rehabilitation Chiropractor (MA - Worcester) -->
+  <!-- JOB 14 - Sports and Rehabilitation Chiropractor (MA - Worcester) -->
   <job>
     <referencenumber><![CDATA[9LWCGA]]></referencenumber>
     <requisitionid><![CDATA[9LWCGA]]></requisitionid>
@@ -704,6 +657,53 @@
 
       <h4>Other Information</h4>
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Retirement plan opportunities may be available</li><li>Continuing education assistance may be offered</li><li>Welcoming environment for both experienced chiropractors and recent graduates</li><li>Opportunity for long-term professional growth and development</li><li>Salary base - $75,000 - $85,000 (not including incentives)</li></ul>
+    ]]></description>
+  </job>
+
+  <!-- JOB 15 - Associate Chiropractor in a wellness team (VA - Ashburn) -->
+  <job>
+    <referencenumber><![CDATA[YJXMWG]]></referencenumber>
+    <requisitionid><![CDATA[YJXMWG]]></requisitionid>
+    <title><![CDATA[Associate Chiropractor in a wellness team]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=YJXMWG#jobId=YJXMWG]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=YJXMWG&state=VA&sid=YJXMWG]]></apply_url>
+
+    <date><![CDATA[2026-06-05T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Ashburn]]></city>
+      <state><![CDATA[VA]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
+    </location>
+
+    <company><![CDATA[HSAV]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[hsasvirginia.ashamed598@passinbox.com]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <salary><![CDATA[$80,000-$90,000]]></salary>
+    <salary_detail>
+      <min><![CDATA[80000]]></min>
+      <max><![CDATA[90000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$80,000-$90,000]]></notes>
+    </salary_detail>
+
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>Virginia clinic dedicated to helping patients feel better, move better, and live better through high-quality chiropractic care. Our practice is built around a collaborative, team-oriented culture that values communication, professional growth, and clinical excellence.<br>We primarily serve wellness-focused patients and maintain an efficient environment that supports both exceptional patient care and professional development.</p>
+
+      <h4>Job Description</h4>
+      <p>This position offers the opportunity to play a key role in patient care while helping guide the continued growth of the practice.<br><br>The patient base includes a mix of sports and active individuals, family wellness patients, and those seeking corrective or rehabilitative care. Providers are given a healthy balance of autonomy and support, allowing them to practice confidently while benefiting from established systems and guidance when needed.<br><br>Responsibilities include delivering chiropractic care, conducting patient education, presenting reports of findings, developing care recommendations, and maintaining timely documentation. The practice places a strong emphasis on communication, helping patients understand their condition, treatment recommendations, and wellness goals.<br><br>The clinic maintains a manageable patient volume of approximately 75 visits or fewer per week, allowing providers to focus on quality patient interactions while delivering individualized care. Same-day completion of SOAP notes is expected as part of maintaining efficient clinical operations.</p>
+
+      <h4>Qualifications</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Active chiropractic license required prior to start date</li><li>Intermediate-level EHR experience preferred</li><li>Excellent communication and interpersonal abilities</li><li>Ability to educate patients and present care recommendations clearly</li><li>Professional, dependable, and team-oriented mindset</li><li>Leadership qualities and growth-oriented attitude</li></ul>
+
+      <h4>Other Information</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Base salary: $80,000-$90,000</li><li>Health insurance benefits available</li><li>Paid time off (PTO)</li><li>Monday through Friday schedule</li></ul>
     ]]></description>
   </job>
 </source>
