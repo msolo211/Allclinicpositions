@@ -706,4 +706,51 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Base salary: $80,000-$90,000</li><li>Health insurance benefits available</li><li>Paid time off (PTO)</li><li>Monday through Friday schedule</li></ul>
     ]]></description>
   </job>
+
+  <!-- JOB 16 - Family Wellness Chiropractor (NM - Las Cruces) -->
+  <job>
+    <referencenumber><![CDATA[BD476T]]></referencenumber>
+    <requisitionid><![CDATA[BD476T]]></requisitionid>
+    <title><![CDATA[Family Wellness Chiropractor]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=BD476T#jobId=BD476T]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=BD476T&state=NM&sid=BD476T]]></apply_url>
+
+    <date><![CDATA[2026-06-05T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Las Cruces]]></city>
+      <state><![CDATA[NM]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
+    </location>
+
+    <company><![CDATA[LBD Center]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[glennwa@pcom.edu]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <salary><![CDATA[$80,000 annually plus bonus opportunities]]></salary>
+    <salary_detail>
+      <min><![CDATA[80000]]></min>
+      <max><![CDATA[80000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$80,000 annually plus bonus opportunities]]></notes>
+    </salary_detail>
+
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>Our medically integrated practice has grown rapidly since opening and has established a strong presence within the local community. Many of our new patients come through referrals from family medicine providers, interventional pain specialists, and existing patients who recommend our office to friends and family.<br><br>We care for a broad range of patients, with a primary focus on family wellness and long-term health. Our team is committed to providing compassionate care while maintaining a culture built on integrity, communication, service, and respect for one another.</p>
+
+      <h4>Job Description</h4>
+      <p>We are looking for a Full-Time Associate Chiropractor to become part of our growing practice. This opportunity is well suited for a doctor who enjoys wellness-based care and appreciates the advantages of working within a medically integrated setting.<br><br>Patients range from children to older adults, allowing providers to develop meaningful relationships while helping individuals and families achieve their health goals. The practice offers a supportive environment with established systems that encourage both professional growth and clinical independence.<br><br>Diversified and Thompson techniques are commonly utilized within the office. We are seeking a chiropractor who communicates well, values patient-centered care, and enjoys collaborating with other healthcare professionals.</p>
+
+      <h4>Qualifications</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Active chiropractic license or license application currently in process</li><li>Strong interpersonal and communication skills</li><li>Comfortable working with patients of all ages</li><li>Basic computer proficiency</li><li>Ability to work effectively within a team-oriented environment</li><li>Compassionate, professional, and patient-centered approach</li><li>New graduates are encouraged to apply</li></ul>
+
+      <h4>Other Information</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Base - $80,000 annually plus bonus opportunities</li><li>Relocation assistance available</li><li>Monday through Friday schedule</li></ul>
+    ]]></description>
+  </job>
 </source>
