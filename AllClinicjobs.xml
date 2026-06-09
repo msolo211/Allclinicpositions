@@ -609,7 +609,7 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Licensing: Must be licensed.</li><li>Boards/testing: Boards completed.</li><li>Experience: No requirement.</li><li>Relocation: Must already reside.</li><li>Distance preference: No preference.</li><li>Evaluation: In-person.</li><li>Ideal-fit traits include: Balanced adjust+therapy, Business-minded, PI experienced, Peds experienced, Geriatrics experienced, Full-time, Part-time, EHR comfortable, Personality &gt; adjusting.</li><li>Priorities: Character; Personality.</li><li>Clinical approach alignment: philosophical-based = innate healing emphasis; evidence-based = research-supported.</li><li>We are open to all qualified applicants.</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary range: $25,000 base + percentage (including incentives in the base range).</li><li>Benefits may include CE.</li><li>Continuing education: Minimum only.</li></ul>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary range: $35,000-$55,000 annually based on hours worked, experience, and available incentive opportunities..</li><li>Benefits may include CE.</li><li>Continuing education: Minimum only.</li></ul>
     ]]></description>
   </job>
 
@@ -798,6 +798,53 @@
 
       <h4>Other Information</h4>
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Base salary: $75,000-$85,000 plus performance incentives</li><li>Continuing education support provided</li><li>Additional benefits may be available</li></ul>
+    ]]></description>
+  </job>
+
+  <!-- JOB 18 - Associate Chiropractor - Personal Injury & Wellness Care (OR - portland) -->
+  <job>
+    <referencenumber><![CDATA[MWK65B]]></referencenumber>
+    <requisitionid><![CDATA[MWK65B]]></requisitionid>
+    <title><![CDATA[Associate Chiropractor - Personal Injury & Wellness Care]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=MWK65B#jobId=MWK65B]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=MWK65B&state=OR&sid=MWK65B]]></apply_url>
+
+    <date><![CDATA[2026-06-09T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[portland]]></city>
+      <state><![CDATA[OR]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
+    </location>
+
+    <company><![CDATA[BNBC]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[portlandchiro.blah157@passinbox.com]]></email>
+    <jobtype><![CDATA[part-time]]></jobtype>
+
+    <salary><![CDATA[$35,000-$55,000 based on hours worked, experience, and available incentive opportunities]]></salary>
+    <salary_detail>
+      <min><![CDATA[35000]]></min>
+      <max><![CDATA[55000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$35,000-$55,000 based on hours worked, experience, and available incentive opportunities]]></notes>
+    </salary_detail>
+
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>Our established chiropractic office has been serving the community for more than a decade and has built a reputation for providing patient-focused care in a welcoming environment. The practice treats a broad range of patients, with a significant portion of the caseload involving personal injury and accident-related recovery.<br><br>We work closely with other healthcare providers when appropriate and strive to deliver comprehensive care that supports each patient's recovery and wellness goals. The office is fully equipped with experienced staff, dedicated treatment areas, private adjusting space, and modern therapeutic equipment. Familiarity with Diversified, Drop Table, Activator, Graston, Flexion-Distraction, E-Stim, and heat or cold therapies is beneficial.</p>
+
+      <h4>Job Description</h4>
+      <p>We are seeking a Part-Time Chiropractor to join our team. This position offers the potential to transition into a Full-Time role as patient demand increases and your schedule expands.<br><br>The practice operates from a single location and maintains a manageable daily patient volume, typically ranging from 11 to 20 visits per day. Providers are encouraged to develop individualized care recommendations based on patient progress while maintaining accurate documentation using ChiroTouch software.<br><br>The ideal candidate is personable, dependable, and enjoys building relationships with patients. Growth is supported through strong community reputation, patient referrals, educational materials, and established marketing efforts.</p>
+
+      <h4>Qualifications</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Active chiropractic license required</li><li>No minimum experience requirement</li><li>Must currently reside within the area</li><li>Comfortable using EHR systems</li><li>Strong communication and interpersonal skills</li><li>Experience with personal injury patients is helpful</li><li>Familiarity with pediatric and geriatric patient populations is beneficial</li><li>Business-minded attitude with a focus on patient service</li></ul>
+
+      <h4>Other Information</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Expected annual earnings of $35,000-$55,000 based on hours worked, experience, and available incentive opportunities</li><li>Continuing education assistance may be available</li><li>CE reimbursement limited to standard state minimums</li><li>Opportunity for future full-time advancement</li></ul>
     ]]></description>
   </job>
 </source>
