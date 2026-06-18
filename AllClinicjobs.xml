@@ -566,54 +566,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 13 - Part-Time Chiropractor (OR - Gresham) -->
-  <job>
-    <referencenumber><![CDATA[PCH8WK]]></referencenumber>
-    <requisitionid><![CDATA[PCH8WK]]></requisitionid>
-    <title><![CDATA[Part-Time Chiropractor]]></title>
-
-    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=PCH8WK#jobId=PCH8WK]]></url>
-    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=PCH8WK&state=OR&sid=PCH8WK]]></apply_url>
-
-    <date><![CDATA[2026-05-13T12:00:00Z]]></date>
-
-    <location>
-      <city><![CDATA[Gresham]]></city>
-      <state><![CDATA[OR]]></state>
-      <country><![CDATA[US]]></country>
-      <postalcode><![CDATA[]]></postalcode>
-    </location>
-
-    <company><![CDATA[Bodies in Balance Chiropractic LLC]]></company>
-    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
-    <email><![CDATA[Bodiesinbc1@gmail.com]]></email>
-    <jobtype><![CDATA[part-time]]></jobtype>
-
-    <salary><![CDATA[a]]></salary>
-    <salary_detail>
-      <min><![CDATA[]]></min>
-      <max><![CDATA[]]></max>
-      <currency><![CDATA[USD]]></currency>
-      <unit><![CDATA[YEAR]]></unit>
-      <notes><![CDATA[a]]></notes>
-    </salary_detail>
-
-    <description><![CDATA[
-<h4>Company Description</h4>
-      <p>We are independent practice in a suburban setting. The practice has been established for 10+ years. The office is traditional/welcoming. Our patient base is General with a focus in accident recovery. Collaboration with other health professions is collaborative. Familiarity with Drop Table, Diversified, Activator, Graston, Flexion -Distraction, E-Stim, Heat/Cold, is helpful. Office features: Staff, Private adjusting room, Large waiting room, Shared office, Shared staff, Own staff, Treatment equipment. Marketing includes insurance panels, building signage, and word of mouth.</p>
-
-      <h4>Job Description</h4>
-      <p>We are hiring a Part-Time Doctor, if well received by patients and your schedual fills you can transition to full time. Candidate will need to qualify for insurance panels. Timing: 1-3 months. Single location. Typical pace: 11-20 patients/day. Charting: Chiro-Touch, Care plans: flexible by progress. Patient preference: no preference. Larger patient side-posture adjustments: not required. We value a doctor who is friendly. Support growth through brochure and word of mouth.</p>
-
-      <h4>Qualifications</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Licensing: Must be licensed.</li><li>Boards/testing: Boards completed.</li><li>Experience: No requirement.</li><li>Relocation: Must already reside.</li><li>Distance preference: No preference.</li><li>Evaluation: In-person.</li><li>Ideal-fit traits include: Balanced adjust+therapy, Business-minded, PI experienced, Peds experienced, Geriatrics experienced, Full-time, Part-time, EHR comfortable, Personality &gt; adjusting.</li><li>Priorities: Character; Personality.</li><li>Clinical approach alignment: philosophical-based = innate healing emphasis; evidence-based = research-supported.</li><li>We are open to all qualified applicants.</li></ul>
-
-      <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary range: $35,000-$55,000 annually based on hours worked, experience, and available incentive opportunities..</li><li>Benefits may include CE.</li><li>Continuing education: Minimum only.</li></ul>
-    ]]></description>
-  </job>
-
-  <!-- JOB 14 - Sports and Rehabilitation Chiropractor (MA - Worcester) -->
+  <!-- JOB 13 - Sports and Rehabilitation Chiropractor (MA - Worcester) -->
   <job>
     <referencenumber><![CDATA[9LWCGA]]></referencenumber>
     <requisitionid><![CDATA[9LWCGA]]></requisitionid>
@@ -660,7 +613,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 15 - Associate Chiropractor in a wellness team (VA - Ashburn) -->
+  <!-- JOB 14 - Associate Chiropractor in a wellness team (VA - Ashburn) -->
   <job>
     <referencenumber><![CDATA[YJXMWG]]></referencenumber>
     <requisitionid><![CDATA[YJXMWG]]></requisitionid>
@@ -707,7 +660,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 16 - Family Wellness Chiropractor (NM - Las Cruces) -->
+  <!-- JOB 15 - Family Wellness Chiropractor (NM - Las Cruces) -->
   <job>
     <referencenumber><![CDATA[BD476T]]></referencenumber>
     <requisitionid><![CDATA[BD476T]]></requisitionid>
@@ -754,7 +707,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 17 - Associate Chiropractor - Holistic Wellness Practice (CO - Fort Collins) -->
+  <!-- JOB 16 - Associate Chiropractor - Holistic Wellness Practice (CO - Fort Collins) -->
   <job>
     <referencenumber><![CDATA[SJ6K5X]]></referencenumber>
     <requisitionid><![CDATA[SJ6K5X]]></requisitionid>
@@ -801,7 +754,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 18 - Associate Chiropractor - Personal Injury & Wellness Care (OR - portland) -->
+  <!-- JOB 17 - Associate Chiropractor - Personal Injury & Wellness Care (OR - portland) -->
   <job>
     <referencenumber><![CDATA[MWK65B]]></referencenumber>
     <requisitionid><![CDATA[MWK65B]]></requisitionid>
@@ -848,20 +801,20 @@
     ]]></description>
   </job>
 
-  <!-- JOB 19 - Full-Time Chiropractor - Ownership Track (TN - Gresham) -->
+  <!-- JOB 18 - Full-Time Chiropractor - Ownership Track (OR - Gresham) -->
   <job>
     <referencenumber><![CDATA[3F9BFZ]]></referencenumber>
     <requisitionid><![CDATA[3F9BFZ]]></requisitionid>
     <title><![CDATA[Full-Time Chiropractor - Ownership Track]]></title>
 
     <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=3F9BFZ#jobId=3F9BFZ]]></url>
-    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=3F9BFZ&state=TN&sid=3F9BFZ]]></apply_url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=3F9BFZ&state=OR&sid=3F9BFZ]]></apply_url>
 
     <date><![CDATA[2026-06-18T12:00:00Z]]></date>
 
     <location>
       <city><![CDATA[Gresham]]></city>
-      <state><![CDATA[TN]]></state>
+      <state><![CDATA[OR]]></state>
       <country><![CDATA[US]]></country>
       <postalcode><![CDATA[]]></postalcode>
     </location>
@@ -892,6 +845,53 @@
 
       <h4>Other Information</h4>
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary range: $58,000-$75,000 annually, based on experience, hours, production, and business generated.</li><li>Incentive and bonus opportunities are also available</li><li>Open to discussing percentage credit toward a future practice purchase or ownership transition.</li><li>CE reimbursement available.</li></ul>
+    ]]></description>
+  </job>
+
+  <!-- JOB 19 - Associate Chiropractor - Established Wellness Practice (TN - Cookeville) -->
+  <job>
+    <referencenumber><![CDATA[V2TPZJ]]></referencenumber>
+    <requisitionid><![CDATA[V2TPZJ]]></requisitionid>
+    <title><![CDATA[Associate Chiropractor - Established Wellness Practice]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=V2TPZJ#jobId=V2TPZJ]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=V2TPZJ&state=TN&sid=V2TPZJ]]></apply_url>
+
+    <date><![CDATA[2026-06-18T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Cookeville]]></city>
+      <state><![CDATA[TN]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
+    </location>
+
+    <company><![CDATA[WellSpring]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[drdwellspringfamilychiro@gmail.com]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <salary><![CDATA[$75,000-$85,000 annually including incentive opportunities]]></salary>
+    <salary_detail>
+      <min><![CDATA[75000]]></min>
+      <max><![CDATA[85000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$75,000-$85,000 annually including incentive opportunities]]></notes>
+    </salary_detail>
+
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>A well-established practice that has served the community for many years. The office has developed a loyal patient following through a commitment to wellness-focused care, strong patient relationships, and consistent clinical results.<br><br>The practice provides a supportive environment where doctors have the opportunity to collaborate with fellow providers while maintaining independence in their day-to-day patient management. The clinic is equipped with dedicated support staff, private treatment areas, rehabilitation equipment, personal workspace, and resources designed to help providers succeed.</p>
+
+      <h4>Job Description</h4>
+      <p>We are currently seeking a Full-Time Chiropractor to join our team. This opportunity is ideal for a doctor who enjoys hands-on patient care, building long-term relationships, and working within a busy wellness-centered practice.<br><br>The office maintains a consistent patient flow that regularly exceeds 30 visits per day. Chiropractic care is centered around manual adjusting techniques, with Diversified, Gonstead, and Thompson among the most frequently utilized approaches. Additional therapies may include electrical stimulation, ultrasound, heat and cold applications, and other supportive treatment options when appropriate.<br><br>The ideal candidate is dependable, personable, and committed to helping patients achieve their health goals through individualized care and excellent communication.</p>
+
+      <h4>Qualifications</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Active Tennessee chiropractic license or ability to obtain licensure</li><li>New graduates and experienced chiropractors encouraged to apply</li><li>Comfortable managing a busy patient schedule</li><li>Strong communication and patient relationship skills</li><li>Familiarity with orthopedic evaluation procedures</li><li>?Wellness-based treatment philosophy with a patient-first approach</li><li>Personal injury experience is beneficial but not required</li></ul>
+
+      <h4>Other Information</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Compensation package approximately $75,000-$85,000 annually including incentive opportunities</li><li>Potential health-related benefits available</li><li>Continuing education support</li><li>$1,000 relocation assistance or signing bonus available for qualified candidates</li></ul>
     ]]></description>
   </job>
 </source>
