@@ -847,4 +847,51 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Expected annual earnings of $35,000-$55,000 based on hours worked, experience, and available incentive opportunities</li><li>Continuing education assistance may be available</li><li>CE reimbursement limited to standard state minimums</li><li>Opportunity for future full-time advancement</li></ul>
     ]]></description>
   </job>
+
+  <!-- JOB 19 - Full-Time Chiropractor - Ownership Track (TN - Gresham) -->
+  <job>
+    <referencenumber><![CDATA[3F9BFZ]]></referencenumber>
+    <requisitionid><![CDATA[3F9BFZ]]></requisitionid>
+    <title><![CDATA[Full-Time Chiropractor - Ownership Track]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=3F9BFZ#jobId=3F9BFZ]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=3F9BFZ&state=TN&sid=3F9BFZ]]></apply_url>
+
+    <date><![CDATA[2026-06-18T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Gresham]]></city>
+      <state><![CDATA[TN]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
+    </location>
+
+    <company><![CDATA[BNB]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[Bodiesinbc1@gmail.com]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <salary><![CDATA[$58,000-$75,000 annually, based on experience, hours, production, and business generated]]></salary>
+    <salary_detail>
+      <min><![CDATA[58000]]></min>
+      <max><![CDATA[75000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$58,000-$75,000 annually, based on experience, hours, production, and business generated]]></notes>
+    </salary_detail>
+
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>We are an independent chiropractic practice located in a suburban setting . The practice has been established for more than 10 years and offers a traditional, welcoming office environment.<br><br>Our patient base includes general wellness care with a focus on accident recovery. Familiarity with Drop Table, Diversified, Activator, Graston, Flexion-Distraction, E-Stim, and Heat/Cold therapies is helpful.<br><br>Office features include staff support, private adjusting rooms, a large waiting room, shared office space, treatment equipment, and an established patient base.</p>
+
+      <h4>Job Description</h4>
+      <p>We are seeking a full-time Doctor of Chiropractic with an entrepreneurial mindset and an interest in potentially transitioning into an ownership role.<br><br>This position is best suited for a doctor who wants to help grow the practice, build patient relationships, and become part of the long-term future of the clinic. For the right candidate, we are open to discussing a path toward ownership or practice purchase, structured in a way that works well for everyone involved.<br><br>The ideal candidate should be comfortable not only seeing patients, but also participating in practice growth. Mentorship will be provided, and over time we will evaluate how well the doctor connects with patients, builds the schedule, and contributes to the overall growth of the practice.</p>
+
+      <h4>Qualifications</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Must be licensed or eligible for chiropractic licensure in Oregon.</li><li>Insurance panel credentialing is preferred, but not required.</li><li>Open to all experience levels.</li><li>Relocation assistance available and considered during the interview process.</li><li>Ideal-fit traits include a balanced adjusting and therapy approach, business-minded attitude, PI experience, pediatric experience, and geriatric experience.</li><li>Strong communication skills, character and  personality,</li></ul>
+
+      <h4>Other Information</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary range: $58,000-$75,000 annually, based on experience, hours, production, and business generated.</li><li>Incentive and bonus opportunities are also available</li><li>Open to discussing percentage credit toward a future practice purchase or ownership transition.</li><li>CE reimbursement available.</li></ul>
+    ]]></description>
+  </job>
 </source>
