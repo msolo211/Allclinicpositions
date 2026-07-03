@@ -2,54 +2,7 @@
 <source>
 
 
-  <!-- JOB 1 - Chiropractor - Sports Focus (MA - Newton Upper Falls) -->
-  <job>
-    <referencenumber><![CDATA[C2VLC0]]></referencenumber>
-    <requisitionid><![CDATA[C2VLC0]]></requisitionid>
-    <title><![CDATA[Chiropractor - Sports Focus]]></title>
-
-    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=C2VLC0#jobId=C2VLC0]]></url>
-    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=C2VLC0&state=MA&sid=C2VLC0]]></apply_url>
-
-    <date><![CDATA[2026-04-30T12:00:00Z]]></date>
-
-    <location>
-      <city><![CDATA[Newton Upper Falls]]></city>
-      <state><![CDATA[MA]]></state>
-      <country><![CDATA[US]]></country>
-      <postalcode><![CDATA[]]></postalcode>
-    </location>
-
-    <company><![CDATA[Newton Chiropractic]]></company>
-    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
-    <email><![CDATA[julieb@welladjusted.com]]></email>
-    <jobtype><![CDATA[full-time]]></jobtype>
-
-    <salary><![CDATA[$75,000 - $85,000 (including incentives in the base range)]]></salary>
-    <salary_detail>
-      <min><![CDATA[75000]]></min>
-      <max><![CDATA[85000]]></max>
-      <currency><![CDATA[USD]]></currency>
-      <unit><![CDATA[YEAR]]></unit>
-      <notes><![CDATA[$75,000 - $85,000 (including incentives in the base range)]]></notes>
-    </salary_detail>
-
-    <description><![CDATA[
-<h4>Company Description</h4>
-      <p>We are independent practice in a rural setting. The practice has been established for 10+ years. The office is holistic/patient-centric. Our patient base is general wellness, with a focus in sports (Wellness). Within the office we have other chiropractors, it is open concept with a large waiting room, Shared office, Shared staff, Treatment equipment, Computers.</p>
-
-      <h4>Job Description</h4>
-      <p>We are hiring a Full-Time Doctor. Timing: 1-3 months. Multi-location: Preferred but flexible. Typical pace: 21-30 patients/day. Charting: comprehensive ehr. Care plans: flexible by progress. Patient preference: gentle/low-impact. We value a doctor who is friendly and supports growth through educational talks. Common approaches are modalities and adjusting. Familiarity with Heat/Cold and other adjuncts is helpful.</p>
-
-      <h4>Qualifications</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Licensing: Preferably already state licensed or applied.</li><li>Relocation: Relocation assistance available.</li><li>Distance preference: Closer is better</li><li>Ideal-fit traits include: Adjustment-first, Community-active, Business-minded, High-volume comfortable, Full-time, EHR comfortable, Open-minded, Adjusting &gt; personality.</li><li>Priorities: Character; Personality.</li><li>Clinical approach alignment: philosophical-based = traditional + modern mix; evidence-based = patient-feedback informed.</li><li>We are open to all qualified applicants.</li></ul>
-
-      <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary range: $75,000 - $85,000 (including incentives in the base range).</li><li>Benefits may include Retirement and CE</li></ul>
-    ]]></description>
-  </job>
-
-  <!-- JOB 2 - Chiropractor - Focused General Wellness (AL - Montgomery) -->
+  <!-- JOB 1 - Chiropractor - Focused General Wellness (AL - Montgomery) -->
   <job>
     <referencenumber><![CDATA[W2ZFE8]]></referencenumber>
     <requisitionid><![CDATA[W2ZFE8]]></requisitionid>
@@ -96,7 +49,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 3 - LMT (Licensed Massage Therapist) - Patient Focused Wellness (WA - Camas) -->
+  <!-- JOB 2 - LMT (Licensed Massage Therapist) - Patient Focused Wellness (WA - Camas) -->
   <job>
     <referencenumber><![CDATA[J52C3S]]></referencenumber>
     <requisitionid><![CDATA[J52C3S]]></requisitionid>
@@ -143,7 +96,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 4 - Associate Chiropractor - Relationship-Driven Wellness Clinic (PA - Chadds Ford) -->
+  <!-- JOB 3 - Associate Chiropractor - Relationship-Driven Wellness Clinic (PA - Chadds Ford) -->
   <job>
     <referencenumber><![CDATA[6A5WPF]]></referencenumber>
     <requisitionid><![CDATA[6A5WPF]]></requisitionid>
@@ -190,7 +143,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 5 - Experienced Associate Chiropractor (TX - Spring) -->
+  <!-- JOB 4 - Experienced Associate Chiropractor (TX - Spring) -->
   <job>
     <referencenumber><![CDATA[9QZ97Q]]></referencenumber>
     <requisitionid><![CDATA[9QZ97Q]]></requisitionid>
@@ -237,7 +190,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 6 - Chiropractor-First Wellness Center - Join Our Collaborative Team (AL - Birmingham) -->
+  <!-- JOB 5 - Chiropractor-First Wellness Center - Join Our Collaborative Team (AL - Birmingham) -->
   <job>
     <referencenumber><![CDATA[8EEZ4D]]></referencenumber>
     <requisitionid><![CDATA[8EEZ4D]]></requisitionid>
@@ -284,7 +237,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 7 - Associate Chiropractor - Wellness & Functional Neurology (PA - Philadelphia) -->
+  <!-- JOB 6 - Associate Chiropractor - Wellness & Functional Neurology (PA - Philadelphia) -->
   <job>
     <referencenumber><![CDATA[XEPVBX]]></referencenumber>
     <requisitionid><![CDATA[XEPVBX]]></requisitionid>
@@ -331,7 +284,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 8 - Functional Neurology-Speciality Focused Chiropractor (PA - Wayne) -->
+  <!-- JOB 7 - Functional Neurology-Speciality Focused Chiropractor (PA - Wayne) -->
   <job>
     <referencenumber><![CDATA[75BSEF]]></referencenumber>
     <requisitionid><![CDATA[75BSEF]]></requisitionid>
@@ -378,7 +331,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 9 - Front Desk & Clinical Support - Chiropractic Clinic (AL - Montgomery) -->
+  <!-- JOB 8 - Front Desk & Clinical Support - Chiropractic Clinic (AL - Montgomery) -->
   <job>
     <referencenumber><![CDATA[XATPF5]]></referencenumber>
     <requisitionid><![CDATA[XATPF5]]></requisitionid>
@@ -425,7 +378,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 10 - Performance & Wellness Chiropractor (MA - Boston) -->
+  <!-- JOB 9 - Performance & Wellness Chiropractor (MA - Boston) -->
   <job>
     <referencenumber><![CDATA[G8JMDK]]></referencenumber>
     <requisitionid><![CDATA[G8JMDK]]></requisitionid>
@@ -472,7 +425,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 11 - Functional Wellness Chiropractor (TN - Knoxville) -->
+  <!-- JOB 10 - Functional Wellness Chiropractor (TN - Knoxville) -->
   <job>
     <referencenumber><![CDATA[7JRT2H]]></referencenumber>
     <requisitionid><![CDATA[7JRT2H]]></requisitionid>
@@ -519,7 +472,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 12 - Sports and Rehabilitation Chiropractor (MA - Worcester) -->
+  <!-- JOB 11 - Sports and Rehabilitation Chiropractor (MA - Worcester) -->
   <job>
     <referencenumber><![CDATA[9LWCGA]]></referencenumber>
     <requisitionid><![CDATA[9LWCGA]]></requisitionid>
@@ -566,7 +519,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 13 - Associate Chiropractor in a wellness team (VA - Ashburn) -->
+  <!-- JOB 12 - Associate Chiropractor in a wellness team (VA - Ashburn) -->
   <job>
     <referencenumber><![CDATA[YJXMWG]]></referencenumber>
     <requisitionid><![CDATA[YJXMWG]]></requisitionid>
@@ -613,7 +566,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 14 - Family Wellness Chiropractor (NM - Las Cruces) -->
+  <!-- JOB 13 - Family Wellness Chiropractor (NM - Las Cruces) -->
   <job>
     <referencenumber><![CDATA[BD476T]]></referencenumber>
     <requisitionid><![CDATA[BD476T]]></requisitionid>
@@ -660,7 +613,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 15 - Associate Chiropractor - Holistic Wellness Practice (CO - Fort Collins) -->
+  <!-- JOB 14 - Associate Chiropractor - Holistic Wellness Practice (CO - Fort Collins) -->
   <job>
     <referencenumber><![CDATA[SJ6K5X]]></referencenumber>
     <requisitionid><![CDATA[SJ6K5X]]></requisitionid>
@@ -707,7 +660,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 16 - Associate Chiropractor - Personal Injury & Wellness Care (OR - portland) -->
+  <!-- JOB 15 - Associate Chiropractor - Personal Injury & Wellness Care (OR - portland) -->
   <job>
     <referencenumber><![CDATA[MWK65B]]></referencenumber>
     <requisitionid><![CDATA[MWK65B]]></requisitionid>
@@ -754,7 +707,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 17 - Full-Time Chiropractor - Ownership Track (OR - Gresham) -->
+  <!-- JOB 16 - Full-Time Chiropractor - Ownership Track (OR - Gresham) -->
   <job>
     <referencenumber><![CDATA[3F9BFZ]]></referencenumber>
     <requisitionid><![CDATA[3F9BFZ]]></requisitionid>
@@ -777,13 +730,13 @@
     <email><![CDATA[Bodiesinbc1@gmail.com]]></email>
     <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary><![CDATA[$58,000-$75,000 annually, based on experience, hours, production, and business generated]]></salary>
+    <salary><![CDATA[$87,000-$100,000 annually, based on experience, hours, production, and business generated]]></salary>
     <salary_detail>
-      <min><![CDATA[58000]]></min>
-      <max><![CDATA[75000]]></max>
+      <min><![CDATA[87000]]></min>
+      <max><![CDATA[100000]]></max>
       <currency><![CDATA[USD]]></currency>
       <unit><![CDATA[YEAR]]></unit>
-      <notes><![CDATA[$58,000-$75,000 annually, based on experience, hours, production, and business generated]]></notes>
+      <notes><![CDATA[$87,000-$100,000 annually, based on experience, hours, production, and business generated]]></notes>
     </salary_detail>
 
     <description><![CDATA[
@@ -797,11 +750,11 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Must be licensed or eligible for chiropractic licensure in Oregon.</li><li>Insurance panel credentialing is preferred, but not required.</li><li>Open to all experience levels.</li><li>Relocation assistance available and considered during the interview process.</li><li>Ideal-fit traits include a balanced adjusting and therapy approach, business-minded attitude, PI experience, pediatric experience, and geriatric experience.</li><li>Strong communication skills, character and  personality,</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary range: $58,000-$75,000 annually, based on experience, hours, production, and business generated.</li><li>Incentive and bonus opportunities are also available</li><li>Open to discussing percentage credit toward a future practice purchase or ownership transition.</li><li>CE reimbursement available.</li></ul>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary range: $87,000-$100,000 annually, based on experience, hours, production, and business generated.</li><li>Incentive and bonus opportunities are also available</li><li>Open to discussing percentage credit toward a future practice purchase or ownership transition.</li><li>CE reimbursement available.</li></ul>
     ]]></description>
   </job>
 
-  <!-- JOB 18 - Associate Chiropractor - Established Wellness Practice (TN - Cookeville) -->
+  <!-- JOB 17 - Associate Chiropractor - Established Wellness Practice (TN - Cookeville) -->
   <job>
     <referencenumber><![CDATA[V2TPZJ]]></referencenumber>
     <requisitionid><![CDATA[V2TPZJ]]></requisitionid>
@@ -824,13 +777,13 @@
     <email><![CDATA[drdwellspringfamilychiro@gmail.com]]></email>
     <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary><![CDATA[$75,000-$100,000 annually based on experience, including additional incentive opportunities]]></salary>
+    <salary><![CDATA[$75,000-$100,000 based upon experience, includes additional incentive opportunities]]></salary>
     <salary_detail>
       <min><![CDATA[75000]]></min>
       <max><![CDATA[100000]]></max>
       <currency><![CDATA[USD]]></currency>
       <unit><![CDATA[YEAR]]></unit>
-      <notes><![CDATA[$75,000-$100,000 annually based on experience, including additional incentive opportunities]]></notes>
+      <notes><![CDATA[$75,000-$100,000 based upon experience, includes additional incentive opportunities]]></notes>
     </salary_detail>
 
     <description><![CDATA[
@@ -841,14 +794,14 @@
       <p>We are currently seeking a Full-Time Chiropractor to join our team. This opportunity is ideal for a doctor who enjoys hands-on patient care, building long-term relationships, and working within a busy wellness-centered practice.<br><br>The office maintains a consistent patient flow that regularly exceeds 30 visits per day. Chiropractic care is centered around manual adjusting techniques, with Diversified, Gonstead, and Thompson among the most frequently utilized approaches. Additional therapies may include electrical stimulation, ultrasound, heat and cold applications, and other supportive treatment options when appropriate.<br><br>The ideal candidate is dependable, personable, and committed to helping patients achieve their health goals through individualized care and excellent communication.</p>
 
       <h4>Qualifications</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Active Tennessee chiropractic license or ability to obtain licensure</li><li>New graduates and experienced chiropractors encouraged to apply</li><li>Comfortable managing a busy patient schedule</li><li>Strong communication and patient relationship skills</li><li>Familiarity with orthopedic evaluation procedures</li><li>Wellness-based treatment philosophy with a patient-first approach</li><li>Personal injury experience is beneficial but not required</li></ul>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Active Tennessee chiropractic license or ability to obtain licensure</li><li>New graduates and experienced chiropractors encouraged to apply</li><li>Comfortable managing a busy patient schedule</li><li>Strong communication and patient relationship skills</li><li>Familiarity with orthopedic evaluation procedures</li><li>?Wellness-based treatment philosophy with a patient-first approach</li><li>Personal injury experience is beneficial but not required</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Compensation package: $75,000-$100,000 annually, based on experience, including additional incentive opportunities</li><li>Potential health-related benefits available</li><li>Continuing education support</li><li>$1,000 relocation assistance or signing bonus available for qualified candidates</li></ul>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Compensation package  $75,000-$100,000 based upon experience, includes additional incentive opportunities</li><li>Potential health-related benefits available</li><li>Continuing education support</li><li>$1,000 relocation assistance or signing bonus available for qualified candidates</li></ul>
     ]]></description>
   </job>
-  
-  <!-- JOB 19 - Associate Chiropractor - Entrepreneurial Growth Opportunity (OR - Beaverton) -->
+
+  <!-- JOB 18 - Associate Chiropractor - Entrepreneurial Growth Opportunity (OR - Beaverton) -->
   <job>
     <referencenumber><![CDATA[A9FLKT]]></referencenumber>
     <requisitionid><![CDATA[A9FLKT]]></requisitionid>
@@ -892,6 +845,53 @@
 
       <h4>Other Information</h4>
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary range: $58,000-$75,000 annually based on experience, hours, production, and business generated</li><li>Incentive and bonus opportunities available to generate more doctor revenue</li><li>Relocation assistance to be discussed during the interview process</li><li>Open to discussing percentage credit toward future ownership or practice purchase</li><li>CE reimbursement available</li></ul>
+    ]]></description>
+  </job>
+
+  <!-- JOB 19 - Community Wellness Chiropractor (TEN - Nashville) -->
+  <job>
+    <referencenumber><![CDATA[9574WF]]></referencenumber>
+    <requisitionid><![CDATA[9574WF]]></requisitionid>
+    <title><![CDATA[Community Wellness Chiropractor]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=9574WF#jobId=9574WF]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=9574WF&state=TEN&sid=9574WF]]></apply_url>
+
+    <date><![CDATA[2026-07-03T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Nashville]]></city>
+      <state><![CDATA[TEN]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
+    </location>
+
+    <company><![CDATA[WS Family]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[drdwellspringfamilychiro@gmail.com]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <salary><![CDATA[$75,000-$100,000 annually based on experience, with additional performance incentives]]></salary>
+    <salary_detail>
+      <min><![CDATA[75000]]></min>
+      <max><![CDATA[100000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$75,000-$100,000 annually based on experience, with additional performance incentives]]></notes>
+    </salary_detail>
+
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>Our independent chiropractic office is dedicated to helping patients achieve long-term health through quality chiropractic care and personalized treatment. Over the years, we have built a strong reputation within the community by providing consistent care and developing lasting relationships with the families we serve.<br><br>Doctors enjoy a collaborative workplace supported by experienced staff, private treatment rooms, rehabilitation equipment, and the resources needed to deliver outstanding patient care while maintaining professional independence.</p>
+
+      <h4>Job Description</h4>
+      <p>We are adding a Full-Time Associate Chiropractor to our clinical team. This opportunity is well suited for a doctor who enjoys treating patients, educating them about their health, and becoming a valued part of a busy, established practice.<br><br>The clinic maintains a steady patient schedule that commonly exceeds 30 visits each day. Diversified, Gonstead, and Thompson are the primary adjusting techniques utilized within the office, while additional therapies such as electrical stimulation, ultrasound, and heat or cold applications are incorporated when appropriate to support patient recovery.<br><br>We're looking for a chiropractor who communicates well, enjoys working with people, and takes pride in providing individualized care while contributing to the continued success of the practice.</p>
+
+      <h4>Qualifications</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Tennessee chiropractic license or ability to obtain licensure before employment</li><li>Open to both experienced chiropractors and recent graduates</li><li>Comfortable working in a fast-paced clinical environment</li><li>Strong interpersonal and patient communication skills</li><li>Confidence with orthopedic examination procedures</li><li>Patient-centered approach with a wellness-focused philosophy</li><li>Personal injury experience is helpful but not required</li></ul>
+
+      <h4>Other Information</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Compensation ranging from $75,000-$100,000 annually based on experience, with additional performance incentives</li><li>$1,000 relocation assistance or signing bonus available for qualified candidates</li><li>Potential health-related benefits</li><li>Continuing education assistance</li></ul>
     ]]></description>
   </job>
 </source>
