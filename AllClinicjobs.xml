@@ -894,4 +894,51 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Compensation ranging from $75,000-$100,000 annually based on experience, with additional performance incentives</li><li>$1,000 relocation assistance or signing bonus available for qualified candidates</li><li>Potential health-related benefits</li><li>Continuing education assistance</li></ul>
     ]]></description>
   </job>
+
+  <!-- JOB 20 - Entrepreneurial Associate Chiropractor (OR - Salem) -->
+  <job>
+    <referencenumber><![CDATA[XGED9Q]]></referencenumber>
+    <requisitionid><![CDATA[XGED9Q]]></requisitionid>
+    <title><![CDATA[Entrepreneurial Associate Chiropractor]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=XGED9Q#jobId=XGED9Q]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=XGED9Q&state=OR&sid=XGED9Q]]></apply_url>
+
+    <date><![CDATA[2026-07-03T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Salem]]></city>
+      <state><![CDATA[OR]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
+    </location>
+
+    <company><![CDATA[BBalance]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[Bodiesinbc1@gmail.com]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <salary><![CDATA[$80,000 plus bonus and incentive opportunities]]></salary>
+    <salary_detail>
+      <min><![CDATA[80000]]></min>
+      <max><![CDATA[80000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$80,000 plus bonus and incentive opportunities]]></notes>
+    </salary_detail>
+
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>Our independently owned chiropractic clinic has earned the trust of its community by delivering consistent, patient-focused care in a friendly and professional setting. We believe successful practices are built through strong relationships, quality treatment, and a commitment to helping patients achieve lasting results.<br><br>The office serves a wide variety of patients, from those seeking ongoing wellness care to individuals recovering from automobile accidents and personal injuries. Doctors benefit from experienced staff support, private adjusting rooms, rehabilitation equipment, shared office resources, and an established patient schedule.<br><br>Knowledge of Diversified, Drop Table, Activator, Graston, Flexion-Distraction, E-Stim, and heat or cold therapy is helpful, but we place equal value on professionalism, communication, and a positive attitude.</p>
+
+      <h4>Job Description</h4>
+      <p>We are seeking a Full-Time Associate Chiropractor who is interested in establishing a long-term career within a successful chiropractic practice. This position offers the opportunity to focus on exceptional patient care while becoming involved in the continued development of the clinic.<br><br>Daily responsibilities include evaluating patients, providing chiropractic adjustments, recommending individualized treatment plans, documenting patient progress, and educating patients throughout their care. Providers are encouraged to develop lasting patient relationships while contributing ideas that support practice growth and patient retention.<br><br>The practice offers mentorship and guidance while allowing doctors to develop professionally. For candidates interested in long-term opportunities, discussions regarding a future ownership transition or practice purchase may be available.</p>
+
+      <h4>Qualifications</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Oregon chiropractic license or eligibility for licensure</li><li>Communication and relationship-building skills</li><li>Interest in long-term practice growth and future ownership</li><li>Insurance credentialing preferred but not required</li><li>Experience treating pediatric and geriatric patients is beneficial</li><li>Personal injury experience is a plus</li><li>Motivated to learn</li></ul>
+
+      <h4>Other Information</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Starting salary of $80,000 plus bonus and incentive opportunities</li><li>Opportunity to earn percentage credit toward a future ownership</li><li>Continuing education reimbursement available</li></ul>
+    ]]></description>
+  </job>
 </source>
