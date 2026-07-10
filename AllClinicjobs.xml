@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<source>
+
+
 <!-- JOB 1 - Chiropractor - Focused General Wellness (AL - Montgomery) -->
   <job>
     <referencenumber><![CDATA[W2ZFE8]]></referencenumber>
@@ -52,7 +56,7 @@
     <title><![CDATA[LMT (Licensed Massage Therapist) - Patient Focused Wellness]]></title>
 
     <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=J52C3S#jobId=J52C3S]]></url>
-    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=J52C3S&state=WA&sid=J52C3S]]></apply_url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/staff1-form?job=J52C3S0&state=WA]]></apply_url>
 
     <date><![CDATA[2026-05-06T12:00:00Z]]></date>
 
@@ -334,7 +338,7 @@
     <title><![CDATA[Front Desk & Clinical Support - Chiropractic Clinic]]></title>
 
     <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=XATPF5#jobId=XATPF5]]></url>
-    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=XATPF5&state=AL&sid=XATPF5]]></apply_url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/staff1-form?job=XATPF5&state=AL]]></apply_url>
 
     <date><![CDATA[2026-05-06T12:00:00Z]]></date>
 
