@@ -848,50 +848,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 19 - Chiropractic Associate (WI - Greater Milwaukee area) -->
-  <job>
-    <referencenumber><![CDATA[779325]]></referencenumber>
-    <requisitionid><![CDATA[779325]]></requisitionid>
-    <title><![CDATA[Chiropractic Associate]]></title>
-
-    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=779325#jobId=779325]]></url>
-    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=779325&state=WI&sid=779325]]></apply_url>
-
-    <date><![CDATA[2026-07-16T12:00:00Z]]></date>
-
-    <location>
-      <city><![CDATA[Greater Milwaukee area]]></city>
-      <state><![CDATA[WI]]></state>
-      <country><![CDATA[US]]></country>
-      <postalcode><![CDATA[]]></postalcode>
-    </location>
-
-    <company><![CDATA[Chiropractic Company]]></company>
-    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
-    <email><![CDATA[Drmcleod@chiropracticco.com]]></email>
-    <jobtype><![CDATA[full-time]]></jobtype>
-
-    <salary><![CDATA[$70000-90000 salary plus bonuses]]></salary>
-    <salary_detail>
-      <min><![CDATA[70000]]></min>
-      <max><![CDATA[90000]]></max>
-      <currency><![CDATA[USD]]></currency>
-      <unit><![CDATA[YEAR]]></unit>
-      <notes><![CDATA[$70000-90000 salary plus bonuses]]></notes>
-    </salary_detail>
-
-    <description><![CDATA[
-<article>
-      
-      <h4>Company Description</h4><p>Chiropractic Company has 21 locations and is locally owned and operated by chiropractors.  We are nervous system based clinics that aims to meet patients where they are at and give them great chiropractic care. Our culture is collaborative and team-first with a high-volume, efficient pace. We primarily serve families, seniors, and wellness care. Our team size is 11+. Core values include Integrity, Compassion, and Excellence.</p><p>We&#39;re based in Greater Milwaukee area, WI with outdoor recreation from trails to water access, a standout restaurants and food scene, and a growing regional hub.</p>
-      <h4>Job Description</h4><p>This role centers on family wellness, rehab/corrective care, and acute pain. Common techniques include Diversified, Gonstead, and Thompson. Typical patient volume is 75-120 visits/week. We provide balanced autonomy with guidance. Charting expectations include SOAP closeout within 24 hours. Patient education emphasizes clear reports of findings and care plans.</p>
-      <h4>Qualifications</h4><p>We also consider candidates with a license application in process. New grads: yes. EHR experience: beginner. Computer skills: productivity. Interpersonal: good.</p>
-      <h4>Other Information</h4><p>Compensation: $70000-90000 salary plus bonuses. Benefits include Health insurance, PTO, 401(k), Malpractice, CE support, and Paid holidays. Mon-Fri schedule.</p>
-    </article>
-    ]]></description>
-  </job>
-
-  <!-- JOB 20 - Associate Doctor (WI - Milwaukee) -->
+  <!-- JOB 19 - Associate Doctor (WI - Milwaukee) -->
   <job>
     <referencenumber><![CDATA[NDU4DB]]></referencenumber>
     <requisitionid><![CDATA[NDU4DB]]></requisitionid>
