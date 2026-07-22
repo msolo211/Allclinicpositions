@@ -871,27 +871,37 @@
     <email><![CDATA[drmcleod@chiropracticco.com]]></email>
     <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary><![CDATA[]]></salary>
+    <salary><![CDATA[$70,000-$90,000 per year]]></salary>
     <salary_detail>
-      <min><![CDATA[]]></min>
-      <max><![CDATA[]]></max>
+      <min><![CDATA[70000]]></min>
+      <max><![CDATA[90000]]></max>
       <currency><![CDATA[USD]]></currency>
       <unit><![CDATA[YEAR]]></unit>
-      <notes><![CDATA[]]></notes>
+      <notes><![CDATA[Base salary depends on experience. Qualifying new graduates may receive a $10,000 signing and retention bonus with a two-year commitment. Clinic directors may also qualify for a production bonus, with total compensation potential of approximately $100,000 or more.]]></notes>
     </salary_detail>
 
     <description><![CDATA[
-<h4>Company Description</h4>
+      <h4>Company Description</h4>
       <p>Chiropractic Company is a group of 21 independently owned and operated chiropractic clinics in the greater Milwaukee area with over 40 years of history.</p>
 
       <h4>Job Description</h4>
-      <p>We are looking for a full time associate doctor</p>
+      <p>We are looking for a full-time associate doctor.</p>
 
       <h4>Qualifications</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Qualifications include proficiency in manual adjusting, modalities and X-ray.</li><li>Computer skills are required in order to navigate PMS, EHR, Sharepoint and email</li></ul>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;">
+        <li>Proficiency in manual adjusting, modalities, and X-ray.</li>
+        <li>Computer skills are required to navigate PMS, EHR, SharePoint, and email.</li>
+      </ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>In addition to salary and bonus structure, we offer health insurance, short and long term disability insurance and a matching 401k plan.</li><li>Continuing education, chiropractic coaching, 50% off a gym membership, paid time off, license fees, CPR training and malpractice coverage are all covered benefits as well</li></ul>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;">
+        <li><strong>$70,000-$90,000 base salary</strong>, depending on experience.</li>
+        <li><strong>$10,000 signing and retention bonus</strong> available to qualifying new graduates with a two-year commitment.</li>
+        <li>Up to <strong>$3,000 annually in student loan reimbursement</strong> for up to 10 years.</li>
+        <li>Clinic directors are eligible for a production bonus, with total compensation potential of approximately <strong>$100,000 or more</strong>.</li>
+        <li>Health insurance, short-term and long-term disability insurance, and a matching 401(k) plan.</li>
+        <li>Continuing education, chiropractic coaching, 50% off a gym membership, paid time off, license fees, CPR training, and malpractice coverage.</li>
+      </ul>
     ]]></description>
   </job>
 </source>
