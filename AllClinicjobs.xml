@@ -49,54 +49,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 2 - Associate Chiropractor - Relationship-Driven Wellness Clinic (PA - Chadds Ford) -->
-  <job>
-    <referencenumber><![CDATA[6A5WPF]]></referencenumber>
-    <requisitionid><![CDATA[6A5WPF]]></requisitionid>
-    <title><![CDATA[Associate Chiropractor - Relationship-Driven Wellness Clinic]]></title>
-
-    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=6A5WPF#jobId=6A5WPF]]></url>
-    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=6A5WPF&state=PA&sid=6A5WPF]]></apply_url>
-
-    <date><![CDATA[2026-05-06T12:00:00Z]]></date>
-
-    <location>
-      <city><![CDATA[Chadds Ford]]></city>
-      <state><![CDATA[PA]]></state>
-      <country><![CDATA[US]]></country>
-      <postalcode><![CDATA[]]></postalcode>
-    </location>
-
-    <company><![CDATA[HBC]]></company>
-    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
-    <email><![CDATA[xdrjoe@xhopebraincenter.com]]></email>
-    <jobtype><![CDATA[full-time]]></jobtype>
-
-    <salary><![CDATA[$85K-$100K]]></salary>
-    <salary_detail>
-      <min><![CDATA[85000]]></min>
-      <max><![CDATA[100000]]></max>
-      <currency><![CDATA[USD]]></currency>
-      <unit><![CDATA[YEAR]]></unit>
-      <notes><![CDATA[$85K-$100K]]></notes>
-    </salary_detail>
-
-    <description><![CDATA[
-<h4>Company Description</h4>
-      <p>Our clinic thrives on strong patient relationships, consistent results, and a team environment where every provider's contribution matters. We integrate functional neurology principles alongside hands-on adjustments and complementary services to improve both structure and function.</p>
-
-      <h4>Job Description</h4>
-      <p>Perform tailored chiropractic adjustments based on individual needs.<br><br>Collaborate with other providers to enhance patient outcomes.<br><br>Guide patients through care plans with clarity and empathy.<br><br>Track progress and adapt strategies to ensure optimal results.<br><br>Maintain professional, timely, accurate documentation.</p>
-
-      <h4>Qualifications</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Doctor of Chiropractic (DC) and current (or in-process) state license.</li><li>Excellent communication and patient education skills.</li><li>Strong ethics and commitment to a high standard of care.</li><li>Ability to collaborate within a diverse healthcare team.</li><li>Background in functional neurology is highly desirable (or strong interest to learn).</li></ul>
-
-      <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Compensation: Base + performance incentives, realistic range $85K-$100K.</li><li>Benefits: health insurance, malpractice coverage, CEU allowance, advancement tracks.</li><li>Modern facility near top schools, amenities, and outdoor recreation.</li></ul>
-    ]]></description>
-  </job>
-
-  <!-- JOB 3 - Experienced Associate Chiropractor (TX - Spring) -->
+  <!-- JOB 2 - Experienced Associate Chiropractor (TX - Spring) -->
   <job>
     <referencenumber><![CDATA[9QZ97Q]]></referencenumber>
     <requisitionid><![CDATA[9QZ97Q]]></requisitionid>
@@ -143,7 +96,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 4 - Chiropractor-First Wellness Center - Join Our Collaborative Team (AL - Birmingham) -->
+  <!-- JOB 3 - Chiropractor-First Wellness Center - Join Our Collaborative Team (AL - Birmingham) -->
   <job>
     <referencenumber><![CDATA[8EEZ4D]]></referencenumber>
     <requisitionid><![CDATA[8EEZ4D]]></requisitionid>
@@ -190,7 +143,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 5 - Associate Chiropractor - Wellness & Functional Neurology (PA - Philadelphia) -->
+  <!-- JOB 4 - Associate Chiropractor - Wellness & Functional Neurology (PA - Philadelphia) -->
   <job>
     <referencenumber><![CDATA[XEPVBX]]></referencenumber>
     <requisitionid><![CDATA[XEPVBX]]></requisitionid>
@@ -237,7 +190,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 6 - Front Desk & Clinical Support - Chiropractic Clinic (AL - Montgomery) -->
+  <!-- JOB 5 - Front Desk & Clinical Support - Chiropractic Clinic (AL - Montgomery) -->
   <job>
     <referencenumber><![CDATA[XATPF5]]></referencenumber>
     <requisitionid><![CDATA[XATPF5]]></requisitionid>
@@ -284,7 +237,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 7 - Performance & Wellness Chiropractor (MA - Boston) -->
+  <!-- JOB 6 - Performance & Wellness Chiropractor (MA - Boston) -->
   <job>
     <referencenumber><![CDATA[G8JMDK]]></referencenumber>
     <requisitionid><![CDATA[G8JMDK]]></requisitionid>
@@ -331,7 +284,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 8 - Associate Chiropractor in a wellness team (VA - Ashburn) -->
+  <!-- JOB 7 - Associate Chiropractor in a wellness team (VA - Ashburn) -->
   <job>
     <referencenumber><![CDATA[YJXMWG]]></referencenumber>
     <requisitionid><![CDATA[YJXMWG]]></requisitionid>
@@ -378,7 +331,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 9 - Family Wellness Chiropractor (NM - Las Cruces) -->
+  <!-- JOB 8 - Family Wellness Chiropractor (NM - Las Cruces) -->
   <job>
     <referencenumber><![CDATA[BD476T]]></referencenumber>
     <requisitionid><![CDATA[BD476T]]></requisitionid>
@@ -425,7 +378,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 10 - Associate Chiropractor - Holistic Wellness Practice (CO - Fort Collins) -->
+  <!-- JOB 9 - Associate Chiropractor - Holistic Wellness Practice (CO - Fort Collins) -->
   <job>
     <referencenumber><![CDATA[SJ6K5X]]></referencenumber>
     <requisitionid><![CDATA[SJ6K5X]]></requisitionid>
@@ -472,7 +425,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 11 - Associate Chiropractor - Personal Injury & Wellness Care (OR - portland) -->
+  <!-- JOB 10 - Associate Chiropractor - Personal Injury & Wellness Care (OR - portland) -->
   <job>
     <referencenumber><![CDATA[MWK65B]]></referencenumber>
     <requisitionid><![CDATA[MWK65B]]></requisitionid>
@@ -519,7 +472,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 12 - Full-Time Chiropractor - Ownership Track (OR - Gresham) -->
+  <!-- JOB 11 - Full-Time Chiropractor - Ownership Track (OR - Gresham) -->
   <job>
     <referencenumber><![CDATA[3F9BFZ]]></referencenumber>
     <requisitionid><![CDATA[3F9BFZ]]></requisitionid>
@@ -566,7 +519,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 13 - Associate Chiropractor - Established Wellness Practice (TN - Cookeville) -->
+  <!-- JOB 12 - Associate Chiropractor - Established Wellness Practice (TN - Cookeville) -->
   <job>
     <referencenumber><![CDATA[V2TPZJ]]></referencenumber>
     <requisitionid><![CDATA[V2TPZJ]]></requisitionid>
@@ -613,7 +566,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 14 - Community Wellness Chiropractor (TEN - Nashville) -->
+  <!-- JOB 13 - Community Wellness Chiropractor (TEN - Nashville) -->
   <job>
     <referencenumber><![CDATA[9574WF]]></referencenumber>
     <requisitionid><![CDATA[9574WF]]></requisitionid>
@@ -660,7 +613,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 15 - Entrepreneurial Associate Chiropractor (OR - Salem) -->
+  <!-- JOB 14 - Entrepreneurial Associate Chiropractor (OR - Salem) -->
   <job>
     <referencenumber><![CDATA[XGED9Q]]></referencenumber>
     <requisitionid><![CDATA[XGED9Q]]></requisitionid>
@@ -707,7 +660,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 16 - Associate Chiropractor - Ownership Opportunity (OR - Beaverton) -->
+  <!-- JOB 15 - Associate Chiropractor - Ownership Opportunity (OR - Beaverton) -->
   <job>
     <referencenumber><![CDATA[7S29EF]]></referencenumber>
     <requisitionid><![CDATA[7S29EF]]></requisitionid>
@@ -754,57 +707,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 17 - Associate Doctor (WI - Milwaukee) -->
-  <job>
-    <referencenumber><![CDATA[NDU4DB]]></referencenumber>
-    <requisitionid><![CDATA[NDU4DB]]></requisitionid>
-    <title><![CDATA[Associate Doctor]]></title>
-
-    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=NDU4DB#jobId=NDU4DB]]></url>
-    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=NDU4DB&state=WI&sid=NDU4DB]]></apply_url>
-
-    <date><![CDATA[2026-07-21T12:00:00Z]]></date>
-
-    <location>
-      <city><![CDATA[Milwaukee]]></city>
-      <state><![CDATA[WI]]></state>
-      <country><![CDATA[US]]></country>
-      <postalcode><![CDATA[]]></postalcode>
-    </location>
-
-    <company><![CDATA[Chiropractic Company]]></company>
-    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
-    <email><![CDATA[drmcleod@chiropracticco.com]]></email>
-    <jobtype><![CDATA[full-time]]></jobtype>
-
-    <salary><![CDATA[$70,000-$90,000 base salary, depending on experience]]></salary>
-    <salary_detail>
-      <min><![CDATA[70000]]></min>
-      <max><![CDATA[90000]]></max>
-      <currency><![CDATA[USD]]></currency>
-      <unit><![CDATA[YEAR]]></unit>
-      <notes><![CDATA[$70,000-$90,000 base salary, depending on experience]]></notes>
-    </salary_detail>
-
-    <description><![CDATA[
-<h4>Company Description</h4>
-      <p>Chiropractic Company is a group of 21 independently owned and operated chiropractic clinics in the greater Milwaukee area with over 40 years of history.</p>
-
-      <h4>Job Description</h4>
-      <p>We are looking for a full time associate doctor</p>
-
-      <h4>Qualifications</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Qualifications include proficiency in manual adjusting, modalities and X-ray.</li><li>Computer skills are required in order to navigate PMS, EHR, Sharepoint and email</li></ul>
-
-      <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>$70,000-$90,000 base salary, depending on experience
-$10,000 signing/retention bonus available to qualifying new graduates with a two-year commitment
-</li><li>Up to $3,000 annually in student loan reimbursement for up to 10 years
-</li><li>Production bonus eligibility for clinic directors, with total compensation potential of approximately $100,000 plus </li><li>In addition to salary and bonus structure, we offer health insurance, short and long term disability insurance and a matching 401k plan.</li><li>Continuing education, chiropractic coaching, 50% off a gym membership, paid time off, license fees, CPR training and malpractice coverage are all covered benefits as well</li></ul>
-    ]]></description>
-  </job>
-
-  <!-- JOB 18 - Associate Chiropractor - Wellness Clinic (WI - Madison) -->
+  <!-- JOB 16 - Associate Chiropractor - Wellness Clinic (WI - Madison) -->
   <job>
     <referencenumber><![CDATA[EQ25MK]]></referencenumber>
     <requisitionid><![CDATA[EQ25MK]]></requisitionid>
@@ -848,6 +751,53 @@ $10,000 signing/retention bonus available to qualifying new graduates with a two
 
       <h4>Other Information</h4>
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Starting base salary of $70,000-$90,000, based on experience</li><li>Total earning potential well in excess of $100,000 through bonus and incentive opportunities</li><li>Comprehensive benefits package including health insurance, short- and long-term disability coverage, and a company-matched 401(k)</li><li>Additional benefits include continuing education, chiropractic coaching, paid time off, license fees, CPR certification, malpractice coverage, and a discounted gym membership</li></ul>
+    ]]></description>
+  </job>
+
+  <!-- JOB 17 - Wellness-Focused Associate Chiropractor (WI - Milwaukee) -->
+  <job>
+    <referencenumber><![CDATA[EQ25MK]]></referencenumber>
+    <requisitionid><![CDATA[EQ25MK]]></requisitionid>
+    <title><![CDATA[Wellness-Focused Associate Chiropractor]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=EQ25MK#jobId=EQ25MK]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/candclientform?jobId=EQ25MK&state=WI&sid=EQ25MK]]></apply_url>
+
+    <date><![CDATA[2026-08-18T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Milwaukee]]></city>
+      <state><![CDATA[WI]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
+    </location>
+
+    <company><![CDATA[CCO]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[drmcleod@chiropracticco.com]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <salary><![CDATA[$70,000-$90,000 starting base compensation, determined by experience, with additional performance-based ea]]></salary>
+    <salary_detail>
+      <min><![CDATA[70000]]></min>
+      <max><![CDATA[90000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$70,000-$90,000 starting base compensation, determined by experience, with additional performance-based ea]]></notes>
+    </salary_detail>
+
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>Our practice is built around a wellness-oriented approach to chiropractic care with a strong belief in the value of the chiropractic adjustment to help patients achieve better health and a higher quality of life. We focus on helping patients improve function, stay active, and achieve better overall health through individualized, hands-on care.<br><br>The clinical environment combines traditional chiropractic principles with rehabilitation and supportive services when appropriate. Doctors are encouraged to understand each patient's goals, communicate clearly, and develop care recommendations based on individual needs rather than a one-size-fits-all approach.<br><br>We value strong adjusting skills, positive patient relationships, and doctors who are passionate about chiropractic and enjoy helping people make meaningful improvements in their health and daily lives.</p>
+
+      <h4>Job Description</h4>
+      <p>We are seeking a Full-Time Associate Chiropractor who is passionate about hands-on chiropractic care and enjoys helping patients achieve their health and wellness goals. The ideal doctor is a motivated self-starter who communicates well, works effectively as part of a team, and takes pride in creating a positive patient experience.<br><br>The position centers on evaluating patients, developing appropriate care recommendations, delivering high-quality chiropractic adjustments, monitoring patient progress, and educating patients about their care.</p>
+
+      <h4>Qualifications</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Wisconsin licensure is required by the start date; candidates currently completing the licensing process are welcome to apply</li><li>Excellent manual adjusting ability and comfort reviewing diagnostic X-ray</li><li>Able to handle routine computer-based office functions</li><li>Personable, reliable, and comfortable collaborating with both patients and coworkers</li><li>New graduates are encouraged to apply</li></ul>
+
+      <h4>Other Information</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>$70,000-$90,000 starting base compensation, determined by experience, with additional performance-based earnings</li><li>Incentive and bonus programs provide the opportunity for **annual compensation exceeding $100,000**</li><li>Health insurance along with an employer-matched **401(k)**</li><li>Included paid CE, malpractice insurance, licensing expenses, and CPR certification</li></ul>
     ]]></description>
   </job>
 </source>
