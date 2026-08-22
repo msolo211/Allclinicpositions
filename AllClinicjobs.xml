@@ -754,7 +754,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 17 - Wellness-Focused Associate Chiropractor (WI - Milwaukee) -->
+    <!-- JOB 17 - Wellness-Focused Associate Chiropractor (WI - Milwaukee) -->
   <job>
     <referencenumber><![CDATA[EQ65MK]]></referencenumber>
     <requisitionid><![CDATA[EQ65MK]]></requisitionid>
@@ -777,13 +777,13 @@
     <email><![CDATA[drmcleod@chiropracticco.com]]></email>
     <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary><![CDATA[$70,000-$90,000 starting base compensation, determined by experience, with additional performance-based ea]]></salary>
+    <salary><![CDATA[$70,000-$90,000 starting base compensation, determined by experience, with additional performance-based earnings]]></salary>
     <salary_detail>
       <min><![CDATA[70000]]></min>
       <max><![CDATA[90000]]></max>
       <currency><![CDATA[USD]]></currency>
       <unit><![CDATA[YEAR]]></unit>
-      <notes><![CDATA[$70,000-$90,000 starting base compensation, determined by experience, with additional performance-based ea]]></notes>
+      <notes><![CDATA[$70,000-$90,000 starting base compensation, determined by experience, with additional performance-based earnings]]></notes>
     </salary_detail>
 
     <description><![CDATA[
@@ -797,7 +797,7 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Wisconsin licensure is required by the start date; candidates currently completing the licensing process are welcome to apply</li><li>Excellent manual adjusting ability and comfort reviewing diagnostic X-ray</li><li>Able to handle routine computer-based office functions</li><li>Personable, reliable, and comfortable collaborating with both patients and coworkers</li><li>New graduates are encouraged to apply</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>$70,000-$90,000 starting base compensation, determined by experience, with additional performance-based earnings</li><li>Incentive and bonus programs provide the opportunity for **annual compensation exceeding $100,000**</li><li>Health insurance along with an employer-matched **401(k)**</li><li>Included paid CE, malpractice insurance, licensing expenses, and CPR certification</li></ul>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>$70,000-$90,000 starting base compensation, determined by experience, with additional performance-based earnings</li><li>Incentive and bonus programs provide the opportunity for annual compensation exceeding $100,000</li><li>Health insurance along with an employer-matched 401(k)</li><li>Included paid CE, malpractice insurance, licensing expenses, and CPR certification</li></ul>
     ]]></description>
   </job>
 
