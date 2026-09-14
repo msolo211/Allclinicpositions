@@ -96,7 +96,54 @@
     ]]></description>
   </job>
 
-  <!-- JOB 3 - Full-Time Chiropractor - Ownership Track (OR - Gresham) -->
+  <!-- JOB 3 - Associate Chiropractor - Holistic Wellness Practice (CO - Fort Collins) -->
+  <job>
+    <referencenumber><![CDATA[SJ6K5X]]></referencenumber>
+    <requisitionid><![CDATA[SJ6K5X]]></requisitionid>
+    <title><![CDATA[Associate Chiropractor - Holistic Wellness Practice]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=SJ6K5X#jobId=SJ6K5X]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/candidate-start?jobId=SJ6K5X&state=CO&sid=SJ6K5X]]></apply_url>
+
+    <date><![CDATA[2026-06-05T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Fort Collins]]></city>
+      <state><![CDATA[CO]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
+    </location>
+
+    <company><![CDATA[DCLC]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[lovelandassociate.gating850@passinbox.com]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <salary><![CDATA[$75,000-$85,000 plus performance incentives]]></salary>
+    <salary_detail>
+      <min><![CDATA[75000]]></min>
+      <max><![CDATA[85000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$75,000-$85,000 plus performance incentives]]></notes>
+    </salary_detail>
+
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>For more than a decade, our independently owned Colorado practice has provided patient-centered chiropractic care focused on long-term wellness. We combine a holistic approach with modern technology, including digital X-ray, comprehensive EHR systems, and advanced adjusting tables.<br><br>The practice maintains a steady, high-volume patient flow and primarily serves adults seeking adjustment-focused care. We value professional growth, continuous learning, and creating a positive experience for both patients and providers.</p>
+
+      <h4>Job Description</h4>
+      <p>We are seeking a Full-Time Associate Chiropractor for an immediate opening. The ideal candidate is comfortable in a busy practice environment and enjoys building relationships while delivering high-quality chiropractic care.<br><br>Responsibilities include performing examinations, developing care recommendations, providing chiropractic adjustments, maintaining accurate documentation, reviewing digital imaging when appropriate, and educating patients on lifestyle factors that support their health goals.<br><br>Diversified and Thompson are the primary techniques utilized within the office. Community involvement and patient education are encouraged as part of practice growth.</p>
+
+      <h4>Qualifications</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Colorado license preferred or ability to obtain licensure promptly</li><li>New graduates and experienced chiropractors welcome</li><li>Strong adjusting skills, including side-posture techniques</li><li>Comfortable interpreting X-rays and utilizing EHR systems</li><li>Reliable and dependable</li></ul>
+
+      <h4>Other Information</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Base salary: $75,000-$85,000 plus performance incentives</li><li>Continuing education support provided</li><li>Additional benefits may be available</li></ul>
+    ]]></description>
+  </job>
+
+  <!-- JOB 4 - Full-Time Chiropractor - Ownership Track (OR - Gresham) -->
   <job>
     <referencenumber><![CDATA[3F9BFZ]]></referencenumber>
     <requisitionid><![CDATA[3F9BFZ]]></requisitionid>
@@ -143,7 +190,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 4 - Associate Chiropractor - Established Wellness Practice (TN - Cookeville) -->
+  <!-- JOB 5 - Associate Chiropractor - Established Wellness Practice (TN - Cookeville) -->
   <job>
     <referencenumber><![CDATA[V2TPZJ]]></referencenumber>
     <requisitionid><![CDATA[V2TPZJ]]></requisitionid>
@@ -183,14 +230,108 @@
       <p>We are currently seeking a Full-Time Chiropractor to join our team. This opportunity is ideal for a doctor who enjoys hands-on patient care, building long-term relationships, and working within a busy wellness-centered practice.<br><br>The office maintains a consistent patient flow that regularly exceeds 30 visits per day. Chiropractic care is centered around manual adjusting techniques, with Diversified, Gonstead, and Thompson among the most frequently utilized approaches. Additional therapies may include electrical stimulation, ultrasound, heat and cold applications, and other supportive treatment options when appropriate.<br><br>The ideal candidate is dependable, personable, and committed to helping patients achieve their health goals through individualized care and excellent communication.</p>
 
       <h4>Qualifications</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Active Tennessee chiropractic license or ability to obtain licensure</li><li>New graduates and experienced chiropractors encouraged to apply</li><li>Comfortable managing a busy patient schedule</li><li>Strong communication and patient relationship skills</li><li>Familiarity with orthopedic evaluation procedures</li><li>Wellness-based treatment philosophy with a patient-first approach</li><li>Personal injury experience is beneficial but not required</li></ul>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Active Tennessee chiropractic license or ability to obtain licensure</li><li>New graduates and experienced chiropractors encouraged to apply</li><li>Comfortable managing a busy patient schedule</li><li>Strong communication and patient relationship skills</li><li>Familiarity with orthopedic evaluation procedures</li><li>?Wellness-based treatment philosophy with a patient-first approach</li><li>Personal injury experience is beneficial but not required</li></ul>
 
       <h4>Other Information</h4>
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Compensation package  $75,000-$100,000 based upon experience, includes additional incentive opportunities</li><li>Potential health-related benefits available</li><li>Continuing education support</li><li>$1,000 relocation assistance or signing bonus available for qualified candidates</li></ul>
     ]]></description>
   </job>
 
-  <!-- JOB 5 - Associate Chiropractor - Ownership Opportunity (OR - Beaverton) -->
+  <!-- JOB 6 - Community Wellness Chiropractor (TEN - Nashville) -->
+  <job>
+    <referencenumber><![CDATA[9574WF]]></referencenumber>
+    <requisitionid><![CDATA[9574WF]]></requisitionid>
+    <title><![CDATA[Community Wellness Chiropractor]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=9574WF#jobId=9574WF]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/candidate-start?jobId=9574WF&state=TEN&sid=9574WF]]></apply_url>
+
+    <date><![CDATA[2026-07-03T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Nashville]]></city>
+      <state><![CDATA[TEN]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
+    </location>
+
+    <company><![CDATA[WS Family]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[drdwellspringfamilychiro@gmail.com]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <salary><![CDATA[$75,000-$100,000 annually based on experience, with additional performance incentives]]></salary>
+    <salary_detail>
+      <min><![CDATA[75000]]></min>
+      <max><![CDATA[100000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$75,000-$100,000 annually based on experience, with additional performance incentives]]></notes>
+    </salary_detail>
+
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>Our independent chiropractic office is dedicated to helping patients achieve long-term health through quality chiropractic care and personalized treatment. Over the years, we have built a strong reputation within the community by providing consistent care and developing lasting relationships with the families we serve.<br><br>Doctors enjoy a collaborative workplace supported by experienced staff, private treatment rooms, rehabilitation equipment, and the resources needed to deliver outstanding patient care while maintaining professional independence.</p>
+
+      <h4>Job Description</h4>
+      <p>We are adding a Full-Time Associate Chiropractor to our clinical team. This opportunity is well suited for a doctor who enjoys treating patients, educating them about their health, and becoming a valued part of a busy, established practice.<br><br>The clinic maintains a steady patient schedule that commonly exceeds 30 visits each day. Diversified, Gonstead, and Thompson are the primary adjusting techniques utilized within the office, while additional therapies such as electrical stimulation, ultrasound, and heat or cold applications are incorporated when appropriate to support patient recovery.<br><br>We're looking for a chiropractor who communicates well, enjoys working with people, and takes pride in providing individualized care while contributing to the continued success of the practice.</p>
+
+      <h4>Qualifications</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Tennessee chiropractic license or ability to obtain licensure before employment</li><li>Open to both experienced chiropractors and recent graduates</li><li>Comfortable working in a fast-paced clinical environment</li><li>Strong interpersonal and patient communication skills</li><li>Confidence with orthopedic examination procedures</li><li>Patient-centered approach with a wellness-focused philosophy</li><li>Personal injury experience is helpful but not required</li></ul>
+
+      <h4>Other Information</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Compensation ranging from $75,000-$100,000 annually based on experience, with additional performance incentives</li><li>$1,000 relocation assistance or signing bonus available for qualified candidates</li><li>Potential health-related benefits</li><li>Continuing education assistance</li></ul>
+    ]]></description>
+  </job>
+
+  <!-- JOB 7 - Entrepreneurial Associate Chiropractor (OR - Salem) -->
+  <job>
+    <referencenumber><![CDATA[XGED9Q]]></referencenumber>
+    <requisitionid><![CDATA[XGED9Q]]></requisitionid>
+    <title><![CDATA[Entrepreneurial Associate Chiropractor]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=XGED9Q#jobId=XGED9Q]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/candidate-start?jobId=XGED9Q&state=OR&sid=XGED9Q]]></apply_url>
+
+    <date><![CDATA[2026-07-03T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Salem]]></city>
+      <state><![CDATA[OR]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
+    </location>
+
+    <company><![CDATA[BBalance]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[Bodiesinbc1@gmail.com]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <salary><![CDATA[$80,000 plus bonus and incentive opportunities]]></salary>
+    <salary_detail>
+      <min><![CDATA[80000]]></min>
+      <max><![CDATA[80000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$80,000 plus bonus and incentive opportunities]]></notes>
+    </salary_detail>
+
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>Our independently owned chiropractic clinic has earned the trust of its community by delivering consistent, patient-focused care in a friendly and professional setting. We believe successful practices are built through strong relationships, quality treatment, and a commitment to helping patients achieve lasting results.<br><br>The office serves a wide variety of patients, from those seeking ongoing wellness care to individuals recovering from automobile accidents and personal injuries. Doctors benefit from experienced staff support, private adjusting rooms, rehabilitation equipment, shared office resources, and an established patient schedule.<br><br>Knowledge of Diversified, Drop Table, Activator, Graston, Flexion-Distraction, E-Stim, and heat or cold therapy is helpful, but we place equal value on professionalism, communication, and a positive attitude.</p>
+
+      <h4>Job Description</h4>
+      <p>We are seeking a Full-Time Associate Chiropractor who is interested in establishing a long-term career within a successful chiropractic practice. This position offers the opportunity to focus on exceptional patient care while becoming involved in the continued development of the clinic.<br><br>Daily responsibilities include evaluating patients, providing chiropractic adjustments, recommending individualized treatment plans, documenting patient progress, and educating patients throughout their care. Providers are encouraged to develop lasting patient relationships while contributing ideas that support practice growth and patient retention.<br><br>The practice offers mentorship and guidance while allowing doctors to develop professionally. For candidates interested in long-term opportunities, discussions regarding a future ownership transition or practice purchase may be available.</p>
+
+      <h4>Qualifications</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Oregon chiropractic license or eligibility for licensure</li><li>Communication and relationship-building skills</li><li>Interest in long-term practice growth and future ownership</li><li>Insurance credentialing preferred but not required</li><li>Experience treating pediatric and geriatric patients is beneficial</li><li>Personal injury experience is a plus</li><li>Motivated to learn</li></ul>
+
+      <h4>Other Information</h4>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Starting salary of $80,000 plus bonus and incentive opportunities</li><li>Opportunity to earn percentage credit toward a future ownership</li><li>Continuing education reimbursement available</li></ul>
+    ]]></description>
+  </job>
+
+  <!-- JOB 8 - Associate Chiropractor - Ownership Opportunity (OR - Beaverton) -->
   <job>
     <referencenumber><![CDATA[7S29EF]]></referencenumber>
     <requisitionid><![CDATA[7S29EF]]></requisitionid>
@@ -213,13 +354,13 @@
     <email><![CDATA[Bodiesinbc1@gmail.com]]></email>
     <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary><![CDATA[$85,000 annually based on Incentive and bonus opportunities]]></salary>
+    <salary><![CDATA[$85,00 annually based on Incentive and bonus opportunities]]></salary>
     <salary_detail>
-      <min><![CDATA[85000]]></min>
-      <max><![CDATA[85000]]></max>
+      <min><![CDATA[8500]]></min>
+      <max><![CDATA[8500]]></max>
       <currency><![CDATA[USD]]></currency>
       <unit><![CDATA[YEAR]]></unit>
-      <notes><![CDATA[$85,000 annually based on Incentive and bonus opportunities]]></notes>
+      <notes><![CDATA[$85,00 annually based on Incentive and bonus opportunities]]></notes>
     </salary_detail>
 
     <description><![CDATA[
@@ -227,17 +368,17 @@
       <p>Our independently owned chiropractic practice has been serving the local community for many years while providing patient-focused care in a friendly, traditional office environment. We are committed to helping patients improve their health through individualized chiropractic treatment and lasting patient relationships.<br><br>The clinic cares for a diverse patient population, including wellness patients as well as those recovering from motor vehicle accidents and personal injuries. Doctors are supported with experienced staff, private treatment areas, rehabilitation equipment, shared office resources, and an established patient schedule.<br><br>Experience with Diversified, Drop Table, Activator, Graston, Flexion-Distraction, E-Stim, and heat or cold therapies is beneficial. Above all, we are looking for a chiropractor who values professionalism, teamwork, and building long-term relationships with patients.</p>
 
       <h4>Job Description</h4>
-      <p>We are seeking a Full-Time Associate Chiropractor who is interested in becoming an integral part of the practice while pursuing long-term career growth. This position is ideal for someone who enjoys patient care and has an interest in the business side of private practice.<br><br>Responsibilities include evaluating and treating patients, developing individualized care plans, educating patients, and helping maintain a positive patient experience. We are looking for a doctor who is motivated to help grow the practice while building a loyal patient base.<br><br>Mentorship is available throughout the transition, and for the right individual, there is potential to explore future ownership or a structured practice purchase opportunity.</p>
+      <p>We are seeking a Full-Time Associate Chiropractor who is interested in becoming an integral part of the practice while pursuing long-term career growth. This position is ideal for someone who enjoys patient care and has an interest in the business side of private practice.<br><br>\Responsibilities include evaluating and treating patients, developing individualized care plans, educating patients, and helping maintain a positive patient experience. We are looking for a doctor who is motivated to help grow the practice while building a loyal patient base.<br><br>Mentorship is available throughout the transition, and for the right individual, there is potential to explore future ownership or a structured practice purchase opportunity.</p>
 
       <h4>Qualifications</h4>
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Licensed or eligible for chiropractic licensure in Oregon</li><li>Insurance credentialing is preferred but not required</li><li>Interest in future ownership or private practice leadership</li><li>Personal injury experience is a plus</li><li>Experience caring for pediatric and geriatric patients is beneficial</li><li>Strong communication and relationship-building skills</li><li>Professional, dependable, and patient-focused attitude</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary: $85,000 annually based on Incentive and bonus opportunities</li><li>Relocation assistance available</li><li>Percentage credit toward a future ownership</li></ul>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Salary: $85,00 annually based on Incentive and bonus opportunities</li><li>Relocation assistance available</li><li>Percentage credit toward a future ownership</li></ul>
     ]]></description>
   </job>
 
-  <!-- JOB 6 - Associate Chiropractor - Wellness Clinic (WI - Madison) -->
+  <!-- JOB 9 - Associate Chiropractor - Wellness Clinic (WI - Madison) -->
   <job>
     <referencenumber><![CDATA[EQ25MK]]></referencenumber>
     <requisitionid><![CDATA[EQ25MK]]></requisitionid>
@@ -284,7 +425,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 7 - Wellness-Focused Associate Chiropractor (WI - Milwaukee) -->
+  <!-- JOB 10 - Wellness-Focused Associate Chiropractor (WI - Milwaukee) -->
   <job>
     <referencenumber><![CDATA[EQ65MK]]></referencenumber>
     <requisitionid><![CDATA[EQ65MK]]></requisitionid>
@@ -307,13 +448,13 @@
     <email><![CDATA[drmcleod@chiropracticco.com]]></email>
     <jobtype><![CDATA[full-time]]></jobtype>
 
-    <salary><![CDATA[$70,000-$90,000 starting base compensation, determined by experience, with additional performance-based earnings]]></salary>
+    <salary><![CDATA[$70,000-$90,000 starting base compensation, determined by experience, with additional performance-based ea]]></salary>
     <salary_detail>
       <min><![CDATA[70000]]></min>
       <max><![CDATA[90000]]></max>
       <currency><![CDATA[USD]]></currency>
       <unit><![CDATA[YEAR]]></unit>
-      <notes><![CDATA[$70,000-$90,000 starting base compensation, determined by experience, with additional performance-based earnings]]></notes>
+      <notes><![CDATA[$70,000-$90,000 starting base compensation, determined by experience, with additional performance-based ea]]></notes>
     </salary_detail>
 
     <description><![CDATA[
@@ -327,11 +468,11 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Wisconsin licensure is required by the start date; candidates currently completing the licensing process are welcome to apply</li><li>Excellent manual adjusting ability and comfort reviewing diagnostic X-ray</li><li>Able to handle routine computer-based office functions</li><li>Personable, reliable, and comfortable collaborating with both patients and coworkers</li><li>New graduates are encouraged to apply</li></ul>
 
       <h4>Other Information</h4>
-      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>$70,000-$90,000 starting base compensation, determined by experience, with additional performance-based earnings</li><li>Incentive and bonus programs provide the opportunity for annual compensation exceeding $100,000</li><li>Health insurance along with an employer-matched 401(k)</li><li>Included paid CE, malpractice insurance, licensing expenses, and CPR certification</li></ul>
+      <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>$70,000-$90,000 starting base compensation, determined by experience, with additional performance-based earnings</li><li>Incentive and bonus programs provide the opportunity for **annual compensation exceeding $100,000**</li><li>Health insurance along with an employer-matched **401(k)**</li><li>Included paid CE, malpractice insurance, licensing expenses, and CPR certification</li></ul>
     ]]></description>
   </job>
 
-  <!-- JOB 8 - Hands-On Wellness Chiropractor (WI - Waukesha) -->
+  <!-- JOB 11 - Hands-On Wellness Chiropractor (WI - Waukesha) -->
   <job>
     <referencenumber><![CDATA[WTRT9N]]></referencenumber>
     <requisitionid><![CDATA[WTRT9N]]></requisitionid>
@@ -378,7 +519,7 @@
     ]]></description>
   </job>
 
-  <!-- JOB 9 - Associate Chiropractor - Wellness & Performance Care (WI - Brookfield) -->
+  <!-- JOB 12 - Associate Chiropractor - Wellness & Performance Care (WI - Brookfield) -->
   <job>
     <referencenumber><![CDATA[ZETLGV]]></referencenumber>
     <requisitionid><![CDATA[ZETLGV]]></requisitionid>
@@ -419,6 +560,50 @@
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Wisconsin chiropractic license required before starting; candidates currently completing the licensing process are welcome to apply</li><li>Recent graduates and experienced chiropractors are both encouraged to apply</li><li>Strong manual adjusting skills</li><li>Comfortable reviewing diagnostic X-rays</li><li>Good communication and interpersonal skills</li><li>Able to use routine computer programs and electronic documentation systems</li><li>Professional, reliable, and team-oriented</li></ul>
       <h4>Other Information</h4>
       <ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Base compensation: $70,000-$90,000 depending on experience</li><li>Earning potential: Bonus and incentive opportunities can bring total annual compensation above $100,000</li><li>Health &amp; retirement: Health insurance and employer-matched 401(k)</li><li>Professional expenses: Paid continuing education, malpractice insurance, licensing expenses, and CPR certification</li><li>Opportunity to build a long-term career within an established chiropractic organization</li></ul>
+    ]]></description>
+  </job>
+
+  <!-- JOB 13 - Integrated Wellness Care Chiropractor (WI - Milwaukee) -->
+  <job>
+    <referencenumber><![CDATA[DAX74L]]></referencenumber>
+    <requisitionid><![CDATA[DAX74L]]></requisitionid>
+    <title><![CDATA[Integrated Wellness Care Chiropractor]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=DAX74L#jobId=DAX74L]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/candidate-start?jobId=DAX74L&state=WI&sid=DAX74L]]></apply_url>
+
+    <date><![CDATA[2026-09-14T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Milwaukee]]></city>
+      <state><![CDATA[WI]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
+    </location>
+
+    <company><![CDATA[]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[drmcleod@chiropracticco.com]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <salary><![CDATA[$75,001 - $85,000]]></salary>
+    <salary_detail>
+      <min><![CDATA[75001]]></min>
+      <max><![CDATA[85000]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$75,001 - $85,000]]></notes>
+    </salary_detail>
+
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>Our long-standing chiropractic practice offers the stability of an established office environment. Many of our patients seek chiropractic care as part of broader wellness goals. Chiropractic care is one part of our more integrated treatment setting.</p>
+      <h4>Job Description</h4>
+      <p>In addition to patient care, the chiropractor will have opportunities to contribute to the continued growth of the practice. Clinical work emphasizes confident hands-on adjusting and direct patient care, with care plans tailored to each patient's clinical presentation. Staff support and a comprehensive EHR help keep a busy clinical schedule organized and patient care moving smoothly. The ability to provide care at more than one clinic location is preferred.</p>
+      <h4>Qualifications</h4>
+      <p class="qual-intro" style="margin:.15rem 0 .55rem;">The strongest fit is a chiropractor who communicates naturally with patients and helps create a positive clinical experience.</p><ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Current Wisconsin chiropractic licensure is preferred.</li><li>Proficiency in Diversified is expected for the role. Experience with Gonstead is also valued. Experience with E-Stim is expected.</li><li>Comfort with X-ray assessment is important for this role.</li><li>Candidates should have definite plans to relocate to the area.</li></ul>
+      <h4>Other Information</h4>
+      <p>Compensation ranges from $75,001 to $85,000. Benefits include health insurance. The position also offers the potential for greater responsibility and future leadership over time. This is an immediate opening.</p>
     ]]></description>
   </job>
 </source>
