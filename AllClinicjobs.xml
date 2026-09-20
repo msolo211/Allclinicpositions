@@ -559,4 +559,48 @@
       <p>Compensation ranges from $75,001 to $85,000. Benefits include health insurance. The position also offers the potential for greater responsibility and future leadership over time. This is an immediate opening.</p>
     ]]></description>
   </job>
+
+  <!-- JOB 13 - Integrated Care Chiropractor (VA - Woodbridge) -->
+  <job>
+    <referencenumber><![CDATA[M79QCM]]></referencenumber>
+    <requisitionid><![CDATA[M79QCM]]></requisitionid>
+    <title><![CDATA[Integrated Care Chiropractor]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=M79QCM#jobId=M79QCM]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/candidate-start?jobId=M79QCM&state=VA&sid=M79QCM]]></apply_url>
+
+    <date><![CDATA[2026-09-20T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Woodbridge]]></city>
+      <state><![CDATA[VA]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
+    </location>
+
+    <company><![CDATA[HSource]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[HSwoodbridge@healthsourcechiro.com]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <salary><![CDATA[$95,001 and above]]></salary>
+    <salary_detail>
+      <min><![CDATA[95001]]></min>
+      <max><![CDATA[95001]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$95,001 and above]]></notes>
+    </salary_detail>
+
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>Our growing practice is expanding its clinical team. An integrated approach to care helps define our clinical environment. General wellness plays an important role in the patient population we serve.</p>
+      <h4>Job Description</h4>
+      <p>The role involves direct patient care within a higher-volume clinical workflow. Clinical work includes patient evaluation, clinical decision-making, and appropriate use of the clinic's diagnostic approach alongside chiropractic treatment, with treatment adjusted as the patient progresses. A busy clinical schedule is supported by an existing support team and a comprehensive EHR, helping keep patient flow organized. The role also includes selected practice-development activities, such as health screenings, involvement with local associations, and educational talks.</p>
+      <h4>Qualifications</h4>
+      <p class="qual-intro" style="margin:.15rem 0 .55rem;">The ideal candidate will be comfortable evaluating patients, making sound clinical decisions, and delivering confident chiropractic care.</p><ul style="margin:.25rem 0 .5rem 1.1rem;"><li>Current Virginia chiropractic licensure is required; completion of required chiropractic boards/testing is also expected.</li><li>Three to five years of chiropractic experience is preferred.</li><li>Proficiency in Diversified is expected for the role, including comfort with side-posture adjusting. Experience with computerized adjusting is also valued. Experience with E-Stim and ultrasound is expected.</li><li>Comfort with neurological assessment, orthopedic testing, and X-ray assessment is important for this role.</li><li>Candidates should have definite plans to relocate to the area.</li></ul>
+      <h4>Other Information</h4>
+      <p>Compensation is $95,001 and above. Benefits include continuing education opportunities. The position also offers the potential for greater responsibility and future leadership over time. This is an immediate opening.</p>
+    ]]></description>
+  </job>
 </source>
