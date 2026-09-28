@@ -507,4 +507,48 @@
       <p>Compensation ranges from $75,001 to $85,000 annually. Health insurance is included. The position offers opportunities for professional growth, increased responsibility, and potential future leadership within the organization. This is an immediate opening.</p>
     ]]></description>
   </job>
+
+  <!-- JOB 12 - Lead Chiropractor - Clinic Operations (VA - Dale City) -->
+  <job>
+    <referencenumber><![CDATA[MJZ3NY]]></referencenumber>
+    <requisitionid><![CDATA[MJZ3NY]]></requisitionid>
+    <title><![CDATA[Lead Chiropractor - Clinic Operations]]></title>
+
+    <url><![CDATA[https://chiropracticheadhunters.com/job-html?jobId=MJZ3NY#jobId=MJZ3NY]]></url>
+    <apply_url><![CDATA[https://chiropracticheadhunters.com/candidate-start?jobId=MJZ3NY&state=VA&sid=MJZ3NY]]></apply_url>
+
+    <date><![CDATA[2026-09-28T12:00:00Z]]></date>
+
+    <location>
+      <city><![CDATA[Dale City]]></city>
+      <state><![CDATA[VA]]></state>
+      <country><![CDATA[US]]></country>
+      <postalcode><![CDATA[]]></postalcode>
+    </location>
+
+    <company><![CDATA[HS]]></company>
+    <company_url><![CDATA[https://chiropracticheadhunters.com]]></company_url>
+    <email><![CDATA[HSwoodbridge@healthsourcechiro.com]]></email>
+    <jobtype><![CDATA[full-time]]></jobtype>
+
+    <salary><![CDATA[$95,001 and above]]></salary>
+    <salary_detail>
+      <min><![CDATA[95001]]></min>
+      <max><![CDATA[95001]]></max>
+      <currency><![CDATA[USD]]></currency>
+      <unit><![CDATA[YEAR]]></unit>
+      <notes><![CDATA[$95,001 and above]]></notes>
+    </salary_detail>
+
+    <description><![CDATA[
+<h4>Company Description</h4>
+      <p>HealthSource Chiropractic is expanding its clinical leadership team. The practice combines chiropractic care, rehabilitation, and wellness services in a modern clinical setting designed around individualized patient needs. Doctors work alongside an established support team with systems in place to support both patient care and practice growth.</p>
+      <h4>Job Description</h4>
+      <p>This position is designed for an experienced chiropractor who is comfortable balancing hands-on clinical care with day-to-day leadership responsibilities. The doctor will evaluate patients, perform chiropractic adjustments, review diagnostic findings, develop care recommendations, educate patients, document progress, and modify treatment as appropriate.<br><br>Beyond direct care, the role includes helping guide clinic operations, monitoring patient-management metrics, supporting staff development, and contributing to community outreach and practice-growth activities. The doctor will also participate in or lead regular team training. A comprehensive EHR and existing support staff help maintain an organized higher-volume clinical schedule.<br><br>The typical schedule is Monday through Friday, with occasional evening or weekend availability when needed.</p>
+      <h4>Qualifications</h4>
+      <p class="qual-intro" style="margin:.15rem 0 .55rem;">The successful candidate should be clinically confident, comfortable taking initiative, and able to communicate effectively with both patients and team members. A Doctor of Chiropractic degree from an accredited chiropractic college and an active Virginia chiropractic license are required, along with a minimum of 2-3 years of chiropractic experience. The ideal candidate should have strong manual adjusting skills, including proficiency with Diversified and side-posture techniques. Experience with computerized adjusting is a plus. Candidates should also be comfortable with neurological and orthopedic evaluation, diagnostic X-ray assessment, E-Stim, and ultrasound.</p>
+      <h4>Other Information</h4>
+      <p>Compensation starts at $95,001 and above. Benefits include paid time off, company-paid continuing education, company-paid malpractice insurance, and ongoing clinical and business training.<br><br>This role offers immediate leadership responsibility with additional long-term growth opportunities. If hired, the franchisee will be the employer.</p>
+    ]]></description>
+  </job>
 </source>
